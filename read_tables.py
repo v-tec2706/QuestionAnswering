@@ -1,3 +1,4 @@
+import argparse
 import json
 
 import camelot
@@ -26,3 +27,13 @@ def parseTable(input_data, output):
     extracted_data_as_dict = [add_keys(element) for element in extracted_data_iter]
     with open(output, 'w') as output_file:
         json.dump(extracted_data_as_dict, output_file)
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--input_data', type=str)
+    parser.add_argument('--output', type=str)
+    args = parser.parse_args()
+    input = args.input_data
+    output = args.output
+    parseTable(input, output)
