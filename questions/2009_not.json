@@ -1,1052 +1,1202 @@
-{
-    "question_1": {
-        "question_number": "1.",
+[
+    {
         "question": "Zgodnie z Kodeksem cywilnym, dla osoby ubezwłasnowolnionej częściowo ustanawia się: ",
-        "first_answer": "zarząd powierniczy,  ",
-        "second_answer": "kuratelę, ",
-        "third_answer": "opiekę.    "
+        "answers": {
+            "A": "zarząd powierniczy,  ",
+            "B": "kuratelę, ",
+            "C": "opiekę.    "
+        }
     },
-    "question_2": {
-        "question_number": "2.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, umowa, która została zawarta przez osobę ograniczoną w zdolności do czynności prawnych bez wymaganej zgody przedstawiciela ustawowego:  ",
-        "first_answer": " może zostać potwierdzona przez tę osobę wyłącznie po uzyskaniu zgody sądu opiekuńczego,   ",
-        "second_answer": " nie będzie mogła być nigdy przez tę osobę potwierdzona,  ",
-        "third_answer": " może zostać potwierdzona przez tę osobę po uzyskaniu pełnej zdolności do czynności prawnych.     "
+        "answers": {
+            "A": " może zostać potwierdzona przez tę osobę wyłącznie po uzyskaniu zgody sądu opiekuńczego,   ",
+            "B": " nie będzie mogła być nigdy przez tę osobę potwierdzona,  ",
+            "C": " może zostać potwierdzona przez tę osobę po uzyskaniu pełnej zdolności do czynności prawnych.     "
+        }
     },
-    "question_3": {
-        "question_number": "3.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, miejscem zamieszkania pełnoletniej osoby fizycznej,  nie pozostającej pod opieką, jest: ",
-        "first_answer": " miejscowość, w której osoba ta przebywa, bez względu na zamiar stałego pobytu,  ",
-        "second_answer": " miejscowość, w której osoba ta przebywa z zamiarem stałego pobytu,  ",
-        "third_answer": " zawsze miejscowość, w której osoba ta przebywa przez okres dłuższy niż 3 miesiące.     "
+        "answers": {
+            "A": " miejscowość, w której osoba ta przebywa, bez względu na zamiar stałego pobytu,  ",
+            "B": " miejscowość, w której osoba ta przebywa z zamiarem stałego pobytu,  ",
+            "C": " zawsze miejscowość, w której osoba ta przebywa przez okres dłuższy niż 3 miesiące.     "
+        }
     },
-    "question_4": {
-        "question_number": "4.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, w razie wydania przez sąd prawomocnego orzeczenia  o uznaniu zaginionego za zmarłego, domniemywa się, że zaginiony zmarł w chwili:   ",
-        "first_answer": " złożenia wniosku o uznanie go za zmarłego,  ",
-        "second_answer": " uprawomocnienia się orzeczenia o uznaniu go za zmarłego,    ",
-        "third_answer": " oznaczonej w orzeczeniu o uznaniu go za zmarłego.    "
+        "answers": {
+            "A": " złożenia wniosku o uznanie go za zmarłego,  ",
+            "B": " uprawomocnienia się orzeczenia o uznaniu go za zmarłego,    ",
+            "C": " oznaczonej w orzeczeniu o uznaniu go za zmarłego.    "
+        }
     },
-    "question_5": {
-        "question_number": "5.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, państwowe osoby prawne za zobowiązania Skarbu Państwa:  ",
-        "first_answer": "ponoszą odpowiedzialność, chyba że przepis odrębny stanowi inaczej,  ",
-        "second_answer": "nie ponoszą odpowiedzialności,  ",
-        "third_answer": "zawsze ponoszą odpowiedzialność.    "
+        "answers": {
+            "A": "ponoszą odpowiedzialność, chyba że przepis odrębny stanowi inaczej,  ",
+            "B": "nie ponoszą odpowiedzialności,  ",
+            "C": "zawsze ponoszą odpowiedzialność.    "
+        }
     },
-    "question_6": {
-        "question_number": "6.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, jeżeli osoba prawna nie może prowadzić swoich spraw  z braku powołanych do tego organów:  ",
-        "first_answer": " organ założycielski ustanawia dla niej kuratora, ",
-        "second_answer": " sąd ustanawia dla niej kuratora,  ",
-        "third_answer": " sąd wskazuje dla niej pełnomocnika.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 2   "
+        "answers": {
+            "A": " organ założycielski ustanawia dla niej kuratora, ",
+            "B": " sąd ustanawia dla niej kuratora,  ",
+            "C": " sąd wskazuje dla niej pełnomocnika.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 2   "
+        }
     },
-    "question_7": {
-        "question_number": "7.",
+    {
         "question": "W rozumieniu Kodeksu cywilnego, rzeczami są: ",
-        "first_answer": "przedmioty materialne i ustanowione na nich prawa,  ",
-        "second_answer": "tylko przedmioty materialne, ",
-        "third_answer": "przedmioty materialne i energia.     "
+        "answers": {
+            "A": "przedmioty materialne i ustanowione na nich prawa,  ",
+            "B": "tylko przedmioty materialne, ",
+            "C": "przedmioty materialne i energia.     "
+        }
     },
-    "question_8": {
-        "question_number": "8.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, prawa związane z własnością nieruchomości uważa  się za:  ",
-        "first_answer": " części składowe nieruchomości,  ",
-        "second_answer": " przynależności nieruchomości,  ",
-        "third_answer": " pożytki prawa z nieruchomości.      "
+        "answers": {
+            "A": " części składowe nieruchomości,  ",
+            "B": " przynależności nieruchomości,  ",
+            "C": " pożytki prawa z nieruchomości.      "
+        }
     },
-    "question_9": {
-        "question_number": "9.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, za gospodarstwo rolne uważa się:  ",
-        "first_answer": " grunty rolne wraz z gruntami leśnymi, budynkami lub ich częściami, urządzeniami  i inwentarzem, jeżeli stanowią lub mogą stanowić zorganizowaną całość gospodarczą, oraz prawami związanymi z prowadzeniem gospodarstwa rolnego, ",
-        "second_answer": " wyłącznie nieruchomości rolne o obszarze powyżej 1 ha, które są lub mogą być wykorzystywane do prowadzenia działalności wytwórczej w rolnictwie, ",
-        "third_answer": " wyłącznie użytki rolne wraz z urządzeniami, inwentarzem i budynkami, w których rolnik ma miejsce zamieszkania.    "
+        "answers": {
+            "A": " grunty rolne wraz z gruntami leśnymi, budynkami lub ich częściami, urządzeniami  i inwentarzem, jeżeli stanowią lub mogą stanowić zorganizowaną całość gospodarczą, oraz prawami związanymi z prowadzeniem gospodarstwa rolnego, ",
+            "B": " wyłącznie nieruchomości rolne o obszarze powyżej 1 ha, które są lub mogą być wykorzystywane do prowadzenia działalności wytwórczej w rolnictwie, ",
+            "C": " wyłącznie użytki rolne wraz z urządzeniami, inwentarzem i budynkami, w których rolnik ma miejsce zamieszkania.    "
+        }
     },
-    "question_10": {
-        "question_number": "10.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, oświadczenie woli wyrażone w postaci elektronicznej jest złożone innej osobie z chwilą, gdy:  ",
-        "first_answer": "osoba ta potwierdzi, że zapoznała się z treścią złożonego jej oświadczenia, ",
-        "second_answer": " wprowadzono je do środka komunikacji elektronicznej w taki sposób, żeby osoba ta mogła zapoznać się z jego treścią, ",
-        "third_answer": " osoba ta oświadczy, że przyjmuje to oświadczenie.    "
+        "answers": {
+            "A": "osoba ta potwierdzi, że zapoznała się z treścią złożonego jej oświadczenia, ",
+            "B": " wprowadzono je do środka komunikacji elektronicznej w taki sposób, żeby osoba ta mogła zapoznać się z jego treścią, ",
+            "C": " osoba ta oświadczy, że przyjmuje to oświadczenie.    "
+        }
     },
-    "question_11": {
-        "question_number": "11.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, zbycie przedsiębiorstwa powinno być dokonane  w formie:  ",
-        "first_answer": " pisemnej pod rygorem nieważności, o ile nie uchybia to przepisom o formie czynności prawnych dotyczących nieruchomości, ",
-        "second_answer": " pisemnej z podpisami notarialnie poświadczonymi, o ile nie uchybia to przepisom  o formie czynności prawnych dotyczących nieruchomości,  ",
-        "third_answer": " pisemnej dla celów dowodowych, o ile nie uchybia to przepisom o formie czynności prawnych dotyczących nieruchomości.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 3  "
+        "answers": {
+            "A": " pisemnej pod rygorem nieważności, o ile nie uchybia to przepisom o formie czynności prawnych dotyczących nieruchomości, ",
+            "B": " pisemnej z podpisami notarialnie poświadczonymi, o ile nie uchybia to przepisom  o formie czynności prawnych dotyczących nieruchomości,  ",
+            "C": " pisemnej dla celów dowodowych, o ile nie uchybia to przepisom o formie czynności prawnych dotyczących nieruchomości.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 3  "
+        }
     },
-    "question_12": {
-        "question_number": "12.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, oświadczenie woli o udzieleniu pełnomocnictwa ogólnego złożone przez osobę nie mogącą czytać, powinno być złożone: ",
-        "first_answer": " w formie pisemnej,  ",
-        "second_answer": " w formie pisemnej z podpisem notarialnie poświadczonym,  ",
-        "third_answer": " w formie aktu notarialnego.    "
+        "answers": {
+            "A": " w formie pisemnej,  ",
+            "B": " w formie pisemnej z podpisem notarialnie poświadczonym,  ",
+            "C": " w formie aktu notarialnego.    "
+        }
     },
-    "question_13": {
-        "question_number": "13.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, warunek niemożliwy pociąga za sobą nieważność czynności prawnej:  ",
-        "first_answer": " gdy jest zawieszający,  ",
-        "second_answer": " gdy jest rozwiązujący,  ",
-        "third_answer": " zarówno wówczas, gdy jest zawieszający, jak i gdy jest rozwiązujący.   "
+        "answers": {
+            "A": " gdy jest zawieszający,  ",
+            "B": " gdy jest rozwiązujący,  ",
+            "C": " zarówno wówczas, gdy jest zawieszający, jak i gdy jest rozwiązujący.   "
+        }
     },
-    "question_14": {
-        "question_number": "14.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, jeżeli do ważności czynności prawnej dokonywanej  w imieniu osoby niebędącej przedsiębiorcą potrzebna jest szczególna forma, pełnomocnictwo do dokonania tej czynności powinno być udzielone: ",
-        "first_answer": " zawsze na piśmie,  ",
-        "second_answer": " w tej samej szczególnej formie,  ",
-        "third_answer": " zawsze w formie aktu notarialnego.    "
+        "answers": {
+            "A": " zawsze na piśmie,  ",
+            "B": " w tej samej szczególnej formie,  ",
+            "C": " zawsze w formie aktu notarialnego.    "
+        }
     },
-    "question_15": {
-        "question_number": "15.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, okoliczność, że pełnomocnik jest ograniczony  w zdolności do czynności prawnych:  ",
-        "first_answer": " skutkuje koniecznością potwierdzenia przez mocodawcę czynności dokonanej  w jego imieniu przez pełnomocnika, ",
-        "second_answer": " skutkuje koniecznością potwierdzenia przez pełnomocnika, po osiągnięciu przez niego pełnej zdolności do czynności prawnych, czynności dokonanej w imieniu mocodawcy, ",
-        "third_answer": " nie ma wpływu na ważność czynności dokonanej przez niego w imieniu mocodawcy.   "
+        "answers": {
+            "A": " skutkuje koniecznością potwierdzenia przez mocodawcę czynności dokonanej  w jego imieniu przez pełnomocnika, ",
+            "B": " skutkuje koniecznością potwierdzenia przez pełnomocnika, po osiągnięciu przez niego pełnej zdolności do czynności prawnych, czynności dokonanej w imieniu mocodawcy, ",
+            "C": " nie ma wpływu na ważność czynności dokonanej przez niego w imieniu mocodawcy.   "
+        }
     },
-    "question_16": {
-        "question_number": "16.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, umowa zawarta przez pełnomocnika, działającego  w granicach pierwotnego umocowania, ale po wygaśnięciu umocowania: ",
-        "first_answer": " jest zawsze ważna,   ",
-        "second_answer": " jest ważna, chyba że druga strona umowy o wygaśnięciu umocowania wiedziała lub  z łatwością mogła się dowiedzieć,  ",
-        "third_answer": " jest zawsze nieważna.      \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 4  "
+        "answers": {
+            "A": " jest zawsze ważna,   ",
+            "B": " jest ważna, chyba że druga strona umowy o wygaśnięciu umocowania wiedziała lub  z łatwością mogła się dowiedzieć,  ",
+            "C": " jest zawsze nieważna.      \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 4  "
+        }
     },
-    "question_17": {
-        "question_number": "17.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, prokurent może zbyć przedsiębiorstwo spółki, której jest prokurentem:  ",
-        "first_answer": " tylko na podstawie pełnomocnictwa do tej czynności,  ",
-        "second_answer": " na podstawie samej prokury, ",
-        "third_answer": " na podstawie samej prokury z podpisem notarialnie poświadczonym.    "
+        "answers": {
+            "A": " tylko na podstawie pełnomocnictwa do tej czynności,  ",
+            "B": " na podstawie samej prokury, ",
+            "C": " na podstawie samej prokury z podpisem notarialnie poświadczonym.    "
+        }
     },
-    "question_18": {
-        "question_number": "18.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, prokura:  ",
-        "first_answer": " zawsze może być przeniesiona, ",
-        "second_answer": " nie może być przeniesiona,  ",
-        "third_answer": " może być przeniesiona, o ile wynika to z treści prokury.   "
+        "answers": {
+            "A": " zawsze może być przeniesiona, ",
+            "B": " nie może być przeniesiona,  ",
+            "C": " może być przeniesiona, o ile wynika to z treści prokury.   "
+        }
     },
-    "question_19": {
-        "question_number": "19.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, przez czynność prawną terminy przedawnienia roszczeń: ",
-        "first_answer": " mogą być skracane i przedłużane,  ",
-        "second_answer": " mogą być skracane, ale nie mogą być przedłużane,  ",
-        "third_answer": " nie mogą być skracane ani przedłużane.   "
+        "answers": {
+            "A": " mogą być skracane i przedłużane,  ",
+            "B": " mogą być skracane, ale nie mogą być przedłużane,  ",
+            "C": " nie mogą być skracane ani przedłużane.   "
+        }
     },
-    "question_20": {
-        "question_number": "20.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, nabycie przez zasiedzenie własności nieruchomości przez jej posiadacza samoistnego, który po dniu 1 października 1990 r. uzyskał posiadanie w złej wierze następuje po upływie:  ",
-        "first_answer": " trzydziestu lat nieprzerwanego posiadania samoistnego,  ",
-        "second_answer": " dwudziestu lat nieprzerwanego posiadania samoistnego, ",
-        "third_answer": " dziesięciu lat nieprzerwanego posiadania samoistnego.    "
+        "answers": {
+            "A": " trzydziestu lat nieprzerwanego posiadania samoistnego,  ",
+            "B": " dwudziestu lat nieprzerwanego posiadania samoistnego, ",
+            "C": " dziesięciu lat nieprzerwanego posiadania samoistnego.    "
+        }
     },
-    "question_21": {
-        "question_number": "21.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, jeżeli właściciel nieruchomości, przeciwko któremu biegnie zasiedzenie jest małoletni, zasiedzenie:  ",
-        "first_answer": " nie może skończyć się wcześniej niż z upływem dwóch lat od uzyskania pełnoletności przez właściciela,  ",
-        "second_answer": " nie może skończyć się wcześniej niż z upływem trzech lat od uzyskania pełnoletności przez właściciela, ",
-        "third_answer": " nastąpi z chwilą uzyskania pełnoletności przez właściciela.         \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 5  "
+        "answers": {
+            "A": " nie może skończyć się wcześniej niż z upływem dwóch lat od uzyskania pełnoletności przez właściciela,  ",
+            "B": " nie może skończyć się wcześniej niż z upływem trzech lat od uzyskania pełnoletności przez właściciela, ",
+            "C": " nastąpi z chwilą uzyskania pełnoletności przez właściciela.         \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 5  "
+        }
     },
-    "question_22": {
-        "question_number": "22.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, budynki wzniesione zgodnie z umową użytkowania wieczystego przez wieczystego użytkownika na gruncie Skarbu Państwa oddanym mu  w użytkowanie wieczyste, w czasie trwania tego prawa: ",
-        "first_answer": "stanowią własność użytkownika wieczystego lub Skarbu Państwa w zależności od treści umowy użytkowania wieczystego, ",
-        "second_answer": "stanowią własność Skarbu Państwa, ",
-        "third_answer": "stanowią własność użytkownika wieczystego.   "
+        "answers": {
+            "A": "stanowią własność użytkownika wieczystego lub Skarbu Państwa w zależności od treści umowy użytkowania wieczystego, ",
+            "B": "stanowią własność Skarbu Państwa, ",
+            "C": "stanowią własność użytkownika wieczystego.   "
+        }
     },
-    "question_23": {
-        "question_number": "23.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, w wypadkach wyjątkowych, gdy cel gospodarczy użytkowania wieczystego nie wymaga oddania gruntu w użytkowanie wieczyste  na dziewięćdziesiąt dziewięć lat, dopuszczalne jest oddanie gruntu na okres krótszy,  co najmniej jednak: ",
-        "first_answer": " na lat 40, ",
-        "second_answer": " na lat 50, ",
-        "third_answer": " na lat 60.    "
+        "answers": {
+            "A": " na lat 40, ",
+            "B": " na lat 50, ",
+            "C": " na lat 60.    "
+        }
     },
-    "question_24": {
-        "question_number": "24.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym i ustawą o gospodarce nieruchomościami, przeniesienie prawa użytkowania wieczystego nieruchomości gruntowej w drodze umowy, wymaga:  ",
-        "first_answer": " wyłącznie zawarcia umowy w formie aktu notarialnego,  ",
-        "second_answer": " zawarcia umowy w formie aktu notarialnego i wpisu w księdze wieczystej,  ",
-        "third_answer": " wyłącznie zawarcia umowy w formie aktu notarialnego i wydania nieruchomości nabywcy.     "
+        "answers": {
+            "A": " wyłącznie zawarcia umowy w formie aktu notarialnego,  ",
+            "B": " zawarcia umowy w formie aktu notarialnego i wpisu w księdze wieczystej,  ",
+            "C": " wyłącznie zawarcia umowy w formie aktu notarialnego i wydania nieruchomości nabywcy.     "
+        }
     },
-    "question_25": {
-        "question_number": "25.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, wykonywanie użytkowania nieruchomości:  ",
-        "first_answer": " można ograniczyć do jej oznaczonej części, ",
-        "second_answer": " musi być ograniczone do jej oznaczonej części, ",
-        "third_answer": " nie można ograniczyć do jej oznaczonej części.    "
+        "answers": {
+            "A": " można ograniczyć do jej oznaczonej części, ",
+            "B": " musi być ograniczone do jej oznaczonej części, ",
+            "C": " nie można ograniczyć do jej oznaczonej części.    "
+        }
     },
-    "question_26": {
-        "question_number": "26.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, służebność osobista:  ",
-        "first_answer": " może być nabyta przez zasiedzenie,  ",
-        "second_answer": " może być nabyta przez zasiedzenie, ale tylko, gdy uprawniony jest w dobrej wierze, ",
-        "third_answer": " nie może być nabyta przez zasiedzenie.     "
+        "answers": {
+            "A": " może być nabyta przez zasiedzenie,  ",
+            "B": " może być nabyta przez zasiedzenie, ale tylko, gdy uprawniony jest w dobrej wierze, ",
+            "C": " nie może być nabyta przez zasiedzenie.     "
+        }
     },
-    "question_27": {
-        "question_number": "27.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, za szkodę wyrządzoną czynem niedozwolonym, małoletni, który nie ukończył lat 13: ",
-        "first_answer": "nie ponosi odpowiedzialności, ",
-        "second_answer": "ponosi odpowiedzialność bez żadnych ograniczeń, ",
-        "third_answer": "ponosi odpowiedzialność tylko za szkodę na osobie. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 6  "
+        "answers": {
+            "A": "nie ponosi odpowiedzialności, ",
+            "B": "ponosi odpowiedzialność bez żadnych ograniczeń, ",
+            "C": "ponosi odpowiedzialność tylko za szkodę na osobie. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 6  "
+        }
     },
-    "question_28": {
-        "question_number": "28.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, jeżeli termin zwrotu pożyczki nie został w umowie oznaczony, dłużnik obowiązany jest zwrócić pożyczkę po wypowiedzeniu przez dającego pożyczkę: ",
-        "first_answer": " niezwłocznie, ",
-        "second_answer": " w ciągu dwóch tygodni, ",
-        "third_answer": " w ciągu sześciu tygodni.   "
+        "answers": {
+            "A": " niezwłocznie, ",
+            "B": " w ciągu dwóch tygodni, ",
+            "C": " w ciągu sześciu tygodni.   "
+        }
     },
-    "question_29": {
-        "question_number": "29.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, jeżeli strony umowy zlecenia nie określiły przyczyn wygaśnięcia umowy, zlecenie wygasa: ",
-        "first_answer": " wskutek śmierci dającego zlecenie, ",
-        "second_answer": " wskutek śmierci przyjmującego zlecenie, ",
-        "third_answer": " wskutek utraty przez dającego zlecenie pełnej zdolności do czynności prawnych.   "
+        "answers": {
+            "A": " wskutek śmierci dającego zlecenie, ",
+            "B": " wskutek śmierci przyjmującego zlecenie, ",
+            "C": " wskutek utraty przez dającego zlecenie pełnej zdolności do czynności prawnych.   "
+        }
     },
-    "question_30": {
-        "question_number": "30.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, za zobowiązania spółki cywilnej wobec osób trzecich jej wspólnicy odpowiadają: ",
-        "first_answer": " w stosunku do wielkości udziałów w spółce, ",
-        "second_answer": " do wysokości wniesionego wkładu w spółce, ",
-        "third_answer": "solidarnie.    "
+        "answers": {
+            "A": " w stosunku do wielkości udziałów w spółce, ",
+            "B": " do wysokości wniesionego wkładu w spółce, ",
+            "C": "solidarnie.    "
+        }
     },
-    "question_31": {
-        "question_number": "31.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, jeżeli darczyńca skutecznie odwołał darowiznę, zwrot jej przedmiotu powinien nastąpić stosownie do przepisów o: ",
-        "first_answer": " bezpodstawnym wzbogaceniu, ",
-        "second_answer": " czynach niedozwolonych, ",
-        "third_answer": " dożywociu.   "
+        "answers": {
+            "A": " bezpodstawnym wzbogaceniu, ",
+            "B": " czynach niedozwolonych, ",
+            "C": " dożywociu.   "
+        }
     },
-    "question_32": {
-        "question_number": "32.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, jeżeli strony, które zawarły umowę renty pieniężnej  nie oznaczyły w umowie terminów płatności renty, rentę tę należy płacić: ",
-        "first_answer": " miesięcznie z dołu, ",
-        "second_answer": " miesięcznie z góry, ",
-        "third_answer": " w terminach wynikających z celu renty.   "
+        "answers": {
+            "A": " miesięcznie z dołu, ",
+            "B": " miesięcznie z góry, ",
+            "C": " w terminach wynikających z celu renty.   "
+        }
     },
-    "question_33": {
-        "question_number": "33.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, prawo dożywocia jest: ",
-        "first_answer": " niezbywalne, ",
-        "second_answer": " zbywalne, ",
-        "third_answer": " zbywalne i może być przedmiotem zastawu.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 7  "
+        "answers": {
+            "A": " niezbywalne, ",
+            "B": " zbywalne, ",
+            "C": " zbywalne i może być przedmiotem zastawu.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 7  "
+        }
     },
-    "question_34": {
-        "question_number": "34.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, spadkobierca testamentowy nabywa spadek z chwilą: ",
-        "first_answer": " wydania przez sąd orzeczenia o stwierdzeniu nabycia spadku lub sporządzenia przez notariusza aktu poświadczenia dziedziczenia, ",
-        "second_answer": " śmierci spadkodawcy, ",
-        "third_answer": " otwarcia i ogłoszenia testamentu.    "
+        "answers": {
+            "A": " wydania przez sąd orzeczenia o stwierdzeniu nabycia spadku lub sporządzenia przez notariusza aktu poświadczenia dziedziczenia, ",
+            "B": " śmierci spadkodawcy, ",
+            "C": " otwarcia i ogłoszenia testamentu.    "
+        }
     },
-    "question_35": {
-        "question_number": "35.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, uznania spadkobiercy za niegodnego może żądać: ",
-        "first_answer": " tylko spadkobierca ustawowy,  ",
-        "second_answer": " tylko spadkobierca ustawowy lub testamentowy,  ",
-        "third_answer": " każdy, kto ma w tym interes.   "
+        "answers": {
+            "A": " tylko spadkobierca ustawowy,  ",
+            "B": " tylko spadkobierca ustawowy lub testamentowy,  ",
+            "C": " każdy, kto ma w tym interes.   "
+        }
     },
-    "question_36": {
-        "question_number": "36.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, do małżonka spadkodawcy pozostającego w separacji orzeczonej prawomocnie przez sąd: ",
-        "first_answer": "stosuje się przepisy o powołaniu do dziedziczenia z ustawy,  ",
-        "second_answer": "nie stosuje się przepisów o powołaniu do dziedziczenia z ustawy,  ",
-        "third_answer": "stosuje się przepisy o powołaniu do dziedziczenia z ustawy, chyba że separacja została orzeczona z winy małżonka spadkodawcy.    "
+        "answers": {
+            "A": "stosuje się przepisy o powołaniu do dziedziczenia z ustawy,  ",
+            "B": "nie stosuje się przepisów o powołaniu do dziedziczenia z ustawy,  ",
+            "C": "stosuje się przepisy o powołaniu do dziedziczenia z ustawy, chyba że separacja została orzeczona z winy małżonka spadkodawcy.    "
+        }
     },
-    "question_37": {
-        "question_number": "37.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, testament może zawierać rozrządzenia: ",
-        "first_answer": " dowolnej liczby spadkodawców,  ",
-        "second_answer": " dwóch i więcej spadkodawców, o ile rozrządzenie testamentowe dotyczy ich majątku wspólnego,  ",
-        "third_answer": " tylko jednego spadkodawcy.    "
+        "answers": {
+            "A": " dowolnej liczby spadkodawców,  ",
+            "B": " dwóch i więcej spadkodawców, o ile rozrządzenie testamentowe dotyczy ich majątku wspólnego,  ",
+            "C": " tylko jednego spadkodawcy.    "
+        }
     },
-    "question_38": {
-        "question_number": "38.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, testament może sporządzić:  ",
-        "first_answer": " osoba, która nie ukończyła 13 roku życia, działająca przez przedstawiciela ustawowego  za zgodą sądu opiekuńczego,  ",
-        "second_answer": " osoba mająca ograniczoną zdolność do czynności prawnych, za zgodą przedstawiciela ustawowego po uzyskaniu przez niego zgody sądu opiekuńczego, ",
-        "third_answer": " tylko osoba mająca pełną zdolność do czynności prawnych.        \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 8  "
+        "answers": {
+            "A": " osoba, która nie ukończyła 13 roku życia, działająca przez przedstawiciela ustawowego  za zgodą sądu opiekuńczego,  ",
+            "B": " osoba mająca ograniczoną zdolność do czynności prawnych, za zgodą przedstawiciela ustawowego po uzyskaniu przez niego zgody sądu opiekuńczego, ",
+            "C": " tylko osoba mająca pełną zdolność do czynności prawnych.        \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 8  "
+        }
     },
-    "question_39": {
-        "question_number": "39.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, jeżeli spadkodawca powołał kilku spadkobierców testamentowych, a jeden z nich nie chce lub nie może być spadkobiercą, przeznaczony dla niego udział, w braku odmiennej woli spadkodawcy: ",
-        "first_answer": " przypada pozostałym spadkobiercom testamentowym w stosunku do przypadających  im udziałów,  ",
-        "second_answer": " przypada zawsze w częściach równych dzieciom osoby, która nie chce lub nie może być spadkobiercą, przy czym tę zasadę stosuje się odpowiednio do dalszych zstępnych,  ",
-        "third_answer": " podlega dziedziczeniu ustawowemu.   "
+        "answers": {
+            "A": " przypada pozostałym spadkobiercom testamentowym w stosunku do przypadających  im udziałów,  ",
+            "B": " przypada zawsze w częściach równych dzieciom osoby, która nie chce lub nie może być spadkobiercą, przy czym tę zasadę stosuje się odpowiednio do dalszych zstępnych,  ",
+            "C": " podlega dziedziczeniu ustawowemu.   "
+        }
     },
-    "question_40": {
-        "question_number": "40.",
+    {
         "question": "Zgodnie z ustawą o księgach wieczystych i hipotece, zastrzeżenie, przez które właściciel nieruchomości zobowiązuje się względem wierzyciela hipotecznego, że nie dokona zbycia nieruchomości przed wygaśnięciem hipoteki jest: ",
-        "first_answer": " dopuszczalne bez żadnych ograniczeń,  ",
-        "second_answer": " dopuszczalne pod warunkiem wpisu tego zastrzeżenia do księgi wieczystej,  ",
-        "third_answer": " niedopuszczalne.    "
+        "answers": {
+            "A": " dopuszczalne bez żadnych ograniczeń,  ",
+            "B": " dopuszczalne pod warunkiem wpisu tego zastrzeżenia do księgi wieczystej,  ",
+            "C": " niedopuszczalne.    "
+        }
     },
-    "question_41": {
-        "question_number": "41.",
+    {
         "question": "Zgodnie z ustawą o gospodarce nieruchomościami, decyzję zatwierdzającą podział nieruchomości może wydać:  ",
-        "first_answer": " wójt, burmistrz albo prezydent miasta,  ",
-        "second_answer": " wojewoda,  ",
-        "third_answer": " starosta.   "
+        "answers": {
+            "A": " wójt, burmistrz albo prezydent miasta,  ",
+            "B": " wojewoda,  ",
+            "C": " starosta.   "
+        }
     },
-    "question_42": {
-        "question_number": "42.",
+    {
         "question": "Zgodnie z ustawą o gospodarce nieruchomościami, przewidziane w tej ustawie prawo pierwokupu przysługujące gminie, może być wykonane w terminie:  ",
-        "first_answer": " miesiąca od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży, ",
-        "second_answer": " dwóch miesięcy od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży,  ",
-        "third_answer": " trzech miesięcy od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży.   "
+        "answers": {
+            "A": " miesiąca od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży, ",
+            "B": " dwóch miesięcy od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży,  ",
+            "C": " trzech miesięcy od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży.   "
+        }
     },
-    "question_43": {
-        "question_number": "43.",
+    {
         "question": "Zgodnie z ustawą o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, sprzedaż nieruchomości rolnej przez ",
-        "first_answer": " 500 ha,  ",
-        "second_answer": " 800 ha, ",
-        "third_answer": " 1.000 ha. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 9  "
+        "answers": {
+            "A": " 500 ha,  ",
+            "B": " 800 ha, ",
+            "C": " 1.000 ha. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 9  "
+        }
     },
-    "question_44": {
-        "question_number": "44.",
+    {
         "question": "Zgodnie z ustawą o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa,  przy odsprzedaży nieruchomości przez osobę, która nabyła tę nieruchomość od ",
-        "first_answer": " bez ograniczenia czasowego,  ",
-        "second_answer": " w okresie 5 lat od nabycia tej nieruchomości od Agencji,  ",
-        "third_answer": " w okresie 10 lat od nabycia tej nieruchomości od Agencji.    "
+        "answers": {
+            "A": " bez ograniczenia czasowego,  ",
+            "B": " w okresie 5 lat od nabycia tej nieruchomości od Agencji,  ",
+            "C": " w okresie 10 lat od nabycia tej nieruchomości od Agencji.    "
+        }
     },
-    "question_45": {
-        "question_number": "45.",
+    {
         "question": "Zgodnie z ustawą o własności lokali, do samodzielnego lokalu mieszkalnego mogą przynależeć, jako jego części składowe, pomieszczenia:  ",
-        "first_answer": " choćby nawet do niego bezpośrednio nie przylegały lub były położone w granicach nieruchomości gruntowej poza budynkiem, w którym wyodrębniono dany lokal,  ",
-        "second_answer": " wyłącznie znajdujące się w budynku, w którym wyodrębniono ten lokal,  ",
-        "third_answer": " wyłącznie bezpośrednio przylegające do tego lokalu.    "
+        "answers": {
+            "A": " choćby nawet do niego bezpośrednio nie przylegały lub były położone w granicach nieruchomości gruntowej poza budynkiem, w którym wyodrębniono dany lokal,  ",
+            "B": " wyłącznie znajdujące się w budynku, w którym wyodrębniono ten lokal,  ",
+            "C": " wyłącznie bezpośrednio przylegające do tego lokalu.    "
+        }
     },
-    "question_46": {
-        "question_number": "46.",
+    {
         "question": "Zgodnie z ustawą o nabywaniu nieruchomości przez cudzoziemców, zezwolenie na nabycie nieruchomości przez cudzoziemca, wydaje w drodze decyzji administracyjnej, przy braku sprzeciwu właściwych organów:  ",
-        "first_answer": " minister właściwy do spraw wewnętrznych,  ",
-        "second_answer": " Minister Skarbu Państwa, ",
-        "third_answer": " Minister Spraw Zagranicznych.    "
+        "answers": {
+            "A": " minister właściwy do spraw wewnętrznych,  ",
+            "B": " Minister Skarbu Państwa, ",
+            "C": " Minister Spraw Zagranicznych.    "
+        }
     },
-    "question_47": {
-        "question_number": "47.",
+    {
         "question": "Zgodnie z ustawą o spółdzielniach mieszkaniowych, spółdzielcze lokatorskie prawo  do lokalu mieszkalnego nie może przysługiwać: ",
-        "first_answer": " osobie fizycznej, ",
-        "second_answer": " małżonkom, ",
-        "third_answer": " osobie prawnej.    "
+        "answers": {
+            "A": " osobie fizycznej, ",
+            "B": " małżonkom, ",
+            "C": " osobie prawnej.    "
+        }
     },
-    "question_48": {
-        "question_number": "48.",
+    {
         "question": "Zgodnie z ustawą o spółdzielniach mieszkaniowych, spółdzielcze lokatorskie prawo  do lokalu mieszkalnego: ",
-        "first_answer": "jest niezbywalne, ",
-        "second_answer": "przechodzi na spadkobierców, ",
-        "third_answer": "podlega egzekucji.      \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 10  "
+        "answers": {
+            "A": "jest niezbywalne, ",
+            "B": "przechodzi na spadkobierców, ",
+            "C": "podlega egzekucji.      \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 10  "
+        }
     },
-    "question_49": {
-        "question_number": "49.",
+    {
         "question": "Zgodnie z ustawą o spółdzielniach mieszkaniowych, przedmiotem zbycia może być:  ",
-        "first_answer": " ułamkowa część spółdzielczego własnościowego prawa do lokalu,  ",
-        "second_answer": " ułamkowa część spółdzielczego własnościowego prawa do lokalu, pod warunkiem,  że dla tego prawa jest założona księga wieczysta,   ",
-        "third_answer": " wyłącznie spółdzielcze własnościowe prawo do lokalu w całości.    "
+        "answers": {
+            "A": " ułamkowa część spółdzielczego własnościowego prawa do lokalu,  ",
+            "B": " ułamkowa część spółdzielczego własnościowego prawa do lokalu, pod warunkiem,  że dla tego prawa jest założona księga wieczysta,   ",
+            "C": " wyłącznie spółdzielcze własnościowe prawo do lokalu w całości.    "
+        }
     },
-    "question_50": {
-        "question_number": "50.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, sprawy o ustanowienie rozdzielności majątkowej między małżonkami w pierwszej instancji należą do właściwości rzeczowej sądów: ",
-        "first_answer": " rejonowych, ",
-        "second_answer": " okręgowych, ",
-        "third_answer": "rejonowych albo okręgowych w zależności od wartości przedmiotu sporu.   "
+        "answers": {
+            "A": " rejonowych, ",
+            "B": " okręgowych, ",
+            "C": "rejonowych albo okręgowych w zależności od wartości przedmiotu sporu.   "
+        }
     },
-    "question_51": {
-        "question_number": "51.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, kto ma interes prawny w tym,  aby sprawa została rozstrzygnięta na korzyść jednej ze stron, może w każdym stanie sprawy przystąpić do tej strony w charakterze interwenienta ubocznego: ",
-        "first_answer": "najpóźniej do zamknięcia rozprawy w pierwszej instancji, ",
-        "second_answer": " najpóźniej do rozpoczęcia rozprawy w drugiej instancji, ",
-        "third_answer": " najpóźniej do zamknięcia rozprawy w drugiej instancji.   "
+        "answers": {
+            "A": "najpóźniej do zamknięcia rozprawy w pierwszej instancji, ",
+            "B": " najpóźniej do rozpoczęcia rozprawy w drugiej instancji, ",
+            "C": " najpóźniej do zamknięcia rozprawy w drugiej instancji.   "
+        }
     },
-    "question_52": {
-        "question_number": "52.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, spóźniony lub z mocy ustawy niedopuszczalny wniosek o przywróceniu terminu do dokonania czynności procesowej, sąd: ",
-        "first_answer": " oddali, ",
-        "second_answer": " odrzuci, ",
-        "third_answer": " zwróci.     "
+        "answers": {
+            "A": " oddali, ",
+            "B": " odrzuci, ",
+            "C": " zwróci.     "
+        }
     },
-    "question_53": {
-        "question_number": "53.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, jeżeli w toku procesu o zapłatę toczącego się przed sądem pierwszej instancji, ogłoszono upadłość obejmującą likwidację majątku pozwanego, a postępowanie dotyczy masy upadłości: ",
-        "first_answer": " sąd wydaje postanowienie o umorzeniu postępowania, ",
-        "second_answer": " sąd wydaje postanowienie o zawieszeniu postępowania, ",
-        "third_answer": " postępowanie ulega zawieszeniu z mocy prawa.      \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 11  "
+        "answers": {
+            "A": " sąd wydaje postanowienie o umorzeniu postępowania, ",
+            "B": " sąd wydaje postanowienie o zawieszeniu postępowania, ",
+            "C": " postępowanie ulega zawieszeniu z mocy prawa.      \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 11  "
+        }
     },
-    "question_54": {
-        "question_number": "54.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, pozwany, przeciwko któremu zapadł wyrok zaoczny, może w ciągu tygodnia od doręczenia mu wyroku złożyć: ",
-        "first_answer": "skargę, ",
-        "second_answer": "sprzeciw, ",
-        "third_answer": "apelację.   "
+        "answers": {
+            "A": "skargę, ",
+            "B": "sprzeciw, ",
+            "C": "apelację.   "
+        }
     },
-    "question_55": {
-        "question_number": "55.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, właściwym do rozpoznania skargi  o stwierdzenie niezgodności z prawem prawomocnego orzeczenia sądu drugiej instancji jest: ",
-        "first_answer": " sąd, który wydał orzeczenie w drugiej instancji, ",
-        "second_answer": " zawsze sąd apelacyjny, ",
-        "third_answer": " Sąd Najwyższy.   "
+        "answers": {
+            "A": " sąd, który wydał orzeczenie w drugiej instancji, ",
+            "B": " zawsze sąd apelacyjny, ",
+            "C": " Sąd Najwyższy.   "
+        }
     },
-    "question_56": {
-        "question_number": "56.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, w postępowaniu odrębnym w sprawach gospodarczych powództwo wzajemne: ",
-        "first_answer": " jest dopuszczalne, jeżeli opiera się na dokumentach, ",
-        "second_answer": " jest dopuszczalne, jeżeli objęte nim roszczenia nadają się do rozpoznania w tym postępowaniu, ",
-        "third_answer": " jest niedopuszczalne.   "
+        "answers": {
+            "A": " jest dopuszczalne, jeżeli opiera się na dokumentach, ",
+            "B": " jest dopuszczalne, jeżeli objęte nim roszczenia nadają się do rozpoznania w tym postępowaniu, ",
+            "C": " jest niedopuszczalne.   "
+        }
     },
-    "question_57": {
-        "question_number": "57.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, termin do wniesienia zarzutów od nakazu zapłaty wydanego w postępowaniu nakazowym, wynosi: ",
-        "first_answer": " siedem dni od dnia doręczenia nakazu zapłaty wraz z pozwem i załącznikami, ",
-        "second_answer": " dwa tygodnie od dnia doręczenia nakazu zapłaty wraz z pozwem i załącznikami, ",
-        "third_answer": " dwadzieścia jeden dni od dnia doręczenia nakazu zapłaty wraz z pozwem i załącznikami.   "
+        "answers": {
+            "A": " siedem dni od dnia doręczenia nakazu zapłaty wraz z pozwem i załącznikami, ",
+            "B": " dwa tygodnie od dnia doręczenia nakazu zapłaty wraz z pozwem i załącznikami, ",
+            "C": " dwadzieścia jeden dni od dnia doręczenia nakazu zapłaty wraz z pozwem i załącznikami.   "
+        }
     },
-    "question_58": {
-        "question_number": "58.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, sprawy podlegające rozpoznaniu  w postępowaniu uproszczonym należą w pierwszej instancji do właściwości: ",
-        "first_answer": " sądów rejonowych lub okręgowych w zależności od wartości przedmiotu sporu, ",
-        "second_answer": " sądów rejonowych, ",
-        "third_answer": " sądów okręgowych.       \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 12  "
+        "answers": {
+            "A": " sądów rejonowych lub okręgowych w zależności od wartości przedmiotu sporu, ",
+            "B": " sądów rejonowych, ",
+            "C": " sądów okręgowych.       \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 12  "
+        }
     },
-    "question_59": {
-        "question_number": "59.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, w postępowaniu uproszczonym jest dopuszczalne: ",
-        "first_answer": " dokonanie zmiany powództwa, ",
-        "second_answer": " wniesienie interwencji ubocznej, ",
-        "third_answer": " wniesienie powództwa wzajemnego, jeżeli obejmuje roszczenie nadające się do rozpoznania w tym postępowaniu.   "
+        "answers": {
+            "A": " dokonanie zmiany powództwa, ",
+            "B": " wniesienie interwencji ubocznej, ",
+            "C": " wniesienie powództwa wzajemnego, jeżeli obejmuje roszczenie nadające się do rozpoznania w tym postępowaniu.   "
+        }
     },
-    "question_60": {
-        "question_number": "60.",
+    {
         "question": "   24. Zgodnie z Kodeksem cywilnym i ustawą o gospodarce nieruchomościami, przeniesienie prawa użytkowania wieczystego nieruchomości gruntowej w drodze umowy, wymaga:  ",
-        "first_answer": " wyłącznie zawarcia umowy w formie aktu notarialnego,  ",
-        "second_answer": " zawarcia umowy w formie aktu notarialnego i wpisu w księdze wieczystej,  ",
-        "third_answer": " wyłącznie zawarcia umowy w formie aktu notarialnego i wydania nieruchomości nabywcy.     25. Zgodnie z Kodeksem cywilnym, wykonywanie użytkowania nieruchomości:  A.  można ograniczyć do jej oznaczonej części, B.  musi być ograniczone do jej oznaczonej części,  nie można ograniczyć do jej oznaczonej części.    26. Zgodnie z Kodeksem cywilnym, służebność osobista:  A.  może być nabyta przez zasiedzenie,  B.  może być nabyta przez zasiedzenie, ale tylko, gdy uprawniony jest w dobrej wierze,  nie może być nabyta przez zasiedzenie.     27. Zgodnie z Kodeksem cywilnym, za szkodę wyrządzoną czynem niedozwolonym, małoletni, który nie ukończył lat 13: A. nie ponosi odpowiedzialności, B. ponosi odpowiedzialność bez żadnych ograniczeń, ponosi odpowiedzialność tylko za szkodę na osobie. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 6  28. Zgodnie z Kodeksem cywilnym, jeżeli termin zwrotu pożyczki nie został w umowie oznaczony, dłużnik obowiązany jest zwrócić pożyczkę po wypowiedzeniu przez dającego pożyczkę: A.  niezwłocznie, B.  w ciągu dwóch tygodni,  w ciągu sześciu tygodni.   29. Zgodnie z Kodeksem cywilnym, jeżeli strony umowy zlecenia nie określiły przyczyn wygaśnięcia umowy, zlecenie wygasa: A.  wskutek śmierci dającego zlecenie, B.  wskutek śmierci przyjmującego zlecenie,  wskutek utraty przez dającego zlecenie pełnej zdolności do czynności prawnych.   30. Zgodnie z Kodeksem cywilnym, za zobowiązania spółki cywilnej wobec osób trzecich jej wspólnicy odpowiadają: A.  w stosunku do wielkości udziałów w spółce, B.  do wysokości wniesionego wkładu w spółce, solidarnie.    31. Zgodnie z Kodeksem cywilnym, jeżeli darczyńca skutecznie odwołał darowiznę, zwrot jej przedmiotu powinien nastąpić stosownie do przepisów o: A.  bezpodstawnym wzbogaceniu, B.  czynach niedozwolonych,  dożywociu.   32. Zgodnie z Kodeksem cywilnym, jeżeli strony, które zawarły umowę renty pieniężnej  nie oznaczyły w umowie terminów płatności renty, rentę tę należy płacić: A.  miesięcznie z dołu, B.  miesięcznie z góry,  w terminach wynikających z celu renty.   33. Zgodnie z Kodeksem cywilnym, prawo dożywocia jest: A.  niezbywalne, B.  zbywalne,  zbywalne i może być przedmiotem zastawu.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 7  34. Zgodnie z Kodeksem cywilnym, spadkobierca testamentowy nabywa spadek z chwilą: A.  wydania przez sąd orzeczenia o stwierdzeniu nabycia spadku lub sporządzenia przez notariusza aktu poświadczenia dziedziczenia, B.  śmierci spadkodawcy,  otwarcia i ogłoszenia testamentu.    35. Zgodnie z Kodeksem cywilnym, uznania spadkobiercy za niegodnego może żądać: A.  tylko spadkobierca ustawowy,  B.  tylko spadkobierca ustawowy lub testamentowy,   każdy, kto ma w tym interes.   36. Zgodnie z Kodeksem cywilnym, do małżonka spadkodawcy pozostającego w separacji orzeczonej prawomocnie przez sąd: A. stosuje się przepisy o powołaniu do dziedziczenia z ustawy,  B. nie stosuje się przepisów o powołaniu do dziedziczenia z ustawy,  stosuje się przepisy o powołaniu do dziedziczenia z ustawy, chyba że separacja została orzeczona z winy małżonka spadkodawcy.    37. Zgodnie z Kodeksem cywilnym, testament może zawierać rozrządzenia: A.  dowolnej liczby spadkodawców,  B.  dwóch i więcej spadkodawców, o ile rozrządzenie testamentowe dotyczy ich majątku wspólnego,   tylko jednego spadkodawcy.    38. Zgodnie z Kodeksem cywilnym, testament może sporządzić:  A.  osoba, która nie ukończyła 13 roku życia, działająca przez przedstawiciela ustawowego  za zgodą sądu opiekuńczego,  B.  osoba mająca ograniczoną zdolność do czynności prawnych, za zgodą przedstawiciela ustawowego po uzyskaniu przez niego zgody sądu opiekuńczego,  tylko osoba mająca pełną zdolność do czynności prawnych.        \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 8  39. Zgodnie z Kodeksem cywilnym, jeżeli spadkodawca powołał kilku spadkobierców testamentowych, a jeden z nich nie chce lub nie może być spadkobiercą, przeznaczony dla niego udział, w braku odmiennej woli spadkodawcy: A.  przypada pozostałym spadkobiercom testamentowym w stosunku do przypadających  im udziałów,  B.  przypada zawsze w częściach równych dzieciom osoby, która nie chce lub nie może być spadkobiercą, przy czym tę zasadę stosuje się odpowiednio do dalszych zstępnych,   podlega dziedziczeniu ustawowemu.   40. Zgodnie z ustawą o księgach wieczystych i hipotece, zastrzeżenie, przez które właściciel nieruchomości zobowiązuje się względem wierzyciela hipotecznego, że nie dokona zbycia nieruchomości przed wygaśnięciem hipoteki jest: A.  dopuszczalne bez żadnych ograniczeń,  B.  dopuszczalne pod warunkiem wpisu tego zastrzeżenia do księgi wieczystej,   niedopuszczalne.    41. Zgodnie z ustawą o gospodarce nieruchomościami, decyzję zatwierdzającą podział nieruchomości może wydać:  A.  wójt, burmistrz albo prezydent miasta,  B.  wojewoda,   starosta.   42. Zgodnie z ustawą o gospodarce nieruchomościami, przewidziane w tej ustawie prawo pierwokupu przysługujące gminie, może być wykonane w terminie:  A.  miesiąca od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży, B.  dwóch miesięcy od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży,   trzech miesięcy od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży.   43. Zgodnie z ustawą o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, sprzedaż nieruchomości rolnej przez Agencję Nieruchomości Rolnych może nastąpić, jeżeli w wyniku tej sprzedaży łączna powierzchnia użytków rolnych będących własnością nabywcy nie przekroczy: A.  500 ha,  B.  800 ha,  1.000 ha. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 9  44. Zgodnie z ustawą o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa,  przy odsprzedaży nieruchomości przez osobę, która nabyła tę nieruchomość od Agencji Nieruchomości Rolnych, Agencji przysługuje prawo pierwokupu na rzecz Skarbu Państwa:  A.  bez ograniczenia czasowego,  B.  w okresie 5 lat od nabycia tej nieruchomości od Agencji,   w okresie 10 lat od nabycia tej nieruchomości od Agencji.    45. Zgodnie z ustawą o własności lokali, do samodzielnego lokalu mieszkalnego mogą przynależeć, jako jego części składowe, pomieszczenia:  A.  choćby nawet do niego bezpośrednio nie przylegały lub były położone w granicach nieruchomości gruntowej poza budynkiem, w którym wyodrębniono dany lokal,  B.  wyłącznie znajdujące się w budynku, w którym wyodrębniono ten lokal,   wyłącznie bezpośrednio przylegające do tego lokalu.    46. Zgodnie z ustawą o nabywaniu nieruchomości przez cudzoziemców, zezwolenie na nabycie nieruchomości przez cudzoziemca, wydaje w drodze decyzji administracyjnej, przy braku sprzeciwu właściwych organów:  A.  minister właściwy do spraw wewnętrznych,  B.  Minister Skarbu Państwa,  Minister Spraw Zagranicznych.    47. Zgodnie z ustawą o spółdzielniach mieszkaniowych, spółdzielcze lokatorskie prawo  do lokalu mieszkalnego nie może przysługiwać: A.  osobie fizycznej, B.  małżonkom,  osobie prawnej.    48. Zgodnie z ustawą o spółdzielniach mieszkaniowych, spółdzielcze lokatorskie prawo  do lokalu mieszkalnego: A. jest niezbywalne, B. przechodzi na spadkobierców, podlega egzekucji.      \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 10  49. Zgodnie z ustawą o spółdzielniach mieszkaniowych, przedmiotem zbycia może być:  A.  ułamkowa część spółdzielczego własnościowego prawa do lokalu,  B.  ułamkowa część spółdzielczego własnościowego prawa do lokalu, pod warunkiem,  że dla tego prawa jest założona księga wieczysta,    wyłącznie spółdzielcze własnościowe prawo do lokalu w całości.    50. Zgodnie z Kodeksem postępowania cywilnego, sprawy o ustanowienie rozdzielności majątkowej między małżonkami w pierwszej instancji należą do właściwości rzeczowej sądów: A.  rejonowych, B.  okręgowych, rejonowych albo okręgowych w zależności od wartości przedmiotu sporu.   51. Zgodnie z Kodeksem postępowania cywilnego, kto ma interes prawny w tym,  aby sprawa została rozstrzygnięta na korzyść jednej ze stron, może w każdym stanie sprawy przystąpić do tej strony w charakterze interwenienta ubocznego: A. najpóźniej do zamknięcia rozprawy w pierwszej instancji, B.  najpóźniej do rozpoczęcia rozprawy w drugiej instancji,  najpóźniej do zamknięcia rozprawy w drugiej instancji.   52. Zgodnie z Kodeksem postępowania cywilnego, spóźniony lub z mocy ustawy niedopuszczalny wniosek o przywróceniu terminu do dokonania czynności procesowej, sąd: A.  oddali, B.  odrzuci,  zwróci.     53. Zgodnie z Kodeksem postępowania cywilnego, jeżeli w toku procesu o zapłatę toczącego się przed sądem pierwszej instancji, ogłoszono upadłość obejmującą likwidację majątku pozwanego, a postępowanie dotyczy masy upadłości: A.  sąd wydaje postanowienie o umorzeniu postępowania, B.  sąd wydaje postanowienie o zawieszeniu postępowania,  postępowanie ulega zawieszeniu z mocy prawa.      \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 11  54.  Zgodnie z Kodeksem postępowania cywilnego, pozwany, przeciwko któremu zapadł wyrok zaoczny, może w ciągu tygodnia od doręczenia mu wyroku złożyć: A. skargę, B. sprzeciw, apelację.   55. Zgodnie z Kodeksem postępowania cywilnego, właściwym do rozpoznania skargi  o stwierdzenie niezgodności z prawem prawomocnego orzeczenia sądu drugiej instancji jest: A.  sąd, który wydał orzeczenie w drugiej instancji, B.  zawsze sąd apelacyjny,  Sąd Najwyższy.   56. Zgodnie z Kodeksem postępowania cywilnego, w postępowaniu odrębnym w sprawach gospodarczych powództwo wzajemne: A.  jest dopuszczalne, jeżeli opiera się na dokumentach, B.  jest dopuszczalne, jeżeli objęte nim roszczenia nadają się do rozpoznania w tym postępowaniu,  jest niedopuszczalne.   57. Zgodnie z Kodeksem postępowania cywilnego, termin do wniesienia zarzutów od nakazu zapłaty wydanego w postępowaniu nakazowym, wynosi: A.  siedem dni od dnia doręczenia nakazu zapłaty wraz z pozwem i załącznikami, B.  dwa tygodnie od dnia doręczenia nakazu zapłaty wraz z pozwem i załącznikami,  dwadzieścia jeden dni od dnia doręczenia nakazu zapłaty wraz z pozwem i załącznikami.   58. Zgodnie z Kodeksem postępowania cywilnego, sprawy podlegające rozpoznaniu  w postępowaniu uproszczonym należą w pierwszej instancji do właściwości: A.  sądów rejonowych lub okręgowych w zależności od wartości przedmiotu sporu, B.  sądów rejonowych,  sądów okręgowych.       \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 12  59. Zgodnie z Kodeksem postępowania cywilnego, w postępowaniu uproszczonym jest dopuszczalne: A.  dokonanie zmiany powództwa, B.  wniesienie interwencji ubocznej,  wniesienie powództwa wzajemnego, jeżeli obejmuje roszczenie nadające się do rozpoznania w tym postępowaniu.   60. Zgodnie z Kodeksem postępowania cywilnego, w postępowaniu rejestrowym o wpis  do Krajowego Rejestru Sądowego oraz rejestru zastawów, w razie wniesienia skargi  na orzeczenie referendarza zarządzające wpis: A.  orzeczenie to traci moc z chwilą wniesienia skargi, B.  orzeczenie to pozostaje w mocy do chwili rozpatrzenia skargi przez sąd rejonowy rozpoznający sprawę jako sąd pierwszej instancji,  orzeczenie to traci moc z chwilą wpisania we właściwym rejestrze ostrzeżenia  o złożeniu skargi.   "
+        "answers": {
+            "A": " wyłącznie zawarcia umowy w formie aktu notarialnego,  ",
+            "B": " zawarcia umowy w formie aktu notarialnego i wpisu w księdze wieczystej,  ",
+            "C": " wyłącznie zawarcia umowy w formie aktu notarialnego i wydania nieruchomości nabywcy.     25. Zgodnie z Kodeksem cywilnym, wykonywanie użytkowania nieruchomości:  A.  można ograniczyć do jej oznaczonej części, B.  musi być ograniczone do jej oznaczonej części,  nie można ograniczyć do jej oznaczonej części.    26. Zgodnie z Kodeksem cywilnym, służebność osobista:  A.  może być nabyta przez zasiedzenie,  B.  może być nabyta przez zasiedzenie, ale tylko, gdy uprawniony jest w dobrej wierze,  nie może być nabyta przez zasiedzenie.     27. Zgodnie z Kodeksem cywilnym, za szkodę wyrządzoną czynem niedozwolonym, małoletni, który nie ukończył lat 13: A. nie ponosi odpowiedzialności, B. ponosi odpowiedzialność bez żadnych ograniczeń, ponosi odpowiedzialność tylko za szkodę na osobie. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 6  28. Zgodnie z Kodeksem cywilnym, jeżeli termin zwrotu pożyczki nie został w umowie oznaczony, dłużnik obowiązany jest zwrócić pożyczkę po wypowiedzeniu przez dającego pożyczkę: A.  niezwłocznie, B.  w ciągu dwóch tygodni,  w ciągu sześciu tygodni.   29. Zgodnie z Kodeksem cywilnym, jeżeli strony umowy zlecenia nie określiły przyczyn wygaśnięcia umowy, zlecenie wygasa: A.  wskutek śmierci dającego zlecenie, B.  wskutek śmierci przyjmującego zlecenie,  wskutek utraty przez dającego zlecenie pełnej zdolności do czynności prawnych.   30. Zgodnie z Kodeksem cywilnym, za zobowiązania spółki cywilnej wobec osób trzecich jej wspólnicy odpowiadają: A.  w stosunku do wielkości udziałów w spółce, B.  do wysokości wniesionego wkładu w spółce, solidarnie.    31. Zgodnie z Kodeksem cywilnym, jeżeli darczyńca skutecznie odwołał darowiznę, zwrot jej przedmiotu powinien nastąpić stosownie do przepisów o: A.  bezpodstawnym wzbogaceniu, B.  czynach niedozwolonych,  dożywociu.   32. Zgodnie z Kodeksem cywilnym, jeżeli strony, które zawarły umowę renty pieniężnej  nie oznaczyły w umowie terminów płatności renty, rentę tę należy płacić: A.  miesięcznie z dołu, B.  miesięcznie z góry,  w terminach wynikających z celu renty.   33. Zgodnie z Kodeksem cywilnym, prawo dożywocia jest: A.  niezbywalne, B.  zbywalne,  zbywalne i może być przedmiotem zastawu.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 7  34. Zgodnie z Kodeksem cywilnym, spadkobierca testamentowy nabywa spadek z chwilą: A.  wydania przez sąd orzeczenia o stwierdzeniu nabycia spadku lub sporządzenia przez notariusza aktu poświadczenia dziedziczenia, B.  śmierci spadkodawcy,  otwarcia i ogłoszenia testamentu.    35. Zgodnie z Kodeksem cywilnym, uznania spadkobiercy za niegodnego może żądać: A.  tylko spadkobierca ustawowy,  B.  tylko spadkobierca ustawowy lub testamentowy,   każdy, kto ma w tym interes.   36. Zgodnie z Kodeksem cywilnym, do małżonka spadkodawcy pozostającego w separacji orzeczonej prawomocnie przez sąd: A. stosuje się przepisy o powołaniu do dziedziczenia z ustawy,  B. nie stosuje się przepisów o powołaniu do dziedziczenia z ustawy,  stosuje się przepisy o powołaniu do dziedziczenia z ustawy, chyba że separacja została orzeczona z winy małżonka spadkodawcy.    37. Zgodnie z Kodeksem cywilnym, testament może zawierać rozrządzenia: A.  dowolnej liczby spadkodawców,  B.  dwóch i więcej spadkodawców, o ile rozrządzenie testamentowe dotyczy ich majątku wspólnego,   tylko jednego spadkodawcy.    38. Zgodnie z Kodeksem cywilnym, testament może sporządzić:  A.  osoba, która nie ukończyła 13 roku życia, działająca przez przedstawiciela ustawowego  za zgodą sądu opiekuńczego,  B.  osoba mająca ograniczoną zdolność do czynności prawnych, za zgodą przedstawiciela ustawowego po uzyskaniu przez niego zgody sądu opiekuńczego,  tylko osoba mająca pełną zdolność do czynności prawnych.        \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 8  39. Zgodnie z Kodeksem cywilnym, jeżeli spadkodawca powołał kilku spadkobierców testamentowych, a jeden z nich nie chce lub nie może być spadkobiercą, przeznaczony dla niego udział, w braku odmiennej woli spadkodawcy: A.  przypada pozostałym spadkobiercom testamentowym w stosunku do przypadających  im udziałów,  B.  przypada zawsze w częściach równych dzieciom osoby, która nie chce lub nie może być spadkobiercą, przy czym tę zasadę stosuje się odpowiednio do dalszych zstępnych,   podlega dziedziczeniu ustawowemu.   40. Zgodnie z ustawą o księgach wieczystych i hipotece, zastrzeżenie, przez które właściciel nieruchomości zobowiązuje się względem wierzyciela hipotecznego, że nie dokona zbycia nieruchomości przed wygaśnięciem hipoteki jest: A.  dopuszczalne bez żadnych ograniczeń,  B.  dopuszczalne pod warunkiem wpisu tego zastrzeżenia do księgi wieczystej,   niedopuszczalne.    41. Zgodnie z ustawą o gospodarce nieruchomościami, decyzję zatwierdzającą podział nieruchomości może wydać:  A.  wójt, burmistrz albo prezydent miasta,  B.  wojewoda,   starosta.   42. Zgodnie z ustawą o gospodarce nieruchomościami, przewidziane w tej ustawie prawo pierwokupu przysługujące gminie, może być wykonane w terminie:  A.  miesiąca od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży, B.  dwóch miesięcy od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży,   trzech miesięcy od dnia otrzymania przez wójta, burmistrza albo prezydenta miasta zawiadomienia o treści umowy sprzedaży.   43. Zgodnie z ustawą o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, sprzedaż nieruchomości rolnej przez Agencję Nieruchomości Rolnych może nastąpić, jeżeli w wyniku tej sprzedaży łączna powierzchnia użytków rolnych będących własnością nabywcy nie przekroczy: A.  500 ha,  B.  800 ha,  1.000 ha. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 9  44. Zgodnie z ustawą o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa,  przy odsprzedaży nieruchomości przez osobę, która nabyła tę nieruchomość od Agencji Nieruchomości Rolnych, Agencji przysługuje prawo pierwokupu na rzecz Skarbu Państwa:  A.  bez ograniczenia czasowego,  B.  w okresie 5 lat od nabycia tej nieruchomości od Agencji,   w okresie 10 lat od nabycia tej nieruchomości od Agencji.    45. Zgodnie z ustawą o własności lokali, do samodzielnego lokalu mieszkalnego mogą przynależeć, jako jego części składowe, pomieszczenia:  A.  choćby nawet do niego bezpośrednio nie przylegały lub były położone w granicach nieruchomości gruntowej poza budynkiem, w którym wyodrębniono dany lokal,  B.  wyłącznie znajdujące się w budynku, w którym wyodrębniono ten lokal,   wyłącznie bezpośrednio przylegające do tego lokalu.    46. Zgodnie z ustawą o nabywaniu nieruchomości przez cudzoziemców, zezwolenie na nabycie nieruchomości przez cudzoziemca, wydaje w drodze decyzji administracyjnej, przy braku sprzeciwu właściwych organów:  A.  minister właściwy do spraw wewnętrznych,  B.  Minister Skarbu Państwa,  Minister Spraw Zagranicznych.    47. Zgodnie z ustawą o spółdzielniach mieszkaniowych, spółdzielcze lokatorskie prawo  do lokalu mieszkalnego nie może przysługiwać: A.  osobie fizycznej, B.  małżonkom,  osobie prawnej.    48. Zgodnie z ustawą o spółdzielniach mieszkaniowych, spółdzielcze lokatorskie prawo  do lokalu mieszkalnego: A. jest niezbywalne, B. przechodzi na spadkobierców, podlega egzekucji.      \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 10  49. Zgodnie z ustawą o spółdzielniach mieszkaniowych, przedmiotem zbycia może być:  A.  ułamkowa część spółdzielczego własnościowego prawa do lokalu,  B.  ułamkowa część spółdzielczego własnościowego prawa do lokalu, pod warunkiem,  że dla tego prawa jest założona księga wieczysta,    wyłącznie spółdzielcze własnościowe prawo do lokalu w całości.    50. Zgodnie z Kodeksem postępowania cywilnego, sprawy o ustanowienie rozdzielności majątkowej między małżonkami w pierwszej instancji należą do właściwości rzeczowej sądów: A.  rejonowych, B.  okręgowych, rejonowych albo okręgowych w zależności od wartości przedmiotu sporu.   51. Zgodnie z Kodeksem postępowania cywilnego, kto ma interes prawny w tym,  aby sprawa została rozstrzygnięta na korzyść jednej ze stron, może w każdym stanie sprawy przystąpić do tej strony w charakterze interwenienta ubocznego: A. najpóźniej do zamknięcia rozprawy w pierwszej instancji, B.  najpóźniej do rozpoczęcia rozprawy w drugiej instancji,  najpóźniej do zamknięcia rozprawy w drugiej instancji.   52. Zgodnie z Kodeksem postępowania cywilnego, spóźniony lub z mocy ustawy niedopuszczalny wniosek o przywróceniu terminu do dokonania czynności procesowej, sąd: A.  oddali, B.  odrzuci,  zwróci.     53. Zgodnie z Kodeksem postępowania cywilnego, jeżeli w toku procesu o zapłatę toczącego się przed sądem pierwszej instancji, ogłoszono upadłość obejmującą likwidację majątku pozwanego, a postępowanie dotyczy masy upadłości: A.  sąd wydaje postanowienie o umorzeniu postępowania, B.  sąd wydaje postanowienie o zawieszeniu postępowania,  postępowanie ulega zawieszeniu z mocy prawa.      \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 11  54.  Zgodnie z Kodeksem postępowania cywilnego, pozwany, przeciwko któremu zapadł wyrok zaoczny, może w ciągu tygodnia od doręczenia mu wyroku złożyć: A. skargę, B. sprzeciw, apelację.   55. Zgodnie z Kodeksem postępowania cywilnego, właściwym do rozpoznania skargi  o stwierdzenie niezgodności z prawem prawomocnego orzeczenia sądu drugiej instancji jest: A.  sąd, który wydał orzeczenie w drugiej instancji, B.  zawsze sąd apelacyjny,  Sąd Najwyższy.   56. Zgodnie z Kodeksem postępowania cywilnego, w postępowaniu odrębnym w sprawach gospodarczych powództwo wzajemne: A.  jest dopuszczalne, jeżeli opiera się na dokumentach, B.  jest dopuszczalne, jeżeli objęte nim roszczenia nadają się do rozpoznania w tym postępowaniu,  jest niedopuszczalne.   57. Zgodnie z Kodeksem postępowania cywilnego, termin do wniesienia zarzutów od nakazu zapłaty wydanego w postępowaniu nakazowym, wynosi: A.  siedem dni od dnia doręczenia nakazu zapłaty wraz z pozwem i załącznikami, B.  dwa tygodnie od dnia doręczenia nakazu zapłaty wraz z pozwem i załącznikami,  dwadzieścia jeden dni od dnia doręczenia nakazu zapłaty wraz z pozwem i załącznikami.   58. Zgodnie z Kodeksem postępowania cywilnego, sprawy podlegające rozpoznaniu  w postępowaniu uproszczonym należą w pierwszej instancji do właściwości: A.  sądów rejonowych lub okręgowych w zależności od wartości przedmiotu sporu, B.  sądów rejonowych,  sądów okręgowych.       \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 12  59. Zgodnie z Kodeksem postępowania cywilnego, w postępowaniu uproszczonym jest dopuszczalne: A.  dokonanie zmiany powództwa, B.  wniesienie interwencji ubocznej,  wniesienie powództwa wzajemnego, jeżeli obejmuje roszczenie nadające się do rozpoznania w tym postępowaniu.   60. Zgodnie z Kodeksem postępowania cywilnego, w postępowaniu rejestrowym o wpis  do Krajowego Rejestru Sądowego oraz rejestru zastawów, w razie wniesienia skargi  na orzeczenie referendarza zarządzające wpis: A.  orzeczenie to traci moc z chwilą wniesienia skargi, B.  orzeczenie to pozostaje w mocy do chwili rozpatrzenia skargi przez sąd rejonowy rozpoznający sprawę jako sąd pierwszej instancji,  orzeczenie to traci moc z chwilą wpisania we właściwym rejestrze ostrzeżenia  o złożeniu skargi.   "
+        }
     },
-    "question_61": {
-        "question_number": "61.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, sprawę o ubezwłasnowolnienie rozpoznaje w pierwszej instancji sąd okręgowy w składzie: ",
-        "first_answer": " jednego sędziego, ",
-        "second_answer": " jednego sędziego i dwóch ławników, ",
-        "third_answer": " trzech sędziów zawodowych.   "
+        "answers": {
+            "A": " jednego sędziego, ",
+            "B": " jednego sędziego i dwóch ławników, ",
+            "C": " trzech sędziów zawodowych.   "
+        }
     },
-    "question_62": {
-        "question_number": "62.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, w postępowaniu wieczystoksięgowym  o wpis do księgi wieczystej: ",
-        "first_answer": " przepisów o wznowieniu postępowania nie stosuje się, ",
-        "second_answer": " przepisy o wznowieniu postępowania stosuje się pod warunkiem, że skarga o wznowienie postępowania została wniesiona w terminie 2 lat od uprawomocnienia się wpisu, ",
-        "third_answer": " przepisy o wznowieniu postępowania stosuje się pod warunkiem, że skarga o wznowienie postępowania została wniesiona w terminie 5 lat od uprawomocnienia się wpisu.   "
+        "answers": {
+            "A": " przepisów o wznowieniu postępowania nie stosuje się, ",
+            "B": " przepisy o wznowieniu postępowania stosuje się pod warunkiem, że skarga o wznowienie postępowania została wniesiona w terminie 2 lat od uprawomocnienia się wpisu, ",
+            "C": " przepisy o wznowieniu postępowania stosuje się pod warunkiem, że skarga o wznowienie postępowania została wniesiona w terminie 5 lat od uprawomocnienia się wpisu.   "
+        }
     },
-    "question_63": {
-        "question_number": "63.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, zbycie nieruchomości przez dłużnika  po jej zajęciu przez komornika: ",
-        "first_answer": " spowoduje zawieszenie postępowania egzekucyjnego,  ",
-        "second_answer": " spowoduje umorzenie postępowania egzekucyjnego, ",
-        "third_answer": " nie ma wpływu na dalsze postępowanie egzekucyjne, a nabywca może uczestniczyć  w postępowaniu w charakterze dłużnika.   \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 13  "
+        "answers": {
+            "A": " spowoduje zawieszenie postępowania egzekucyjnego,  ",
+            "B": " spowoduje umorzenie postępowania egzekucyjnego, ",
+            "C": " nie ma wpływu na dalsze postępowanie egzekucyjne, a nabywca może uczestniczyć  w postępowaniu w charakterze dłużnika.   \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 13  "
+        }
     },
-    "question_64": {
-        "question_number": "64.",
+    {
         "question": "Zgodnie z ustawą o kosztach sądowych w sprawach cywilnych, od zażalenia na odmowę dokonania czynności notarialnej pobiera się opłatę: ",
-        "first_answer": " podstawową, ",
-        "second_answer": " stosunkową,  ",
-        "third_answer": " stałą.   "
+        "answers": {
+            "A": " podstawową, ",
+            "B": " stosunkową,  ",
+            "C": " stałą.   "
+        }
     },
-    "question_65": {
-        "question_number": "65.",
+    {
         "question": "Zgodnie z Kodeksem rodzinnym i opiekuńczym, z powodu powinowactwa między małżonkami, unieważnienia małżeństwa zawartego bez zezwolenia sądu:  ",
-        "first_answer": " może żądać każdy z małżonków,  ",
-        "second_answer": " może żądać każdy, kto ma w tym interes prawny, ",
-        "third_answer": " nie można żądać, jeżeli kobieta zaszła w ciążę.   "
+        "answers": {
+            "A": " może żądać każdy z małżonków,  ",
+            "B": " może żądać każdy, kto ma w tym interes prawny, ",
+            "C": " nie można żądać, jeżeli kobieta zaszła w ciążę.   "
+        }
     },
-    "question_66": {
-        "question_number": "66.",
+    {
         "question": "Zgodnie z Kodeksem rodzinnym i opiekuńczym, do majątku osobistego każdego  z małżonków pozostających we wspólności ustawowej należą: ",
-        "first_answer": " dochody z majątku osobistego,  ",
-        "second_answer": " wierzytelności z tytułu wynagrodzenia za pracę, ",
-        "third_answer": " środki zgromadzone na rachunku otwartego lub pracowniczego funduszu emerytalnego każdego z małżonków.   "
+        "answers": {
+            "A": " dochody z majątku osobistego,  ",
+            "B": " wierzytelności z tytułu wynagrodzenia za pracę, ",
+            "C": " środki zgromadzone na rachunku otwartego lub pracowniczego funduszu emerytalnego każdego z małżonków.   "
+        }
     },
-    "question_67": {
-        "question_number": "67.",
+    {
         "question": "Zgodnie z Kodeksem rodzinnym i opiekuńczym, w czasie trwania wspólności ustawowej każdy z małżonków może: ",
-        "first_answer": " żądać z ważnych powodów podziału majątku wspólnego przez sąd, ",
-        "second_answer": " zobowiązać się do rozporządzenia udziałem, który w razie ustania wspólności przypadnie mu w majątku wspólnym, ",
-        "third_answer": " żądać z ważnych powodów ustanowienia przez sąd rozdzielności majątkowej.   "
+        "answers": {
+            "A": " żądać z ważnych powodów podziału majątku wspólnego przez sąd, ",
+            "B": " zobowiązać się do rozporządzenia udziałem, który w razie ustania wspólności przypadnie mu w majątku wspólnym, ",
+            "C": " żądać z ważnych powodów ustanowienia przez sąd rozdzielności majątkowej.   "
+        }
     },
-    "question_68": {
-        "question_number": "68.",
+    {
         "question": "Zgodnie z Kodeksem rodzinnym i opiekuńczym, w razie ubezwłasnowolnienia jednego  z małżonków pozostających dotąd we wspólności ustawowej: ",
-        "first_answer": " drugi małżonek może żądać ustanowienia przez sąd rozdzielności majątkowej nawet  bez ważnych powodów, ",
-        "second_answer": " ustrój małżeńskiej wspólności ustawowej trwa nadal,  ",
-        "third_answer": " z mocy prawa powstaje rozdzielność majątkowa.       \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 14  "
+        "answers": {
+            "A": " drugi małżonek może żądać ustanowienia przez sąd rozdzielności majątkowej nawet  bez ważnych powodów, ",
+            "B": " ustrój małżeńskiej wspólności ustawowej trwa nadal,  ",
+            "C": " z mocy prawa powstaje rozdzielność majątkowa.       \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 14  "
+        }
     },
-    "question_69": {
-        "question_number": "69.",
+    {
         "question": "Zgodnie z Kodeksem rodzinnym i opiekuńczym, orzekając rozwód, sąd zaniecha orzekania o winie: ",
-        "first_answer": " na zgodne żądanie małżonków, ",
-        "second_answer": " na żądanie małżonka niewinnego rozkładu pożycia, pomimo sprzeciwu małżonka wyłącznie winnego rozkładu pożycia, ",
-        "third_answer": " na żądanie małżonka wyłącznie winnego rozkładu pożycia, o ile małżonek niewinny rozkładu pożycia nie złożył sprzeciwu.   "
+        "answers": {
+            "A": " na zgodne żądanie małżonków, ",
+            "B": " na żądanie małżonka niewinnego rozkładu pożycia, pomimo sprzeciwu małżonka wyłącznie winnego rozkładu pożycia, ",
+            "C": " na żądanie małżonka wyłącznie winnego rozkładu pożycia, o ile małżonek niewinny rozkładu pożycia nie złożył sprzeciwu.   "
+        }
     },
-    "question_70": {
-        "question_number": "70.",
+    {
         "question": "Zgodnie z Kodeksem rodzinnym i opiekuńczym, małżonek pozostający w separacji prawomocnie orzeczonej przez sąd: ",
-        "first_answer": " może zawrzeć małżeństwo, ",
-        "second_answer": " nie może zawrzeć małżeństwa, ",
-        "third_answer": " może zawrzeć małżeństwo po upływie 3 lat od uprawomocnienia się orzeczenia  o separacji.   "
+        "answers": {
+            "A": " może zawrzeć małżeństwo, ",
+            "B": " nie może zawrzeć małżeństwa, ",
+            "C": " może zawrzeć małżeństwo po upływie 3 lat od uprawomocnienia się orzeczenia  o separacji.   "
+        }
     },
-    "question_71": {
-        "question_number": "71.",
+    {
         "question": "Zgodnie z Kodeksem rodzinnym i opiekuńczym, jeżeli władza rodzicielska przysługuje obojgu rodzicom, każde z nich jako przedstawiciel ustawowy dziecka może  je samodzielnie reprezentować: ",
-        "first_answer": " przy czynnościach prawnych między dziećmi pozostającymi pod ich władzą rodzicielską, ",
-        "second_answer": " przy zawarciu umowy sprzedaży nieruchomości między dzieckiem a drugim z rodziców, ",
-        "third_answer": " przy zawarciu umowy bezpłatnego przysporzenia nieobciążonej nieruchomości na rzecz dziecka przez drugiego z rodziców.   "
+        "answers": {
+            "A": " przy czynnościach prawnych między dziećmi pozostającymi pod ich władzą rodzicielską, ",
+            "B": " przy zawarciu umowy sprzedaży nieruchomości między dzieckiem a drugim z rodziców, ",
+            "C": " przy zawarciu umowy bezpłatnego przysporzenia nieobciążonej nieruchomości na rzecz dziecka przez drugiego z rodziców.   "
+        }
     },
-    "question_72": {
-        "question_number": "72.",
+    {
         "question": "Zgodnie z Kodeksem rodzinnym i opiekuńczym, przysposobienie następuje przez: ",
-        "first_answer": " oświadczenie przysposabiającego złożone wyłącznie przed notariuszem, ",
-        "second_answer": " oświadczenie przysposabiającego złożone przed kierownikiem urzędu stanu cywilnego albo notariuszem, ",
-        "third_answer": " orzeczenie sądu opiekuńczego na żądanie przysposabiającego.   "
+        "answers": {
+            "A": " oświadczenie przysposabiającego złożone wyłącznie przed notariuszem, ",
+            "B": " oświadczenie przysposabiającego złożone przed kierownikiem urzędu stanu cywilnego albo notariuszem, ",
+            "C": " orzeczenie sądu opiekuńczego na żądanie przysposabiającego.   "
+        }
     },
-    "question_73": {
-        "question_number": "73.",
+    {
         "question": "Zgodnie z ustawą - Prawo upadłościowe i naprawcze, dłużnik obowiązany jest zgłosić wniosek o ogłoszenie upadłości nie później niż w terminie: ",
-        "first_answer": " dwóch tygodni od dnia, w którym wystąpiła podstawa do ogłoszenia upadłości, ",
-        "second_answer": " miesiąca od dnia, w którym wystąpiła podstawa do ogłoszenia upadłości, ",
-        "third_answer": " dwóch miesięcy od dnia, w którym wystąpiła podstawa do ogłoszenia upadłości.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 15  "
+        "answers": {
+            "A": " dwóch tygodni od dnia, w którym wystąpiła podstawa do ogłoszenia upadłości, ",
+            "B": " miesiąca od dnia, w którym wystąpiła podstawa do ogłoszenia upadłości, ",
+            "C": " dwóch miesięcy od dnia, w którym wystąpiła podstawa do ogłoszenia upadłości.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 15  "
+        }
     },
-    "question_74": {
-        "question_number": "74.",
+    {
         "question": "Zgodnie z ustawą - Prawo upadłościowe i naprawcze, sąd upadłościowy ogłasza upadłość wydając: ",
-        "first_answer": " wyrok, ",
-        "second_answer": " postanowienie, ",
-        "third_answer": " zarządzenie.   "
+        "answers": {
+            "A": " wyrok, ",
+            "B": " postanowienie, ",
+            "C": " zarządzenie.   "
+        }
     },
-    "question_75": {
-        "question_number": "75.",
+    {
         "question": "Zgodnie z ustawą - Prawo upadłościowe i naprawcze, po ogłoszeniu upadłości przedsiębiorca występuje w obrocie: ",
-        "first_answer": " pod dotychczasową firmą z dodaniem oznaczenia „w upadłości”, ",
-        "second_answer": " pod dotychczasową firmą z dodaniem oznaczenia „w upadłości likwidacyjnej” albo  „w upadłości układowej”, ",
-        "third_answer": " pod dotychczasową firmą bez dodania oznaczeń wskazujących na stan upadłości.   "
+        "answers": {
+            "A": " pod dotychczasową firmą z dodaniem oznaczenia „w upadłości”, ",
+            "B": " pod dotychczasową firmą z dodaniem oznaczenia „w upadłości likwidacyjnej” albo  „w upadłości układowej”, ",
+            "C": " pod dotychczasową firmą bez dodania oznaczeń wskazujących na stan upadłości.   "
+        }
     },
-    "question_76": {
-        "question_number": "76.",
+    {
         "question": "Zgodnie z ustawą - Prawo upadłościowe i naprawcze, postanowienia umowy zastrzegające na wypadek ogłoszenia upadłości zmianę lub rozwiązanie stosunku prawnego, którego stroną jest upadły są: ",
-        "first_answer": " ważne, ",
-        "second_answer": " ważne, ale syndyk może wystąpić z powództwem o ich uchylenie, ",
-        "third_answer": " nieważne.   "
+        "answers": {
+            "A": " ważne, ",
+            "B": " ważne, ale syndyk może wystąpić z powództwem o ich uchylenie, ",
+            "C": " nieważne.   "
+        }
     },
-    "question_77": {
-        "question_number": "77.",
+    {
         "question": "Zgodnie z ustawą - Prawo upadłościowe i naprawcze, w razie ogłoszenia upadłości obejmującej likwidację majątku upadłego, sąd upadłościowy powołuje: ",
-        "first_answer": " nadzorcę sądowego, ",
-        "second_answer": " zarządcę, ",
-        "third_answer": " syndyka.   "
+        "answers": {
+            "A": " nadzorcę sądowego, ",
+            "B": " zarządcę, ",
+            "C": " syndyka.   "
+        }
     },
-    "question_78": {
-        "question_number": "78.",
+    {
         "question": "Zgodnie z ustawą o Krajowym Rejestrze Sądowym, jeżeli ustawa nie stanowi inaczej, wpisy do Krajowego Rejestru Sądowego, które podlegają obowiązkowi ogłoszenia,  są ogłaszane:  ",
-        "first_answer": " w Monitorze Sądowym i Gospodarczym, ",
-        "second_answer": " w Monitorze Polskim, ",
-        "third_answer": " w dowolnym dzienniku o zasięgu krajowym.   "
+        "answers": {
+            "A": " w Monitorze Sądowym i Gospodarczym, ",
+            "B": " w Monitorze Polskim, ",
+            "C": " w dowolnym dzienniku o zasięgu krajowym.   "
+        }
     },
-    "question_79": {
-        "question_number": "79.",
+    {
         "question": "Zgodnie z ustawą - Prawo wekslowe, weksel, w którym sumę wekslową napisano literami i liczbami, w razie różnicy między nimi jest ważny: ",
-        "first_answer": " na sumę napisaną liczbami, ",
-        "second_answer": " na sumę napisaną literami, ",
-        "third_answer": " na sumę większą bez względu na sposób zapisu. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 16  "
+        "answers": {
+            "A": " na sumę napisaną liczbami, ",
+            "B": " na sumę napisaną literami, ",
+            "C": " na sumę większą bez względu na sposób zapisu. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 16  "
+        }
     },
-    "question_80": {
-        "question_number": "80.",
+    {
         "question": "Zgodnie z ustawą - Prawo wekslowe, poręczenie wekslowe to: ",
-        "first_answer": " aval, ",
-        "second_answer": " indos, ",
-        "third_answer": " trata.   "
+        "answers": {
+            "A": " aval, ",
+            "B": " indos, ",
+            "C": " trata.   "
+        }
     },
-    "question_81": {
-        "question_number": "81.",
+    {
         "question": "Zgodnie z ustawą o zastawie rejestrowym i rejestrze zastawów, umowa zastawnicza  dla ustanowienia zastawu rejestrowego powinna być zawarta:  ",
-        "first_answer": " na piśmie dla celów dowodowych, ",
-        "second_answer": " na piśmie pod rygorem nieważności, ",
-        "third_answer": " tylko w formie aktu notarialnego.    "
+        "answers": {
+            "A": " na piśmie dla celów dowodowych, ",
+            "B": " na piśmie pod rygorem nieważności, ",
+            "C": " tylko w formie aktu notarialnego.    "
+        }
     },
-    "question_82": {
-        "question_number": "82.",
+    {
         "question": "Zgodnie z ustawą - Prawo spółdzielcze, jeżeli założycielami spółdzielni są osoby fizyczne, ich liczba nie może być mniejsza niż: ",
-        "first_answer": " 30 osób, ",
-        "second_answer": " 20 osób, ",
-        "third_answer": " 10 osób.   "
+        "answers": {
+            "A": " 30 osób, ",
+            "B": " 20 osób, ",
+            "C": " 10 osób.   "
+        }
     },
-    "question_83": {
-        "question_number": "83.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, ogół praw i obowiązków wspólnika handlowej spółki osobowej: ",
-        "first_answer": " nigdy nie może być przeniesiony na inną osobę, ",
-        "second_answer": " może być przeniesiony na inną osobę tylko wówczas, gdy umowa spółki tak stanowi, ",
-        "third_answer": " zawsze może być przeniesiony na inną osobę.    "
+        "answers": {
+            "A": " nigdy nie może być przeniesiony na inną osobę, ",
+            "B": " może być przeniesiony na inną osobę tylko wówczas, gdy umowa spółki tak stanowi, ",
+            "C": " zawsze może być przeniesiony na inną osobę.    "
+        }
     },
-    "question_84": {
-        "question_number": "84.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, przedmiotem wkładu do spółki kapitałowej może być: ",
-        "first_answer": " świadczenie pracy, ",
-        "second_answer": " zbywalna wierzytelność, ",
-        "third_answer": " świadczenie usług.   "
+        "answers": {
+            "A": " świadczenie pracy, ",
+            "B": " zbywalna wierzytelność, ",
+            "C": " świadczenie usług.   "
+        }
     },
-    "question_85": {
-        "question_number": "85.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, rozporządzenie udziałem albo akcją dokonane przed wpisem spółki kapitałowej do rejestru jest: ",
-        "first_answer": " dopuszczalne i ważne, ",
-        "second_answer": " nieważne, ",
-        "third_answer": " ważne, ale pod warunkiem późniejszego wpisania spółki do rejestru.     \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 17  "
+        "answers": {
+            "A": " dopuszczalne i ważne, ",
+            "B": " nieważne, ",
+            "C": " ważne, ale pod warunkiem późniejszego wpisania spółki do rejestru.     \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 17  "
+        }
     },
-    "question_86": {
-        "question_number": "86.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, członkiem zarządu, rady nadzorczej, komisji rewizyjnej albo likwidatorem spółki kapitałowej, o ile przepis szczególny nie stanowi inaczej, może być: ",
-        "first_answer": " każda osoba fizyczna i osoba prawna, ",
-        "second_answer": " każda osoba fizyczna bez względu na jej zdolność do czynności prawnych, ",
-        "third_answer": " tylko osoba fizyczna mająca pełną zdolność do czynności prawnych.   "
+        "answers": {
+            "A": " każda osoba fizyczna i osoba prawna, ",
+            "B": " każda osoba fizyczna bez względu na jej zdolność do czynności prawnych, ",
+            "C": " tylko osoba fizyczna mająca pełną zdolność do czynności prawnych.   "
+        }
     },
-    "question_87": {
-        "question_number": "87.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, umowa spółki jawnej powinna być zawarta: ",
-        "first_answer": " na piśmie pod rygorem nieważności, ",
-        "second_answer": " na piśmie dla celów dowodowych, ",
-        "third_answer": " tylko w formie aktu notarialnego.   "
+        "answers": {
+            "A": " na piśmie pod rygorem nieważności, ",
+            "B": " na piśmie dla celów dowodowych, ",
+            "C": " tylko w formie aktu notarialnego.   "
+        }
     },
-    "question_88": {
-        "question_number": "88.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, spółką partnerską jest: ",
-        "first_answer": " spółka osobowa, utworzona przez wspólników (partnerów) w celu wykonywania wolnego zawodu w spółce prowadzącej przedsiębiorstwo pod własną firmą, ",
-        "second_answer": " spółka osobowa, utworzona przez wspólników (partnerów) w celu wykonywania każdej dozwolonej prawem działalności gospodarczej, ",
-        "third_answer": " spółka kapitałowa, utworzona przez wspólników (partnerów) w celu wykonywania każdej dozwolonej prawem działalności gospodarczej.   "
+        "answers": {
+            "A": " spółka osobowa, utworzona przez wspólników (partnerów) w celu wykonywania wolnego zawodu w spółce prowadzącej przedsiębiorstwo pod własną firmą, ",
+            "B": " spółka osobowa, utworzona przez wspólników (partnerów) w celu wykonywania każdej dozwolonej prawem działalności gospodarczej, ",
+            "C": " spółka kapitałowa, utworzona przez wspólników (partnerów) w celu wykonywania każdej dozwolonej prawem działalności gospodarczej.   "
+        }
     },
-    "question_89": {
-        "question_number": "89.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, spółka komandytowa powstaje z chwilą: ",
-        "first_answer": " zawarcia umowy spółki, ",
-        "second_answer": " objęcia udziałów kapitałowych w spółce przez wspólników, ",
-        "third_answer": " wpisu do rejestru.   "
+        "answers": {
+            "A": " zawarcia umowy spółki, ",
+            "B": " objęcia udziałów kapitałowych w spółce przez wspólników, ",
+            "C": " wpisu do rejestru.   "
+        }
     },
-    "question_90": {
-        "question_number": "90.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, komandytariusz odpowiada za zobowiązania spółki komandytowej wobec jej wierzycieli: ",
-        "first_answer": " bez żadnych ograniczeń, ",
-        "second_answer": " tylko do wysokości sumy komandytowej, ",
-        "third_answer": " tylko do wartości objętych udziałów.   "
+        "answers": {
+            "A": " bez żadnych ograniczeń, ",
+            "B": " tylko do wysokości sumy komandytowej, ",
+            "C": " tylko do wartości objętych udziałów.   "
+        }
     },
-    "question_91": {
-        "question_number": "91.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, zawiązanie spółki z ograniczoną odpowiedzialnością wyłącznie przez inną jednoosobową spółkę z ograniczoną odpowiedzialnością:  ",
-        "first_answer": " jest zawsze możliwe, ",
-        "second_answer": " jest możliwe, o ile zarząd nowo zawiązanej spółki będzie miał inny skład, niż spółki  ją zawiązującej,  ",
-        "third_answer": " jest niemożliwe. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 18  "
+        "answers": {
+            "A": " jest zawsze możliwe, ",
+            "B": " jest możliwe, o ile zarząd nowo zawiązanej spółki będzie miał inny skład, niż spółki  ją zawiązującej,  ",
+            "C": " jest niemożliwe. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 18  "
+        }
     },
-    "question_92": {
-        "question_number": "92.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, wynagrodzenie za usługi świadczone przy powstaniu spółki z ograniczoną odpowiedzialnością: ",
-        "first_answer": " może być zaliczone na poczet wkładu wspólnika, ",
-        "second_answer": " nie może być zaliczone na poczet wkładu wspólnika, ",
-        "third_answer": " może być zaliczone na poczet wkładu wspólnika, o ile umowa spółki tak stanowi.    "
+        "answers": {
+            "A": " może być zaliczone na poczet wkładu wspólnika, ",
+            "B": " nie może być zaliczone na poczet wkładu wspólnika, ",
+            "C": " może być zaliczone na poczet wkładu wspólnika, o ile umowa spółki tak stanowi.    "
+        }
     },
-    "question_93": {
-        "question_number": "93.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, zbycie udziału w spółce z ograniczoną odpowiedzialnością powinno być dokonane w formie:  ",
-        "first_answer": " pisemnej, ",
-        "second_answer": " pisemnej z datą pewną, ",
-        "third_answer": " pisemnej z podpisami notarialnie poświadczonymi.   "
+        "answers": {
+            "A": " pisemnej, ",
+            "B": " pisemnej z datą pewną, ",
+            "C": " pisemnej z podpisami notarialnie poświadczonymi.   "
+        }
     },
-    "question_94": {
-        "question_number": "94.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, umowa spółki z ograniczoną odpowiedzialnością może dopuścić zbycie części udziału w tej spółce:  ",
-        "first_answer": " jeżeli według umowy spółki wspólnik może mieć więcej niż jeden udział,  ",
-        "second_answer": " jeżeli według umowy spółki wspólnik może mieć tylko jeden udział, a w wyniku podziału nie powstaną udziały niższe niż 50 złotych, ",
-        "third_answer": " w każdym przypadku, z zastrzeżeniem, że udziały powstałe w wyniku podziału nie będą niższe niż 50 złotych.   "
+        "answers": {
+            "A": " jeżeli według umowy spółki wspólnik może mieć więcej niż jeden udział,  ",
+            "B": " jeżeli według umowy spółki wspólnik może mieć tylko jeden udział, a w wyniku podziału nie powstaną udziały niższe niż 50 złotych, ",
+            "C": " w każdym przypadku, z zastrzeżeniem, że udziały powstałe w wyniku podziału nie będą niższe niż 50 złotych.   "
+        }
     },
-    "question_95": {
-        "question_number": "95.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, w spółce z ograniczoną odpowiedzialnością,  od wniesionych wkładów, wspólnikowi:  ",
-        "first_answer": " wolno pobierać odsetki, o ile nie wyklucza tego umowa spółki,  ",
-        "second_answer": " wolno pobierać odsetki, o ile umowa spółki to przewiduje, jednak w wysokości  nie przekraczającej 5%,  ",
-        "third_answer": " nie wolno pobierać odsetek.    "
+        "answers": {
+            "A": " wolno pobierać odsetki, o ile nie wyklucza tego umowa spółki,  ",
+            "B": " wolno pobierać odsetki, o ile umowa spółki to przewiduje, jednak w wysokości  nie przekraczającej 5%,  ",
+            "C": " nie wolno pobierać odsetek.    "
+        }
     },
-    "question_96": {
-        "question_number": "96.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, zarząd spółki z ograniczoną odpowiedzialnością składa się: ",
-        "first_answer": " z jednego albo większej liczby członków,  ",
-        "second_answer": " zawsze z dwóch albo większej liczby członków,  ",
-        "third_answer": " zawsze z trzech albo większej liczby członków.        \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 19  "
+        "answers": {
+            "A": " z jednego albo większej liczby członków,  ",
+            "B": " zawsze z dwóch albo większej liczby członków,  ",
+            "C": " zawsze z trzech albo większej liczby członków.        \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 19  "
+        }
     },
-    "question_97": {
-        "question_number": "97.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, indywidualną kontrolę wspólników  w spółce z ograniczoną odpowiedzialnością można wyłączyć albo ograniczyć:  ",
-        "first_answer": " uchwałą wspólników nie zmieniającą umowy spółki bez względu na to, czy umowa spółki zawiera w tym zakresie jakiekolwiek postanowienia,  ",
-        "second_answer": " w umowie spółki, w przypadku ustanowienia rady nadzorczej lub komisji rewizyjnej,  ",
-        "third_answer": " w umowie spółki, w przypadku, gdy nie jest ustanowiona rada nadzorcza ani komisja rewizyjna.   "
+        "answers": {
+            "A": " uchwałą wspólników nie zmieniającą umowy spółki bez względu na to, czy umowa spółki zawiera w tym zakresie jakiekolwiek postanowienia,  ",
+            "B": " w umowie spółki, w przypadku ustanowienia rady nadzorczej lub komisji rewizyjnej,  ",
+            "C": " w umowie spółki, w przypadku, gdy nie jest ustanowiona rada nadzorcza ani komisja rewizyjna.   "
+        }
     },
-    "question_98": {
-        "question_number": "98.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, rada nadzorcza spółki z ograniczoną odpowiedzialnością składa się co najmniej z: ",
-        "first_answer": " trzech członków,  ",
-        "second_answer": " pięciu członków,  ",
-        "third_answer": " siedmiu członków.    "
+        "answers": {
+            "A": " trzech członków,  ",
+            "B": " pięciu członków,  ",
+            "C": " siedmiu członków.    "
+        }
     },
-    "question_99": {
-        "question_number": "99.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, prawo do wytoczenia powództwa o uchylenie uchwały wspólników w spółce z ograniczoną odpowiedzialnością przysługuje między innymi: ",
-        "first_answer": " każdemu wspólnikowi, nawet jeżeli głosował za uchwałą,  ",
-        "second_answer": " każdemu wspólnikowi, który głosował przeciwko uchwale, mimo że nie zażądał zaprotokołowania sprzeciwu,  ",
-        "third_answer": " każdemu wspólnikowi, który głosował przeciwko uchwale, a po jej powzięciu zażądał zaprotokołowania sprzeciwu.  "
+        "answers": {
+            "A": " każdemu wspólnikowi, nawet jeżeli głosował za uchwałą,  ",
+            "B": " każdemu wspólnikowi, który głosował przeciwko uchwale, mimo że nie zażądał zaprotokołowania sprzeciwu,  ",
+            "C": " każdemu wspólnikowi, który głosował przeciwko uchwale, a po jej powzięciu zażądał zaprotokołowania sprzeciwu.  "
+        }
     },
-    "question_100": {
-        "question_number": "100.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, kapitał zakładowy spółki akcyjnej powinien wynosić co najmniej:  ",
-        "first_answer": " 50.000 złotych, ",
-        "second_answer": " 100.000 złotych, ",
-        "third_answer": " 500.000 złotych.  "
+        "answers": {
+            "A": " 50.000 złotych, ",
+            "B": " 100.000 złotych, ",
+            "C": " 500.000 złotych.  "
+        }
     },
-    "question_101": {
-        "question_number": "101.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, jeżeli w spółce akcyjnej akcje obejmowane  są za wkłady pieniężne po cenie wyższej od wartości nominalnej, nadwyżka powinna  być uiszczona: ",
-        "first_answer": " w całości przed zarejestrowaniem spółki akcyjnej, ",
-        "second_answer": " co najmniej w połowie przed zarejestrowaniem spółki akcyjnej, ",
-        "third_answer": " w całości w ciągu roku od zarejestrowania spółki akcyjnej.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 20 "
+        "answers": {
+            "A": " w całości przed zarejestrowaniem spółki akcyjnej, ",
+            "B": " co najmniej w połowie przed zarejestrowaniem spółki akcyjnej, ",
+            "C": " w całości w ciągu roku od zarejestrowania spółki akcyjnej.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 20 "
+        }
     },
-    "question_102": {
-        "question_number": "102.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, wniosek o wpis do rejestru (Krajowego Rejestru Sądowego - rejestru przedsiębiorców) spółki akcyjnej, w której powołano zarząd wieloosobowy: ",
-        "first_answer": " podpisuje jeden członek zarządu, ",
-        "second_answer": " podpisują wszyscy członkowie rady nadzorczej, ",
-        "third_answer": " podpisują wszyscy członkowie zarządu.  "
+        "answers": {
+            "A": " podpisuje jeden członek zarządu, ",
+            "B": " podpisują wszyscy członkowie rady nadzorczej, ",
+            "C": " podpisują wszyscy członkowie zarządu.  "
+        }
     },
-    "question_103": {
-        "question_number": "103.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, w spółce akcyjnej uprzywilejowanie akcji  co do głosu polega na tym, że jednej akcji można przyznać: ",
-        "first_answer": " nie więcej niż dwa głosy, ",
-        "second_answer": " nie więcej niż trzy głosy, ",
-        "third_answer": " nie więcej niż cztery głosy.  "
+        "answers": {
+            "A": " nie więcej niż dwa głosy, ",
+            "B": " nie więcej niż trzy głosy, ",
+            "C": " nie więcej niż cztery głosy.  "
+        }
     },
-    "question_104": {
-        "question_number": "104.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, w spółce akcyjnej, jeżeli statut inaczej  nie stanowi, członków zarządu powołuje: ",
-        "first_answer": " rada nadzorcza, ",
-        "second_answer": " komisja rewizyjna, ",
-        "third_answer": " walne zgromadzenie.  "
+        "answers": {
+            "A": " rada nadzorcza, ",
+            "B": " komisja rewizyjna, ",
+            "C": " walne zgromadzenie.  "
+        }
     },
-    "question_105": {
-        "question_number": "105.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, w spółce akcyjnej ustanawia się: ",
-        "first_answer": " radę nadzorczą, ",
-        "second_answer": " radę nadzorczą i komisję rewizyjną, ",
-        "third_answer": " komisję rewizyjną.  "
+        "answers": {
+            "A": " radę nadzorczą, ",
+            "B": " radę nadzorczą i komisję rewizyjną, ",
+            "C": " komisję rewizyjną.  "
+        }
     },
-    "question_106": {
-        "question_number": "106.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, wniosek o wykreślenie spółki akcyjnej  z Krajowego Rejestru Sądowego, po zakończeniu postępowania upadłościowego obejmującego likwidację jej majątku, składa:  ",
-        "first_answer": " sędzia - komisarz, ",
-        "second_answer": " zarząd spółki, ",
-        "third_answer": " syndyk.  "
+        "answers": {
+            "A": " sędzia - komisarz, ",
+            "B": " zarząd spółki, ",
+            "C": " syndyk.  "
+        }
     },
-    "question_107": {
-        "question_number": "107.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, podziałowi może podlegać, nie pozostająca  w likwidacji ani w upadłości spółka: ",
-        "first_answer": " jawna,  ",
-        "second_answer": " komandytowo-akcyjna,  ",
-        "third_answer": " z ograniczoną odpowiedzialnością.   \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 21 "
+        "answers": {
+            "A": " jawna,  ",
+            "B": " komandytowo-akcyjna,  ",
+            "C": " z ograniczoną odpowiedzialnością.   \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 21 "
+        }
     },
-    "question_108": {
-        "question_number": "108.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, jednym z warunków przekształcenia spółki jawnej w spółkę z ograniczoną odpowiedzialnością, jest aby:  ",
-        "first_answer": " za przekształceniem wypowiedziała się większość wspólników, ",
-        "second_answer": " za przekształceniem wypowiedzieli się wszyscy wspólnicy, ",
-        "third_answer": " za przekształceniem wypowiedziała się większość wspólników, których udziały  w majątku spółki jawnej wynoszą co najmniej tyle, ile wynosi przewidywany kapitał zakładowy przekształconej spółki z ograniczoną odpowiedzialnością.   "
+        "answers": {
+            "A": " za przekształceniem wypowiedziała się większość wspólników, ",
+            "B": " za przekształceniem wypowiedzieli się wszyscy wspólnicy, ",
+            "C": " za przekształceniem wypowiedziała się większość wspólników, których udziały  w majątku spółki jawnej wynoszą co najmniej tyle, ile wynosi przewidywany kapitał zakładowy przekształconej spółki z ograniczoną odpowiedzialnością.   "
+        }
     },
-    "question_109": {
-        "question_number": "109.",
+    {
         "question": " Zgodnie z Kodeksem pracy, okres wypowiedzenia umowy o pracę zawartej na czas nieokreślony, jeżeli pracownik zatrudniony był co najmniej 3 lata u danego pracodawcy, wynosi: ",
-        "first_answer": " 2 tygodnie, ",
-        "second_answer": " 1 miesiąc, ",
-        "third_answer": " 3 miesiące.  "
+        "answers": {
+            "A": " 2 tygodnie, ",
+            "B": " 1 miesiąc, ",
+            "C": " 3 miesiące.  "
+        }
     },
-    "question_110": {
-        "question_number": "110.",
+    {
         "question": "Zgodnie z ustawą o systemie ubezpieczeń społecznych, ubezpieczenia społeczne nie obejmują: ",
-        "first_answer": " ubezpieczeń w razie choroby i macierzyństwa, ",
-        "second_answer": " ubezpieczeń z tytułu odpowiedzialności cywilnej, ",
-        "third_answer": " ubezpieczeń z tytułu wypadków przy pracy i chorób zawodowych.  "
+        "answers": {
+            "A": " ubezpieczeń w razie choroby i macierzyństwa, ",
+            "B": " ubezpieczeń z tytułu odpowiedzialności cywilnej, ",
+            "C": " ubezpieczeń z tytułu wypadków przy pracy i chorób zawodowych.  "
+        }
     },
-    "question_111": {
-        "question_number": "111.",
+    {
         "question": "Zgodnie z ustawą o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, jeżeli niezdolność do pracy przypada w okresie ciąży miesięczny zasiłek chorobowy wynosi:  ",
-        "first_answer": " 70 % podstawy wymiaru zasiłku,  ",
-        "second_answer": " 100 % podstawy wymiaru zasiłku,  ",
-        "third_answer": " 120 % podstawy wymiaru zasiłku.  "
+        "answers": {
+            "A": " 70 % podstawy wymiaru zasiłku,  ",
+            "B": " 100 % podstawy wymiaru zasiłku,  ",
+            "C": " 120 % podstawy wymiaru zasiłku.  "
+        }
     },
-    "question_112": {
-        "question_number": "112.",
+    {
         "question": "Zgodnie z ustawą o samorządzie powiatowym, organem wykonawczym powiatu jest: ",
-        "first_answer": " starostwo powiatowe, ",
-        "second_answer": " zarząd powiatu, ",
-        "third_answer": " przewodniczący rady powiatu.  "
+        "answers": {
+            "A": " starostwo powiatowe, ",
+            "B": " zarząd powiatu, ",
+            "C": " przewodniczący rady powiatu.  "
+        }
     },
-    "question_113": {
-        "question_number": "113.",
+    {
         "question": "Zgodnie z ustawą o samorządzie gminnym, projekt budżetu gminy przygotowuje: ",
-        "first_answer": "komisja rewizyjna rady gminy, ",
-        "second_answer": "wójt gminy (burmistrz, prezydent miasta), ",
-        "third_answer": "przewodniczący rady gminy.  \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 22 "
+        "answers": {
+            "A": "komisja rewizyjna rady gminy, ",
+            "B": "wójt gminy (burmistrz, prezydent miasta), ",
+            "C": "przewodniczący rady gminy.  \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 22 "
+        }
     },
-    "question_114": {
-        "question_number": "114.",
+    {
         "question": "Zgodnie z ustawą o samorządzie województwa, ustrój województwa, jako jednostki samorządu terytorialnego, określa statut województwa uchwalony przez sejmik województwa po uzgodnieniu z: ",
-        "first_answer": "Radą Ministrów, ",
-        "second_answer": "Prezesem Rady Ministrów, ",
-        "third_answer": "Ministrem Spraw Wewnętrznych i Administracji.  "
+        "answers": {
+            "A": "Radą Ministrów, ",
+            "B": "Prezesem Rady Ministrów, ",
+            "C": "Ministrem Spraw Wewnętrznych i Administracji.  "
+        }
     },
-    "question_115": {
-        "question_number": "115.",
+    {
         "question": "Zgodnie z ustawą - Prawo budowlane, decyzja o pozwoleniu na budowę wygasa, jeżeli budowa nie została rozpoczęta: ",
-        "first_answer": "przed upływem 1 roku od dnia, w którym decyzja ta stała się ostateczna, ",
-        "second_answer": "przed upływem 2 lat od dnia, w którym decyzja ta stała się ostateczna, ",
-        "third_answer": "przed upływem 3 lat od dnia, w którym decyzja ta stała się ostateczna.  "
+        "answers": {
+            "A": "przed upływem 1 roku od dnia, w którym decyzja ta stała się ostateczna, ",
+            "B": "przed upływem 2 lat od dnia, w którym decyzja ta stała się ostateczna, ",
+            "C": "przed upływem 3 lat od dnia, w którym decyzja ta stała się ostateczna.  "
+        }
     },
-    "question_116": {
-        "question_number": "116.",
+    {
         "question": "Zgodnie z ustawą o planowaniu i zagospodarowaniu przestrzennym, prawo  do otrzymania wypisów i wyrysów z miejscowego planu zagospodarowania przestrzennego ma: ",
-        "first_answer": "każdy,  ",
-        "second_answer": "wyłącznie ten, kto ma w tym interes prawny, ",
-        "third_answer": "wyłącznie właściciel lub użytkownik nieruchomości, której dotyczy wypis lub wyrys  z planu miejscowego.   "
+        "answers": {
+            "A": "każdy,  ",
+            "B": "wyłącznie ten, kto ma w tym interes prawny, ",
+            "C": "wyłącznie właściciel lub użytkownik nieruchomości, której dotyczy wypis lub wyrys  z planu miejscowego.   "
+        }
     },
-    "question_117": {
-        "question_number": "117.",
+    {
         "question": "Zgodnie z Kodeksem postępowania administracyjnego, pełnomocnikiem strony może być: ",
-        "first_answer": "wyłącznie adwokat lub radca prawny, ",
-        "second_answer": "osoba fizyczna posiadająca zdolność do czynności prawnych, ",
-        "third_answer": "osoba prawna.  "
+        "answers": {
+            "A": "wyłącznie adwokat lub radca prawny, ",
+            "B": "osoba fizyczna posiadająca zdolność do czynności prawnych, ",
+            "C": "osoba prawna.  "
+        }
     },
-    "question_118": {
-        "question_number": "118.",
+    {
         "question": " Zgodnie z Kodeksem postępowania administracyjnego, jeżeli w podaniu nie wskazano adresu wnoszącego i nie ma możliwości ustalenia tego adresu na podstawie posiadanych danych: ",
-        "first_answer": " podanie pozostawia się bez rozpoznania, ",
-        "second_answer": " postępowanie w sprawie podlega zawieszeniu, ",
-        "third_answer": " postępowanie w sprawie podlega umorzeniu.     \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 23 "
+        "answers": {
+            "A": " podanie pozostawia się bez rozpoznania, ",
+            "B": " postępowanie w sprawie podlega zawieszeniu, ",
+            "C": " postępowanie w sprawie podlega umorzeniu.     \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 23 "
+        }
     },
-    "question_119": {
-        "question_number": "119.",
+    {
         "question": " Zgodnie z ustawą - Prawo o postępowaniu przed sądami administracyjnymi, w razie wniesienia skargi do sądu po wszczęciu postępowania administracyjnego w celu zmiany, uchylenia, stwierdzenia nieważności aktu lub wznowienia postępowania: ",
-        "first_answer": "postępowanie sądowe w tej sprawie podlega zawieszeniu, ",
-        "second_answer": "skarga w tej sprawie podlega oddaleniu, ",
-        "third_answer": "skarga tej sprawie podlega odrzuceniu.  "
+        "answers": {
+            "A": "postępowanie sądowe w tej sprawie podlega zawieszeniu, ",
+            "B": "skarga w tej sprawie podlega oddaleniu, ",
+            "C": "skarga tej sprawie podlega odrzuceniu.  "
+        }
     },
-    "question_120": {
-        "question_number": "120.",
+    {
         "question": "Zgodnie z ustawą - Prawo o postępowaniu przed sądami administracyjnymi skargę,  od której pomimo wezwania nie został uiszczony należny wpis, wojewódzki sąd administracyjny: ",
-        "first_answer": "zwraca skarżącemu, ",
-        "second_answer": "oddala, ",
-        "third_answer": "odrzuca.  "
+        "answers": {
+            "A": "zwraca skarżącemu, ",
+            "B": "oddala, ",
+            "C": "odrzuca.  "
+        }
     },
-    "question_121": {
-        "question_number": "121.",
+    {
         "question": "Zgodnie z Traktatem Ustanawiającym Wspólnotę Europejską (tekst skonsolidowany uwzględniający zmiany wprowadzone Traktatem z ",
-        "first_answer": " każda osoba mająca przynależność Państwa Członkowskiego, ",
-        "second_answer": " każda osoba mająca przynależność Państwa ",
-        "third_answer": " każda osoba przebywająca na terenie Unii.  "
+        "answers": {
+            "A": " każda osoba mająca przynależność Państwa Członkowskiego, ",
+            "B": " każda osoba mająca przynależność Państwa ",
+            "C": " każda osoba przebywająca na terenie Unii.  "
+        }
     },
-    "question_122": {
-        "question_number": "122.",
+    {
         "question": "Zgodnie z Traktatem Ustanawiającym Wspólnotę Europejską (tekst skonsolidowany uwzględniający zmiany wprowadzone Traktatem z ",
-        "first_answer": " w powszechnych wyborach pośrednich, ",
-        "second_answer": " w powszechnych wyborach bezpośrednich, ",
-        "third_answer": " przez parlamenty państw należących do Wspólnoty.  "
+        "answers": {
+            "A": " w powszechnych wyborach pośrednich, ",
+            "B": " w powszechnych wyborach bezpośrednich, ",
+            "C": " przez parlamenty państw należących do Wspólnoty.  "
+        }
     },
-    "question_123": {
-        "question_number": "123.",
+    {
         "question": "Zgodnie z Traktatem Ustanawiającym Wspólnotę Europejską (tekst skonsolidowany uwzględniający zmiany wprowadzone Traktatem z ",
-        "first_answer": " zawsze wiąże w całości i jest bezpośrednio stosowana we wszystkich Państwach Członkowskich, ",
-        "second_answer": " wiąże każde Państwo ",
-        "third_answer": " wiąże tylko organy wspólnotowe. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 24 "
+        "answers": {
+            "A": " zawsze wiąże w całości i jest bezpośrednio stosowana we wszystkich Państwach Członkowskich, ",
+            "B": " wiąże każde Państwo ",
+            "C": " wiąże tylko organy wspólnotowe. \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 24 "
+        }
     },
-    "question_124": {
-        "question_number": "124.",
+    {
         "question": "Zgodnie z Ordynacją podatkową, osoba fizyczna, osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej, obowiązana wyłącznie do pobrania od podatnika podatku i wpłacenia go we właściwym terminie organowi podatkowemu jest: ",
-        "first_answer": "płatnikiem,  ",
-        "second_answer": "poborcą, ",
-        "third_answer": "inkasentem.  "
+        "answers": {
+            "A": "płatnikiem,  ",
+            "B": "poborcą, ",
+            "C": "inkasentem.  "
+        }
     },
-    "question_125": {
-        "question_number": "125.",
+    {
         "question": "Zgodnie z Ordynacją podatkową, bieg terminu przedawnienia zobowiązania podatkowego przerywa: ",
-        "first_answer": "wszczęcie przeciwko podatnikowi postępowania karnego o przestępstwo lub wykroczenie skarbowe, ",
-        "second_answer": "odroczenie terminu płatności podatku, ",
-        "third_answer": "ogłoszenie upadłości podatnika.  "
+        "answers": {
+            "A": "wszczęcie przeciwko podatnikowi postępowania karnego o przestępstwo lub wykroczenie skarbowe, ",
+            "B": "odroczenie terminu płatności podatku, ",
+            "C": "ogłoszenie upadłości podatnika.  "
+        }
     },
-    "question_126": {
-        "question_number": "126.",
+    {
         "question": " Zgodnie z Ordynacją podatkową, w postępowaniu podatkowym rozprawa może być przeprowadzona: ",
-        "first_answer": "tylko w toku postępowania prowadzonego przez organ podatkowy pierwszej instancji, ",
-        "second_answer": "tylko w toku postępowania prowadzonego przez organ odwoławczy, ",
-        "third_answer": "zarówno w toku postępowania prowadzonego przez organ podatkowy pierwszej instancji, jak i przez organ odwoławczy.  "
+        "answers": {
+            "A": "tylko w toku postępowania prowadzonego przez organ podatkowy pierwszej instancji, ",
+            "B": "tylko w toku postępowania prowadzonego przez organ odwoławczy, ",
+            "C": "zarówno w toku postępowania prowadzonego przez organ podatkowy pierwszej instancji, jak i przez organ odwoławczy.  "
+        }
     },
-    "question_127": {
-        "question_number": "127.",
+    {
         "question": "Zgodnie z Ordynacją podatkową, w razie wydania przez Europejski Trybunał Sprawiedliwości orzeczenia, które ma wpływ na treść wydanej decyzji ostatecznej, wznowienie postępowania następuje na żądanie strony wniesione w terminie: ",
-        "first_answer": "jednego miesiąca od publikacji sentencji orzeczenia Europejskiego Trybunału Sprawiedliwości w Dzienniku Urzędowym Unii Europejskiej, ",
-        "second_answer": "trzech miesięcy od publikacji sentencji orzeczenia Europejskiego Trybunału Sprawiedliwości w Dzienniku Urzędowym Unii Europejskiej, ",
-        "third_answer": "jednego roku od publikacji sentencji orzeczenia Europejskiego Trybunału Sprawiedliwości w Dzienniku Urzędowym Unii Europejskiej.  "
+        "answers": {
+            "A": "jednego miesiąca od publikacji sentencji orzeczenia Europejskiego Trybunału Sprawiedliwości w Dzienniku Urzędowym Unii Europejskiej, ",
+            "B": "trzech miesięcy od publikacji sentencji orzeczenia Europejskiego Trybunału Sprawiedliwości w Dzienniku Urzędowym Unii Europejskiej, ",
+            "C": "jednego roku od publikacji sentencji orzeczenia Europejskiego Trybunału Sprawiedliwości w Dzienniku Urzędowym Unii Europejskiej.  "
+        }
     },
-    "question_128": {
-        "question_number": "128.",
+    {
         "question": "Zgodnie z ustawą o finansach publicznych, sektor finansów publicznych tworzą między innymi: ",
-        "first_answer": "banki państwowe, ",
-        "second_answer": "samodzielne publiczne zakłady opieki zdrowotnej, ",
-        "third_answer": "przedsiębiorstwa państwowe.   \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 25 "
+        "answers": {
+            "A": "banki państwowe, ",
+            "B": "samodzielne publiczne zakłady opieki zdrowotnej, ",
+            "C": "przedsiębiorstwa państwowe.   \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 25 "
+        }
     },
-    "question_129": {
-        "question_number": "129.",
+    {
         "question": "Zgodnie z ustawą o podatku od czynności cywilnoprawnych, jeżeli przed organem podatkowym lub organem kontroli skarbowej w toku czynności sprawdzających, postępowania podatkowego, kontroli podatkowej lub postępowania kontrolnego podatnik powołuje się na fakt zawarcia umowy pożyczki, depozytu nieprawidłowego lub ustanowienia użytkowania nieprawidłowego albo ich zmiany, a należny podatek od tych czynności nie został zapłacony, stawka podatku wynosi: ",
-        "first_answer": "20 %, ",
-        "second_answer": "30 %, ",
-        "third_answer": "40 %.  "
+        "answers": {
+            "A": "20 %, ",
+            "B": "30 %, ",
+            "C": "40 %.  "
+        }
     },
-    "question_130": {
-        "question_number": "130.",
+    {
         "question": "Zgodnie z ustawą o podatku od czynności cywilnoprawnych, zwolniona od podatku od czynności cywilnoprawnych jest podlegająca temu podatkowi sprzedaż rzeczy ruchomych, jeżeli podstawa opodatkowania nie przekracza:  ",
-        "first_answer": " 1.000 złotych, ",
-        "second_answer": " 2.000 złotych, ",
-        "third_answer": " 5.000 złotych.  "
+        "answers": {
+            "A": " 1.000 złotych, ",
+            "B": " 2.000 złotych, ",
+            "C": " 5.000 złotych.  "
+        }
     },
-    "question_131": {
-        "question_number": "131.",
+    {
         "question": "Zgodnie z ustawą o podatku od spadków i darowizn, przy nabyciu w drodze zasiedzenia obowiązek podatkowy powstaje: ",
-        "first_answer": "z chwilą wydania postanowienia sądu stwierdzającego zasiedzenie, ",
-        "second_answer": "z chwilą uprawomocnienia się postanowienia sądu stwierdzającego zasiedzenie, ",
-        "third_answer": "z chwilą, w której decyzja naczelnika urzędu skarbowego o ustaleniu zobowiązania podatkowego z tytułu nabycia w drodze zasiedzenia stała się ostateczna.  "
+        "answers": {
+            "A": "z chwilą wydania postanowienia sądu stwierdzającego zasiedzenie, ",
+            "B": "z chwilą uprawomocnienia się postanowienia sądu stwierdzającego zasiedzenie, ",
+            "C": "z chwilą, w której decyzja naczelnika urzędu skarbowego o ustaleniu zobowiązania podatkowego z tytułu nabycia w drodze zasiedzenia stała się ostateczna.  "
+        }
     },
-    "question_132": {
-        "question_number": "132.",
+    {
         "question": "Zgodnie z ustawą o podatku od spadków i darowizn, do I grupy podatkowej zalicza się między innymi: ",
-        "first_answer": "macochę osoby, od której lub po której zostały nabyte rzeczy i prawa majątkowe,  ",
-        "second_answer": "rodzeństwo rodziców osoby, od której lub po której zostały nabyte rzeczy i prawa majątkowe, ",
-        "third_answer": "zstępnych rodzeństwa osoby, od której lub po której zostały nabyte rzeczy i prawa majątkowe.        \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 26 "
+        "answers": {
+            "A": "macochę osoby, od której lub po której zostały nabyte rzeczy i prawa majątkowe,  ",
+            "B": "rodzeństwo rodziców osoby, od której lub po której zostały nabyte rzeczy i prawa majątkowe, ",
+            "C": "zstępnych rodzeństwa osoby, od której lub po której zostały nabyte rzeczy i prawa majątkowe.        \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 26 "
+        }
     },
-    "question_133": {
-        "question_number": "133.",
+    {
         "question": "Zgodnie z ustawą - Prawo prywatne międzynarodowe, o ile umowa międzynarodowa, której Rzeczpospolita Polska jest stroną nie postanawia inaczej, roszczenia alimentacyjne między powinowatymi, nie związane z poczęciem i urodzeniem  się dziecka, podlegają: ",
-        "first_answer": " zawsze prawu ojczystemu osoby zobowiązanej do alimentacji, ",
-        "second_answer": " zawsze prawu ojczystemu osoby uprawnionej do alimentacji,  ",
-        "third_answer": " zawsze prawu miejsca zamieszkania osoby zobowiązanej do alimentacji.   "
+        "answers": {
+            "A": " zawsze prawu ojczystemu osoby zobowiązanej do alimentacji, ",
+            "B": " zawsze prawu ojczystemu osoby uprawnionej do alimentacji,  ",
+            "C": " zawsze prawu miejsca zamieszkania osoby zobowiązanej do alimentacji.   "
+        }
     },
-    "question_134": {
-        "question_number": "134.",
+    {
         "question": "Zgodnie z ustawą - Prawo prywatne międzynarodowe, o ile umowa międzynarodowa, której Rzeczpospolita Polska jest stroną nie postanawia inaczej, prawa rzeczowe inne niż własność podlegają: ",
-        "first_answer": " prawu ojczystemu właściciela rzeczy,  ",
-        "second_answer": " prawu ojczystemu osoby uprawnionej do danego prawa rzeczowego,  ",
-        "third_answer": " prawu państwa, w którym znajduje się przedmiot tych praw.  "
+        "answers": {
+            "A": " prawu ojczystemu właściciela rzeczy,  ",
+            "B": " prawu ojczystemu osoby uprawnionej do danego prawa rzeczowego,  ",
+            "C": " prawu państwa, w którym znajduje się przedmiot tych praw.  "
+        }
     },
-    "question_135": {
-        "question_number": "135.",
+    {
         "question": "Zgodnie z ustawą - Prawo prywatne międzynarodowe, o ile umowa międzynarodowa, której Rzeczpospolita Polska jest stroną nie postanawia inaczej i z wyłączeniem stosowania prawa obcego, nabycie własności podlega: ",
-        "first_answer": " zawsze prawu miejsca sporządzenia umowy nabycia własności,  ",
-        "second_answer": " zawsze prawu państwa, w którym znajdował się przedmiot własności w chwili,  gdy nastąpiło zdarzenie pociągające za sobą nabycie własności,  ",
-        "third_answer": " zawsze prawu ojczystemu zbywcy.   "
+        "answers": {
+            "A": " zawsze prawu miejsca sporządzenia umowy nabycia własności,  ",
+            "B": " zawsze prawu państwa, w którym znajdował się przedmiot własności w chwili,  gdy nastąpiło zdarzenie pociągające za sobą nabycie własności,  ",
+            "C": " zawsze prawu ojczystemu zbywcy.   "
+        }
     },
-    "question_136": {
-        "question_number": "136.",
+    {
         "question": "Zgodnie z Konstytucją RP, jeżeli organ stanowiący gminy rażąco narusza Konstytucję lub ustawy, może zostać rozwiązany przez:  ",
-        "first_answer": " sejmik województwa na wniosek wojewody, ",
-        "second_answer": " Sejm na wniosek Prezesa Rady Ministrów, ",
-        "third_answer": " Prezesa Rady Ministrów po zasięgnięciu opinii sejmiku wojewódzkiego.  "
+        "answers": {
+            "A": " sejmik województwa na wniosek wojewody, ",
+            "B": " Sejm na wniosek Prezesa Rady Ministrów, ",
+            "C": " Prezesa Rady Ministrów po zasięgnięciu opinii sejmiku wojewódzkiego.  "
+        }
     },
-    "question_137": {
-        "question_number": "137.",
+    {
         "question": "Zgodnie z Konstytucją RP, nie wolno zaciągać pożyczek lub udzielać gwarancji  i poręczeń finansowych, w następstwie których państwowy dług publiczny przekroczy:  ",
-        "first_answer": "2/5 wartości rocznego produktu krajowego brutto, ",
-        "second_answer": "1/2 wartości rocznego produktu krajowego brutto, ",
-        "third_answer": "3/5 wartości rocznego produktu krajowego brutto.      \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 27 "
+        "answers": {
+            "A": "2/5 wartości rocznego produktu krajowego brutto, ",
+            "B": "1/2 wartości rocznego produktu krajowego brutto, ",
+            "C": "3/5 wartości rocznego produktu krajowego brutto.      \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 27 "
+        }
     },
-    "question_138": {
-        "question_number": "138.",
+    {
         "question": "Zgodnie z Konstytucją RP, w celu zapobieżenia skutkom katastrof naturalnych lub awarii technicznych noszących znamiona klęski żywiołowej oraz w celu ich usunięcia, stan klęski żywiołowej na części albo na całym terytorium państwa na czas oznaczony, nie dłuższy niż 30 dni może wprowadzić: ",
-        "first_answer": "Prezydent Rzeczypospolitej Polskiej na wniosek Prezesa Rady Ministrów, ",
-        "second_answer": "Rada Ministrów,  ",
-        "third_answer": "Prezes Rady Ministrów.  "
+        "answers": {
+            "A": "Prezydent Rzeczypospolitej Polskiej na wniosek Prezesa Rady Ministrów, ",
+            "B": "Rada Ministrów,  ",
+            "C": "Prezes Rady Ministrów.  "
+        }
     },
-    "question_139": {
-        "question_number": "139.",
+    {
         "question": "Zgodnie z ustawą o Sądzie Najwyższym, liczbę stanowisk sędziowskich w Sądzie Najwyższym, w tym liczbę Prezesów Sądu Najwyższego, na wniosek Zgromadzenia Ogólnego Sędziów Sądu Najwyższego, ustala: ",
-        "first_answer": "Prezydent Rzeczypospolitej Polskiej w drodze rozporządzenia, ",
-        "second_answer": "Sejm w drodze uchwały, ",
-        "third_answer": "Senat w drodze uchwały.  "
+        "answers": {
+            "A": "Prezydent Rzeczypospolitej Polskiej w drodze rozporządzenia, ",
+            "B": "Sejm w drodze uchwały, ",
+            "C": "Senat w drodze uchwały.  "
+        }
     },
-    "question_140": {
-        "question_number": "140.",
+    {
         "question": "Zgodnie z ustawą - Prawo o ustroju sądów powszechnych, tworzy i znosi sądy powszechne oraz ustala ich siedziby i obszary właściwości w drodze rozporządzenia:  ",
-        "first_answer": " Prezydent Rzeczypospolitej Polskiej na wniosek Krajowej Rady Sądownictwa, ",
-        "second_answer": " Rada Ministrów na wniosek Krajowej Rady Sądownictwa, ",
-        "third_answer": " Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Sądownictwa.  "
+        "answers": {
+            "A": " Prezydent Rzeczypospolitej Polskiej na wniosek Krajowej Rady Sądownictwa, ",
+            "B": " Rada Ministrów na wniosek Krajowej Rady Sądownictwa, ",
+            "C": " Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Sądownictwa.  "
+        }
     },
-    "question_141": {
-        "question_number": "141.",
+    {
         "question": "Zgodnie z ustawą - Prawo o ustroju sądów powszechnych, stosunek służbowy sędziego nawiązuje się: ",
-        "first_answer": "po złożeniu ślubowania wobec prezesa sądu, w którym sędzia obejmuje stanowisko sędziowskie, ",
-        "second_answer": "po doręczeniu mu aktu powołania, ",
-        "third_answer": "po zgłoszeniu się do sądu w ciągu 14 dni od dnia otrzymania aktu powołania w celu objęcia stanowiska sędziowskiego.  "
+        "answers": {
+            "A": "po złożeniu ślubowania wobec prezesa sądu, w którym sędzia obejmuje stanowisko sędziowskie, ",
+            "B": "po doręczeniu mu aktu powołania, ",
+            "C": "po zgłoszeniu się do sądu w ciągu 14 dni od dnia otrzymania aktu powołania w celu objęcia stanowiska sędziowskiego.  "
+        }
     },
-    "question_142": {
-        "question_number": "142.",
+    {
         "question": "Zgodnie z ustawą o prokuraturze, Prokuratora Krajowego jako zastępcę Prokuratora Generalnego powołuje spośród prokuratorów Prokuratury Krajowej: ",
-        "first_answer": "Rada Ministrów na wniosek Prokuratora Generalnego, ",
-        "second_answer": "Minister Sprawiedliwości, ",
-        "third_answer": "Prezes Rady Ministrów na wniosek Prokuratora Generalnego.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 28 "
+        "answers": {
+            "A": "Rada Ministrów na wniosek Prokuratora Generalnego, ",
+            "B": "Minister Sprawiedliwości, ",
+            "C": "Prezes Rady Ministrów na wniosek Prokuratora Generalnego.    \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 28 "
+        }
     },
-    "question_143": {
-        "question_number": "143.",
+    {
         "question": "Zgodnie z ustawą - Prawo o ustroju sądów administracyjnych, podział czynności  w wojewódzkim sądzie administracyjnym i szczegółowe zasady przydziału spraw poszczególnym sędziom wojewódzkiego sądu administracyjnego, ustala: ",
-        "first_answer": "Prezes Naczelnego Sądu Administracyjnego, ",
-        "second_answer": "prezes wojewódzkiego sądu administracyjnego, ",
-        "third_answer": " kolegium wojewódzkiego sądu administracyjnego.  "
+        "answers": {
+            "A": "Prezes Naczelnego Sądu Administracyjnego, ",
+            "B": "prezes wojewódzkiego sądu administracyjnego, ",
+            "C": " kolegium wojewódzkiego sądu administracyjnego.  "
+        }
     },
-    "question_144": {
-        "question_number": "144.",
+    {
         "question": "Zgodnie z ustawą - Prawo o notariacie, jeżeli notariusz nie może pełnić swych obowiązków, zastępcą notariusza może być wyznaczony: ",
-        "first_answer": " emerytowany notariusz,  ",
-        "second_answer": " sędzia w stanie spoczynku,  ",
-        "third_answer": " inny notariusz prowadzący swoją kancelarię.   "
+        "answers": {
+            "A": " emerytowany notariusz,  ",
+            "B": " sędzia w stanie spoczynku,  ",
+            "C": " inny notariusz prowadzący swoją kancelarię.   "
+        }
     },
-    "question_145": {
-        "question_number": "145.",
+    {
         "question": "Zgodnie z ustawą - Prawo o notariacie, prezes rady izby notarialnej może sprawować  tę funkcję:  ",
-        "first_answer": " przez trzy, następujące bezpośrednio po sobie, pełne kadencje,  ",
-        "second_answer": " przez dwie, następujące bezpośrednio po sobie, pełne kadencje,  ",
-        "third_answer": " przez dowolną liczbę następujących bezpośrednio po sobie pełnych kadencji.   "
+        "answers": {
+            "A": " przez trzy, następujące bezpośrednio po sobie, pełne kadencje,  ",
+            "B": " przez dwie, następujące bezpośrednio po sobie, pełne kadencje,  ",
+            "C": " przez dowolną liczbę następujących bezpośrednio po sobie pełnych kadencji.   "
+        }
     },
-    "question_146": {
-        "question_number": "146.",
+    {
         "question": "Zgodnie z ustawą - Prawo o notariacie, do ważności uchwał rady izby notarialnej wymagana jest obecność:  ",
-        "first_answer": " wszystkich jej członków, ",
-        "second_answer": " co najmniej trzech czwartych jej członków,  ",
-        "third_answer": " co najmniej połowy jej członków.   "
+        "answers": {
+            "A": " wszystkich jej członków, ",
+            "B": " co najmniej trzech czwartych jej członków,  ",
+            "C": " co najmniej połowy jej członków.   "
+        }
     },
-    "question_147": {
-        "question_number": "147.",
+    {
         "question": "Zgodnie z ustawą - Prawo o notariacie, od orzeczenia wydanego przez Wyższy Sąd Dyscyplinarny, obwinionemu przysługuje:  ",
-        "first_answer": " apelacja do Sądu Apelacyjnego w Warszawie, ",
-        "second_answer": " kasacja do Sądu Najwyższego,  ",
-        "third_answer": " skarga kasacyjna do Naczelnego Sądu Administracyjnego.   "
+        "answers": {
+            "A": " apelacja do Sądu Apelacyjnego w Warszawie, ",
+            "B": " kasacja do Sądu Najwyższego,  ",
+            "C": " skarga kasacyjna do Naczelnego Sądu Administracyjnego.   "
+        }
     },
-    "question_148": {
-        "question_number": "148.",
+    {
         "question": "Zgodnie z ustawą - Prawo o notariacie, notariusz sporządza akt poświadczenia dziedziczenia: ",
-        "first_answer": " wyłącznie ustawowego, ",
-        "second_answer": " ustawowego lub testamentowego, bez żadnego wyłączenia, ",
-        "third_answer": " ustawowego lub testamentowego, z wyłączeniem dziedziczenia na podstawie testamentów szczególnych.   \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 29 "
+        "answers": {
+            "A": " wyłącznie ustawowego, ",
+            "B": " ustawowego lub testamentowego, bez żadnego wyłączenia, ",
+            "C": " ustawowego lub testamentowego, z wyłączeniem dziedziczenia na podstawie testamentów szczególnych.   \fEGZAMIN  WSTĘPNY  DLA  KANDYDATÓW  NA  APLIKANTÓW  NOTARIALNY 29 "
+        }
     },
-    "question_149": {
-        "question_number": "149.",
+    {
         "question": "Zgodnie z ustawą o ochronie konkurencji i konsumentów, powiatowy (miejski) rzecznik konsumentów jest bezpośrednio podporządkowany: ",
-        "first_answer": "Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, ",
-        "second_answer": "wojewodzie, ",
-        "third_answer": "staroście (prezydentowi miasta).  "
+        "answers": {
+            "A": "Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, ",
+            "B": "wojewodzie, ",
+            "C": "staroście (prezydentowi miasta).  "
+        }
     },
-    "question_150": {
-        "question_number": "150.",
+    {
         "question": "Zgodnie z ustawą o Rzeczniku Praw Obywatelskich, ustanowienie przez Rzecznika swoich pełnomocników terenowych: ",
-        "first_answer": "wymaga zgody Sejmu, ",
-        "second_answer": "wymaga zgody Marszałków Sejmu i Senatu, ",
-        "third_answer": "nie wymaga niczyjej zgody.  \f"
+        "answers": {
+            "A": "wymaga zgody Sejmu, ",
+            "B": "wymaga zgody Marszałków Sejmu i Senatu, ",
+            "C": "nie wymaga niczyjej zgody.  \f"
+        }
     }
-}
+]

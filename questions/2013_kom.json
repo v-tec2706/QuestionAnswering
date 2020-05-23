@@ -1,1052 +1,1202 @@
-{
-    "question_1": {
-        "question_number": "1.",
+[
+    {
         "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, obywatelstwo polskie nabywa się: ",
-        "first_answer": " przez urodzenie z rodziców będących obywatelami polskimi, ",
-        "second_answer": " przez zawarcie związku małżeńskiego z obywatelem polskim przez osobę nie będącą obywatelem polskim, ",
-        "third_answer": " przez urodzenie, w przypadku gdy dziecko urodziło się na terytorium Rzeczypospolitej Polskiej, a oboje rodzice posiadają wyłącznie obywatelstwo innego państwa.   "
+        "answers": {
+            "A": " przez urodzenie z rodziców będących obywatelami polskimi, ",
+            "B": " przez zawarcie związku małżeńskiego z obywatelem polskim przez osobę nie będącą obywatelem polskim, ",
+            "C": " przez urodzenie, w przypadku gdy dziecko urodziło się na terytorium Rzeczypospolitej Polskiej, a oboje rodzice posiadają wyłącznie obywatelstwo innego państwa.   "
+        }
     },
-    "question_2": {
-        "question_number": "2.",
+    {
         "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, nie podlegają przedawnieniu: ",
-        "first_answer": " zobowiązania podatkowe, ",
-        "second_answer": " zbrodnie nie ścigane z przyczyn politycznych, popełnione przez funkcjonariuszy publicznych, ",
-        "third_answer": " zbrodnie przeciwko ludzkości.   "
+        "answers": {
+            "A": " zobowiązania podatkowe, ",
+            "B": " zbrodnie nie ścigane z przyczyn politycznych, popełnione przez funkcjonariuszy publicznych, ",
+            "C": " zbrodnie przeciwko ludzkości.   "
+        }
     },
-    "question_3": {
-        "question_number": "3.",
+    {
         "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, wyrok sądu:  ",
-        "first_answer": " może być ogłaszany z wyłączeniem jawności,  ",
-        "second_answer": " na wniosek prokuratora może być tajny,  ",
-        "third_answer": " ogłaszany jest publicznie.  "
+        "answers": {
+            "A": " może być ogłaszany z wyłączeniem jawności,  ",
+            "B": " na wniosek prokuratora może być tajny,  ",
+            "C": " ogłaszany jest publicznie.  "
+        }
     },
-    "question_4": {
-        "question_number": "4.",
+    {
         "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, wybory do Senatu nie są: ",
-        "first_answer": " powszechne, ",
-        "second_answer": " równe, ",
-        "third_answer": " bezpośrednie.  "
+        "answers": {
+            "A": " powszechne, ",
+            "B": " równe, ",
+            "C": " bezpośrednie.  "
+        }
     },
-    "question_5": {
-        "question_number": "5.",
+    {
         "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, jeżeli Sejm nie może się zebrać na posiedzenie, o stanie wojny postanawia: ",
-        "first_answer": " Prezydent Rzeczypospolitej, ",
-        "second_answer": " Prezes Rady Ministrów, ",
-        "third_answer": " Minister Obrony Narodowej.  "
+        "answers": {
+            "A": " Prezydent Rzeczypospolitej, ",
+            "B": " Prezes Rady Ministrów, ",
+            "C": " Minister Obrony Narodowej.  "
+        }
     },
-    "question_6": {
-        "question_number": "6.",
+    {
         "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, Prezydent Rzeczypospolitej obejmuje urząd po złożeniu przysięgi wobec: ",
-        "first_answer": " Sejmu, ",
-        "second_answer": " Zgromadzenia Narodowego, ",
-        "third_answer": " Senatu. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               3 "
+        "answers": {
+            "A": " Sejmu, ",
+            "B": " Zgromadzenia Narodowego, ",
+            "C": " Senatu. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               3 "
+        }
     },
-    "question_7": {
-        "question_number": "7.",
+    {
         "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, Rada Ministrów obradująca pod przewodnictwem Prezydenta Rzeczypospolitej, tworzy: ",
-        "first_answer": " Radę ",
-        "second_answer": " Radę Gabinetową, ",
-        "third_answer": " Radę Stanu.  "
+        "answers": {
+            "A": " Radę ",
+            "B": " Radę Gabinetową, ",
+            "C": " Radę Stanu.  "
+        }
     },
-    "question_8": {
-        "question_number": "8.",
+    {
         "question": "Zgodnie z Konstytucją Rzeczypospolitej Polskiej, projekt budżetu państwa uchwala: ",
-        "first_answer": " Sejm, ",
-        "second_answer": " Rada Ministrów, ",
-        "third_answer": " Minister Finansów.  "
+        "answers": {
+            "A": " Sejm, ",
+            "B": " Rada Ministrów, ",
+            "C": " Minister Finansów.  "
+        }
     },
-    "question_9": {
-        "question_number": "9.",
+    {
         "question": " Zgodnie z Konstytucją Rzeczypospolitej Polskiej, członkiem Krajowej Rady Sądownictwa nie jest: ",
-        "first_answer": " Minister Sprawiedliwości, ",
-        "second_answer": " Prezes Naczelnego Sądu Administracyjnego, ",
-        "third_answer": " Prezydent Rzeczypospolitej.  "
+        "answers": {
+            "A": " Minister Sprawiedliwości, ",
+            "B": " Prezes Naczelnego Sądu Administracyjnego, ",
+            "C": " Prezydent Rzeczypospolitej.  "
+        }
     },
-    "question_10": {
-        "question_number": "10.",
+    {
         "question": " Zgodnie z Konstytucją Rzeczypospolitej Polskiej, spory kompetencyjne pomiędzy centralnymi konstytucyjnymi organami państwa rozstrzyga: ",
-        "first_answer": " Sąd Najwyższy, ",
-        "second_answer": " Trybunał Konstytucyjny, ",
-        "third_answer": " Naczelny Sąd Administracyjny.  "
+        "answers": {
+            "A": " Sąd Najwyższy, ",
+            "B": " Trybunał Konstytucyjny, ",
+            "C": " Naczelny Sąd Administracyjny.  "
+        }
     },
-    "question_11": {
-        "question_number": "11.",
+    {
         "question": "Zgodnie z Kodeksem cywilnym, nabywca przedsiębiorstwa lub gospodarstwa rolnego jest odpowiedzialny solidarnie ze zbywcą za jego zobowiązania związane z prowadzeniem przedsiębiorstwa lub gospodarstwa, chyba że: ",
-        "first_answer": "strony w umowie zbycia postanowią inaczej, ",
-        "second_answer": " w chwili nabycia nie wiedział o tych zobowiązaniach, mimo zachowania należytej staranności, ",
-        "third_answer": " wysokość zobowiązania nie przewyższa 5 000 zł.   \f4                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": "strony w umowie zbycia postanowią inaczej, ",
+            "B": " w chwili nabycia nie wiedział o tych zobowiązaniach, mimo zachowania należytej staranności, ",
+            "C": " wysokość zobowiązania nie przewyższa 5 000 zł.   \f4                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_12": {
-        "question_number": "12.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, w razie zawarcia umowy, której wykonanie czyni całkowicie lub częściowo niemożliwym zadośćuczynienie roszczeniu osoby trzeciej, osoba ta - w ciągu roku od zawarcia umowy - może żądać uznania umowy za bezskuteczną w stosunku do niej: ",
-        "first_answer": " jeżeli strony o jej roszczeniu wiedziały albo jeżeli umowa była nieodpłatna, ",
-        "second_answer": " tylko wówczas, gdy roszczenie osoby trzeciej zostało ujawnione w księdze wieczystej lub innym odpowiednim rejestrze, ",
-        "third_answer": " tylko wówczas, gdy umowa nie została zawarta w formie aktu notarialnego.  "
+        "answers": {
+            "A": " jeżeli strony o jej roszczeniu wiedziały albo jeżeli umowa była nieodpłatna, ",
+            "B": " tylko wówczas, gdy roszczenie osoby trzeciej zostało ujawnione w księdze wieczystej lub innym odpowiednim rejestrze, ",
+            "C": " tylko wówczas, gdy umowa nie została zawarta w formie aktu notarialnego.  "
+        }
     },
-    "question_13": {
-        "question_number": "13.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, przedsiębiorca może upoważnić innego przedsiębiorcę do korzystania ze swej firmy, jeżeli: ",
-        "first_answer": " wyrazi na to zgodę Urząd Ochrony Konkurencji i Konsumentów, ",
-        "second_answer": " nie wprowadza to w błąd, ",
-        "third_answer": " wyrazi na to zgodę sąd gospodarczy.  "
+        "answers": {
+            "A": " wyrazi na to zgodę Urząd Ochrony Konkurencji i Konsumentów, ",
+            "B": " nie wprowadza to w błąd, ",
+            "C": " wyrazi na to zgodę sąd gospodarczy.  "
+        }
     },
-    "question_14": {
-        "question_number": "14.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, przyjęcie oferty dokonane z zastrzeżeniem zmiany lub uzupełnienia jej treści poczytuje się za: ",
-        "first_answer": " zaproszenie do rozpoczęcia rokowań, ",
-        "second_answer": " przystąpienie do przetargu, ",
-        "third_answer": " nową ofertę.  "
+        "answers": {
+            "A": " zaproszenie do rozpoczęcia rokowań, ",
+            "B": " przystąpienie do przetargu, ",
+            "C": " nową ofertę.  "
+        }
     },
-    "question_15": {
-        "question_number": "15.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, oświadczenie woli złożone w postaci elektronicznej opatrzone bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu jest równoważne z oświadczeniem woli złożonym w formie: ",
-        "first_answer": " pisemnej z podpisem urzędowo poświadczonym, ",
-        "second_answer": "pisemnej, ",
-        "third_answer": " pisemnej z datą pewną.      \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               5 "
+        "answers": {
+            "A": " pisemnej z podpisem urzędowo poświadczonym, ",
+            "B": "pisemnej, ",
+            "C": " pisemnej z datą pewną.      \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               5 "
+        }
     },
-    "question_16": {
-        "question_number": "16.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, jeżeli zawierający umowę jako pełnomocnik nie ma umocowania albo przekroczy jego zakres: ",
-        "first_answer": " umowa jest nieważna i nie może być potwierdzona przez osobę, w której imieniu została zawarta, ",
-        "second_answer": " umowa jest od początku ważna i nie wymaga potwierdzenia, jeżeli druga strona wiedziała o braku umocowania albo o przekroczeniu jego zakresu, ",
-        "third_answer": " ważność umowy zależy od jej potwierdzenia przez osobę, w której imieniu umowa została zawarta.  "
+        "answers": {
+            "A": " umowa jest nieważna i nie może być potwierdzona przez osobę, w której imieniu została zawarta, ",
+            "B": " umowa jest od początku ważna i nie wymaga potwierdzenia, jeżeli druga strona wiedziała o braku umocowania albo o przekroczeniu jego zakresu, ",
+            "C": " ważność umowy zależy od jej potwierdzenia przez osobę, w której imieniu umowa została zawarta.  "
+        }
     },
-    "question_17": {
-        "question_number": "17.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, właściciele gruntów sąsiadujących koszty rozgraniczenia oraz koszty urządzenia i utrzymywania stałych znaków granicznych ponoszą: ",
-        "first_answer": " po połowie, ",
-        "second_answer": "w stosunku do wartości sąsiadujących nieruchomości, ",
-        "third_answer": " w stosunku do powierzchni sąsiadujących nieruchomości.  "
+        "answers": {
+            "A": " po połowie, ",
+            "B": "w stosunku do wartości sąsiadujących nieruchomości, ",
+            "C": " w stosunku do powierzchni sąsiadujących nieruchomości.  "
+        }
     },
-    "question_18": {
-        "question_number": "18.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, większość współwłaścicieli oblicza się według: ",
-        "first_answer": " ilości współwłaścicieli, ",
-        "second_answer": " ilości współwłaścicieli, których udziały wynoszą przynajmniej 1/10 część, ",
-        "third_answer": " wielkości udziałów.  "
+        "answers": {
+            "A": " ilości współwłaścicieli, ",
+            "B": " ilości współwłaścicieli, których udziały wynoszą przynajmniej 1/10 część, ",
+            "C": " wielkości udziałów.  "
+        }
     },
-    "question_19": {
-        "question_number": "19.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, zmiana pierwszeństwa ograniczonych praw rzeczowych staje się bezskuteczna z chwilą: ",
-        "first_answer": " wygaśnięcia prawa, które uzyskuje pierwszeństwo ustępującego prawa, ",
-        "second_answer": "wygaśnięcia prawa, które ustąpiło pierwszeństwa, ",
-        "third_answer": " przedawnienia prawa, które uzyskuje pierwszeństwo ustępującego prawa.  "
+        "answers": {
+            "A": " wygaśnięcia prawa, które uzyskuje pierwszeństwo ustępującego prawa, ",
+            "B": "wygaśnięcia prawa, które ustąpiło pierwszeństwa, ",
+            "C": " przedawnienia prawa, które uzyskuje pierwszeństwo ustępującego prawa.  "
+        }
     },
-    "question_20": {
-        "question_number": "20.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, zwolnienie dłużnika z długu przez jednego  z wierzycieli uprawnionych do świadczenia niepodzielnego: ",
-        "first_answer": "nie ma skutku względem pozostałych wierzycieli, ",
-        "second_answer": " ma skutek względem pozostałych wierzycieli, ",
-        "third_answer": " ma skutek względem tych wierzycieli, których roszczenie uległo przedawnieniu.  \f6                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": "nie ma skutku względem pozostałych wierzycieli, ",
+            "B": " ma skutek względem pozostałych wierzycieli, ",
+            "C": " ma skutek względem tych wierzycieli, których roszczenie uległo przedawnieniu.  \f6                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_21": {
-        "question_number": "21.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, postanowienia niejednoznaczne wzorca umowy tłumaczy się na korzyść konsumenta, przy czym zasady tej nie stosuje się: ",
-        "first_answer": " w postępowaniu upadłościowym, ",
-        "second_answer": " w postępowaniu po wniesieniu zarzutów od nakazu zapłaty wydanego w postępowaniu nakazowym, ",
-        "third_answer": " w postępowaniu w sprawach o uznanie postanowień wzorca umowy za niedozwolone.  "
+        "answers": {
+            "A": " w postępowaniu upadłościowym, ",
+            "B": " w postępowaniu po wniesieniu zarzutów od nakazu zapłaty wydanego w postępowaniu nakazowym, ",
+            "C": " w postępowaniu w sprawach o uznanie postanowień wzorca umowy za niedozwolone.  "
+        }
     },
-    "question_22": {
-        "question_number": "22.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, odszkodowanie za szkodę wyrządzoną przez produkt niebezpieczny nie przysługuje, gdy: ",
-        "first_answer": " szkoda na osobie nie przekracza kwoty będącej równowartością 500 EURO, ",
-        "second_answer": "szkoda na osobie nie przekracza kwoty będącej równowartością 10 EURO, ",
-        "third_answer": " szkoda na mieniu nie przekracza kwoty będącej równowartością 500 EURO.  "
+        "answers": {
+            "A": " szkoda na osobie nie przekracza kwoty będącej równowartością 500 EURO, ",
+            "B": "szkoda na osobie nie przekracza kwoty będącej równowartością 10 EURO, ",
+            "C": " szkoda na mieniu nie przekracza kwoty będącej równowartością 500 EURO.  "
+        }
     },
-    "question_23": {
-        "question_number": "23.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, nieważne jest zastrzeżenie umowne, iż dłużnik nie będzie odpowiedzialny za szkodę, którą może wyrządzić wierzycielowi: ",
-        "first_answer": " wskutek rażącego niedbalstwa, ",
-        "second_answer": "umyślnie, ",
-        "third_answer": " nieumyślnie.  "
+        "answers": {
+            "A": " wskutek rażącego niedbalstwa, ",
+            "B": "umyślnie, ",
+            "C": " nieumyślnie.  "
+        }
     },
-    "question_24": {
-        "question_number": "24.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, umowa o przejęcie długu powinna być zawarta: ",
-        "first_answer": " na piśmie pod rygorem nieważności, ",
-        "second_answer": " na piśmie tylko dla celów dowodowych, ",
-        "third_answer": " na piśmie tylko dla osiągnięcia skutku, że osoba (wierzyciel lub dłużnik) wyrażająca zgodę na przejęcie należności głównej wyraziła również zgodę na przejęcie należności ubocznych.  "
+        "answers": {
+            "A": " na piśmie pod rygorem nieważności, ",
+            "B": " na piśmie tylko dla celów dowodowych, ",
+            "C": " na piśmie tylko dla osiągnięcia skutku, że osoba (wierzyciel lub dłużnik) wyrażająca zgodę na przejęcie należności głównej wyraziła również zgodę na przejęcie należności ubocznych.  "
+        }
     },
-    "question_25": {
-        "question_number": "25.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, roszczenia z tytułu sprzedaży dokonanej w zakresie działalności przedsiębiorstwa sprzedawcy, roszczenia rzemieślników z takiego tytułu oraz roszczenia prowadzących gospodarstwa rolne z tytułu sprzedaży płodów rolnych i leśnych przedawniają się z upływem:  ",
-        "first_answer": " roku, ",
-        "second_answer": "lat dwóch, ",
-        "third_answer": " lat trzech. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               7 "
+        "answers": {
+            "A": " roku, ",
+            "B": "lat dwóch, ",
+            "C": " lat trzech. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               7 "
+        }
     },
-    "question_26": {
-        "question_number": "26.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, kupujący może dochodzić uprawnień z tytułu rękojmi za wady prawne: ",
-        "first_answer": " tylko wówczas, gdy osoba trzecia wystąpiła przeciw niemu z roszczeniem dotyczącym rzeczy sprzedanej, ",
-        "second_answer": "tylko wówczas, gdy zadośćuczynił roszczeniu osoby trzeciej dotyczącemu rzeczy sprzedanej, ",
-        "third_answer": " chociażby osoba trzecia nie wystąpiła przeciw niemu z roszczeniem dotyczącym rzeczy sprzedanej.  "
+        "answers": {
+            "A": " tylko wówczas, gdy osoba trzecia wystąpiła przeciw niemu z roszczeniem dotyczącym rzeczy sprzedanej, ",
+            "B": "tylko wówczas, gdy zadośćuczynił roszczeniu osoby trzeciej dotyczącemu rzeczy sprzedanej, ",
+            "C": " chociażby osoba trzecia nie wystąpiła przeciw niemu z roszczeniem dotyczącym rzeczy sprzedanej.  "
+        }
     },
-    "question_27": {
-        "question_number": "27.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, przepisów o wypowiedzeniu najmu przez nabywcę rzeczy najętej nie stosuje się do najmu lokali mieszkalnych, chyba że:  ",
-        "first_answer": " najemca objął już lokal, ",
-        "second_answer": "czynsz najmu nie przekracza 1/10 części przeciętnego miesięcznego wynagrodzenia za rok poprzedzający zawarcie umowy najmu, ",
-        "third_answer": " najemca nie objął jeszcze lokalu.  "
+        "answers": {
+            "A": " najemca objął już lokal, ",
+            "B": "czynsz najmu nie przekracza 1/10 części przeciętnego miesięcznego wynagrodzenia za rok poprzedzający zawarcie umowy najmu, ",
+            "C": " najemca nie objął jeszcze lokalu.  "
+        }
     },
-    "question_28": {
-        "question_number": "28.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, prawo odkupu jest: ",
-        "first_answer": " zbywalne, ",
-        "second_answer": " niezbywalne, ",
-        "third_answer": " zbywalne, gdy przedmiotem sprzedaży jest rzecz, której sprzedawcą jest wytwórca rzeczy.  "
+        "answers": {
+            "A": " zbywalne, ",
+            "B": " niezbywalne, ",
+            "C": " zbywalne, gdy przedmiotem sprzedaży jest rzecz, której sprzedawcą jest wytwórca rzeczy.  "
+        }
     },
-    "question_29": {
-        "question_number": "29.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, umowa leasingu powinna być zawarta: ",
-        "first_answer": " na piśmie pod rygorem nieważności, ",
-        "second_answer": "na piśmie z podpisem urzędowo poświadczonym, ",
-        "third_answer": " w formie aktu notarialnego.  "
+        "answers": {
+            "A": " na piśmie pod rygorem nieważności, ",
+            "B": "na piśmie z podpisem urzędowo poświadczonym, ",
+            "C": " w formie aktu notarialnego.  "
+        }
     },
-    "question_30": {
-        "question_number": "30.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, kto w celu odwrócenia niebezpieczeństwa grożącego drugiemu ratuje jego dobro, może żądać od niego zwrotu uzasadnionych wydatków, chociażby jego działanie nie odniosło skutku, i jest odpowiedzialny tylko za: ",
-        "first_answer": " ryzyko wyrządzenia szkody, ",
-        "second_answer": "niedochowanie należytej staranności, ",
-        "third_answer": " winę umyślną lub rażące niedbalstwo. \f8                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": " ryzyko wyrządzenia szkody, ",
+            "B": "niedochowanie należytej staranności, ",
+            "C": " winę umyślną lub rażące niedbalstwo. \f8                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_31": {
-        "question_number": "31.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, jeżeli komisant zawarł umowę na warunkach korzystniejszych od warunków oznaczonych przez komitenta, uzyskana korzyść: ",
-        "first_answer": " należy się komitentowi, ",
-        "second_answer": "należy się komisantowi, ",
-        "third_answer": " podlega zwrotowi nabywcy rzeczy ruchomej oddanej w komis.  "
+        "answers": {
+            "A": " należy się komitentowi, ",
+            "B": "należy się komisantowi, ",
+            "C": " podlega zwrotowi nabywcy rzeczy ruchomej oddanej w komis.  "
+        }
     },
-    "question_32": {
-        "question_number": "32.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, w razie śmierci dłużnika poręczyciel: ",
-        "first_answer": " nie może powoływać się na ograniczenie odpowiedzialności spadkobiercy wynikające z przepisów prawa spadkowego, ",
-        "second_answer": "może powoływać się na ograniczenie odpowiedzialności spadkobiercy wynikające z przepisów prawa spadkowego, ",
-        "third_answer": " może powoływać się na ograniczenie odpowiedzialności spadkobiercy wynikające z przepisów prawa spadkowego, ale tylko w ciągu roku od chwili złożenia przez spadkobiercę oświadczenia o przyjęciu spadku z dobrodziejstwem inwentarza.  "
+        "answers": {
+            "A": " nie może powoływać się na ograniczenie odpowiedzialności spadkobiercy wynikające z przepisów prawa spadkowego, ",
+            "B": "może powoływać się na ograniczenie odpowiedzialności spadkobiercy wynikające z przepisów prawa spadkowego, ",
+            "C": " może powoływać się na ograniczenie odpowiedzialności spadkobiercy wynikające z przepisów prawa spadkowego, ale tylko w ciągu roku od chwili złożenia przez spadkobiercę oświadczenia o przyjęciu spadku z dobrodziejstwem inwentarza.  "
+        }
     },
-    "question_33": {
-        "question_number": "33.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, spadkobierca może być uznany za niegodnego przez: ",
-        "first_answer": " sąd, ",
-        "second_answer": "spadkodawcę w testamencie, ",
-        "third_answer": " notariusza sporządzającego akt poświadczenia dziedziczenia.   "
+        "answers": {
+            "A": " sąd, ",
+            "B": "spadkodawcę w testamencie, ",
+            "C": " notariusza sporządzającego akt poświadczenia dziedziczenia.   "
+        }
     },
-    "question_34": {
-        "question_number": "34.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, jeżeli spadkodawca sporządził nowy testament nie zaznaczając w nim, że poprzedni odwołuje: ",
-        "first_answer": " ulegają odwołaniu wszystkie postanowienia poprzedniego testamentu, ",
-        "second_answer": " ulegają odwołaniu tylko te postanowienia poprzedniego testamentu, których nie można pogodzić z treścią nowego testamentu,  ",
-        "third_answer": " nowy testament jest nieważny.  "
+        "answers": {
+            "A": " ulegają odwołaniu wszystkie postanowienia poprzedniego testamentu, ",
+            "B": " ulegają odwołaniu tylko te postanowienia poprzedniego testamentu, których nie można pogodzić z treścią nowego testamentu,  ",
+            "C": " nowy testament jest nieważny.  "
+        }
     },
-    "question_35": {
-        "question_number": "35.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, jeżeli spadkodawca przeznaczył oznaczonej osobie w testamencie poszczególne przedmioty majątkowe, które wyczerpują prawie cały spadek, osobę tę poczytuje się w razie wątpliwości za: ",
-        "first_answer": " spadkobiercę powołanego do całego spadku,  ",
-        "second_answer": " zapisobiercę zwykłego, ",
-        "third_answer": " zapisobiercę windykacyjnego. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               9 "
+        "answers": {
+            "A": " spadkobiercę powołanego do całego spadku,  ",
+            "B": " zapisobiercę zwykłego, ",
+            "C": " zapisobiercę windykacyjnego. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               9 "
+        }
     },
-    "question_36": {
-        "question_number": "36.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, jeżeli spadkobierca obowiązany do zapłaty zachowku jest sam uprawniony do zachowku, jego odpowiedzialność ogranicza się tylko do: ",
-        "first_answer": " połowy wartości udziału spadkowego, który przypadł mu przy dziedziczeniu, ",
-        "second_answer": " wysokości nadwyżki przekraczającej jego własny zachowek, ",
-        "third_answer": " połowy nadwyżki przekraczającej jego własny zachowek.  "
+        "answers": {
+            "A": " połowy wartości udziału spadkowego, który przypadł mu przy dziedziczeniu, ",
+            "B": " wysokości nadwyżki przekraczającej jego własny zachowek, ",
+            "C": " połowy nadwyżki przekraczającej jego własny zachowek.  "
+        }
     },
-    "question_37": {
-        "question_number": "37.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, oświadczenie o przyjęciu lub o odrzuceniu spadku może być złożone w ciągu sześciu miesięcy: ",
-        "first_answer": " od chwili śmierci spadkodawcy, ",
-        "second_answer": " od dnia, w którym spadkobierca dowiedział się o tytule swego powołania, ",
-        "third_answer": " od dnia sporządzenia aktu zgonu.  "
+        "answers": {
+            "A": " od chwili śmierci spadkodawcy, ",
+            "B": " od dnia, w którym spadkobierca dowiedział się o tytule swego powołania, ",
+            "C": " od dnia sporządzenia aktu zgonu.  "
+        }
     },
-    "question_38": {
-        "question_number": "38.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, uchylenie się od skutków prawnych oświadczenia o przyjęciu lub o odrzuceniu spadku złożonego pod wpływem błędu lub groźby wymaga zatwierdzenia przez: ",
-        "first_answer": " sąd, ",
-        "second_answer": " notariusza, ",
-        "third_answer": " kierownika właściwego urzędu stanu cywilnego.  "
+        "answers": {
+            "A": " sąd, ",
+            "B": " notariusza, ",
+            "C": " kierownika właściwego urzędu stanu cywilnego.  "
+        }
     },
-    "question_39": {
-        "question_number": "39.",
+    {
         "question": " Zgodnie z Kodeksem cywilnym, przy zaliczeniu na schedę spadkową wartość przedmiotu zapisu windykacyjnego oblicza się według: ",
-        "first_answer": " stanu i cen z chwili otwarcia spadku, ",
-        "second_answer": " stanu i cen z chwili działu spadku, ",
-        "third_answer": " stanu z chwili otwarcia spadku, a według cen z chwili działu spadku.  "
+        "answers": {
+            "A": " stanu i cen z chwili otwarcia spadku, ",
+            "B": " stanu i cen z chwili działu spadku, ",
+            "C": " stanu z chwili otwarcia spadku, a według cen z chwili działu spadku.  "
+        }
     },
-    "question_40": {
-        "question_number": "40.",
+    {
         "question": " Zgodnie z ustawą o spółdzielniach mieszkaniowych, spółdzielcze lokatorskie prawo do lokalu mieszkalnego: ",
-        "first_answer": " nie przechodzi na spadkobierców, ",
-        "second_answer": "przechodzi na spadkobierców, ",
-        "third_answer": " przechodzi jedynie na spadkobierców testamentowych, którzy zamieszkiwali na stałe ze spadkodawcą w chwili jego śmierci.  \f10                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": " nie przechodzi na spadkobierców, ",
+            "B": "przechodzi na spadkobierców, ",
+            "C": " przechodzi jedynie na spadkobierców testamentowych, którzy zamieszkiwali na stałe ze spadkodawcą w chwili jego śmierci.  \f10                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_41": {
-        "question_number": "41.",
+    {
         "question": " Zgodnie z ustawą o własności lokali za zobowiązania dotyczące nieruchomości wspólnej odpowiada: ",
-        "first_answer": " wyłącznie wspólnota mieszkaniowa bez ograniczeń, ",
-        "second_answer": "solidarnie wspólnota mieszkaniowa i właściciele wszystkich lokali, ",
-        "third_answer": " wspólnota mieszkaniowa bez ograniczeń, a każdy właściciel lokalu – w części odpowiadającej jego udziałowi w tej nieruchomości.  "
+        "answers": {
+            "A": " wyłącznie wspólnota mieszkaniowa bez ograniczeń, ",
+            "B": "solidarnie wspólnota mieszkaniowa i właściciele wszystkich lokali, ",
+            "C": " wspólnota mieszkaniowa bez ograniczeń, a każdy właściciel lokalu – w części odpowiadającej jego udziałowi w tej nieruchomości.  "
+        }
     },
-    "question_42": {
-        "question_number": "42.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, strony i uczestnicy postępowania mają prawo do otrzymania z akt sprawy zapisu dźwięku, chyba że: ",
-        "first_answer": " protokół został sporządzony systemem stenograficznym, ",
-        "second_answer": " sąd wyłączył jawność rozprawy, ",
-        "third_answer": " protokół został sporządzony wyłącznie pisemnie.  "
+        "answers": {
+            "A": " protokół został sporządzony systemem stenograficznym, ",
+            "B": " sąd wyłączył jawność rozprawy, ",
+            "C": " protokół został sporządzony wyłącznie pisemnie.  "
+        }
     },
-    "question_43": {
-        "question_number": "43.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, zasadą jest, że powództwo przeciwko Skarbowi Państwa wytacza się: ",
-        "first_answer": " według siedziby właściwego oddziału Prokuratorii Generalnej Skarbu Państwa, ",
-        "second_answer": " według miejsca zamieszkania lub siedziby powoda, ",
-        "third_answer": " według siedziby państwowej jednostki organizacyjnej, z której działalnością wiąże się dochodzone roszczenie.  "
+        "answers": {
+            "A": " według siedziby właściwego oddziału Prokuratorii Generalnej Skarbu Państwa, ",
+            "B": " według miejsca zamieszkania lub siedziby powoda, ",
+            "C": " według siedziby państwowej jednostki organizacyjnej, z której działalnością wiąże się dochodzone roszczenie.  "
+        }
     },
-    "question_44": {
-        "question_number": "44.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, sędzia jest wyłączony z mocy samej ustawy: ",
-        "first_answer": " jeżeli istnieje okoliczność tego rodzaju, że mogłaby wywołać uzasadnioną wątpliwość co do bezstronności sędziego w danej sprawie, ",
-        "second_answer": " w sprawach o odszkodowanie z tytułu szkody wyrządzonej przez wydanie prawomocnego orzeczenia niezgodnego z prawem, jeżeli brał udział w wydaniu tego orzeczenia, ",
-        "third_answer": " w sprawach powinowatych bocznych trzeciego stopnia.  "
+        "answers": {
+            "A": " jeżeli istnieje okoliczność tego rodzaju, że mogłaby wywołać uzasadnioną wątpliwość co do bezstronności sędziego w danej sprawie, ",
+            "B": " w sprawach o odszkodowanie z tytułu szkody wyrządzonej przez wydanie prawomocnego orzeczenia niezgodnego z prawem, jeżeli brał udział w wydaniu tego orzeczenia, ",
+            "C": " w sprawach powinowatych bocznych trzeciego stopnia.  "
+        }
     },
-    "question_45": {
-        "question_number": "45.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, prokurator może zaskarżyć: ",
-        "first_answer": " każde orzeczenie sądowe, od którego służy środek odwoławczy, ",
-        "second_answer": " każde orzeczenie sądowe,   ",
-        "third_answer": " orzeczenie sądowe, od którego służy środek odwoławczy, ale tylko wówczas, jeżeli wstąpił do postępowania przed wydaniem tego orzeczenia. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               11 "
+        "answers": {
+            "A": " każde orzeczenie sądowe, od którego służy środek odwoławczy, ",
+            "B": " każde orzeczenie sądowe,   ",
+            "C": " orzeczenie sądowe, od którego służy środek odwoławczy, ale tylko wówczas, jeżeli wstąpił do postępowania przed wydaniem tego orzeczenia. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               11 "
+        }
     },
-    "question_46": {
-        "question_number": "46.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, w sprawach związanych z ochroną praw konsumentów pełnomocnikiem procesowym może być: ",
-        "first_answer": " przedstawiciel organizacji, do której zadań statutowych należy ochrona konsumentów, ",
-        "second_answer": " przedstawiciel państwowej inspekcji pracy, ",
-        "third_answer": " przedstawiciel państwowej inspekcji handlowej.  "
+        "answers": {
+            "A": " przedstawiciel organizacji, do której zadań statutowych należy ochrona konsumentów, ",
+            "B": " przedstawiciel państwowej inspekcji pracy, ",
+            "C": " przedstawiciel państwowej inspekcji handlowej.  "
+        }
     },
-    "question_47": {
-        "question_number": "47.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, sąd cofnie ustanowienie adwokata lub radcy prawnego, jeżeli: ",
-        "first_answer": " okaże się, że adwokat lub radca prawny nie wykonuje należycie swoich obowiązków, ",
-        "second_answer": " okaże się, że okoliczności, na których podstawie je przyznano, nie istniały lub przestały istnieć, ",
-        "third_answer": " jeżeli zachodzą podstawy wyłączenia adwokata lub radcy prawnego z mocy ustawy.  "
+        "answers": {
+            "A": " okaże się, że adwokat lub radca prawny nie wykonuje należycie swoich obowiązków, ",
+            "B": " okaże się, że okoliczności, na których podstawie je przyznano, nie istniały lub przestały istnieć, ",
+            "C": " jeżeli zachodzą podstawy wyłączenia adwokata lub radcy prawnego z mocy ustawy.  "
+        }
     },
-    "question_48": {
-        "question_number": "48.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, nie żąda się należnej opłaty od pisma, jeżeli: ",
-        "first_answer": " już z jego treści wynika, że zawarte w nim żądanie podlega oddaleniu,  ",
-        "second_answer": " zawarte w piśmie żądanie jest oczywiście bezzasadne, ",
-        "third_answer": " już z jego treści wynika, że podlega ono odrzuceniu.  "
+        "answers": {
+            "A": " już z jego treści wynika, że zawarte w nim żądanie podlega oddaleniu,  ",
+            "B": " zawarte w piśmie żądanie jest oczywiście bezzasadne, ",
+            "C": " już z jego treści wynika, że podlega ono odrzuceniu.  "
+        }
     },
-    "question_49": {
-        "question_number": "49.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, na posiedzenia jawne wstęp na salę sądową mają – poza stronami i osobami wezwanymi – tylko osoby: ",
-        "first_answer": " pełnoletnie, ",
-        "second_answer": " które ukończyły siedemnaście lat, ",
-        "third_answer": " które ukończyły siedemnaście lat i wobec których nie były orzekane przez sąd rodzinny środki wychowawcze lub środek poprawczy.  "
+        "answers": {
+            "A": " pełnoletnie, ",
+            "B": " które ukończyły siedemnaście lat, ",
+            "C": " które ukończyły siedemnaście lat i wobec których nie były orzekane przez sąd rodzinny środki wychowawcze lub środek poprawczy.  "
+        }
     },
-    "question_50": {
-        "question_number": "50.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, spóźniony lub z mocy ustawy niedopuszczalny wniosek o przywrócenie terminu do dokonania czynności procesowej sąd: ",
-        "first_answer": " oddala, ",
-        "second_answer": " zwraca, ",
-        "third_answer": " odrzuca. \f12                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": " oddala, ",
+            "B": " zwraca, ",
+            "C": " odrzuca. \f12                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_51": {
-        "question_number": "51.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, jeżeli sąd postanowi wezwać do wzięcia udziału w sprawie lub zawiadomić o toczącym się procesie osoby, które dotychczas w postępowaniu nie występowały w charakterze powodów lub pozwanych: ",
-        "first_answer": " rozprawa ulega odroczeniu, ",
-        "second_answer": " postępowanie w sprawie ulega zawieszeniu do czasu doręczenia wezwania lub zawiadomienia osobom wezwanym lub zawiadomionym, ",
-        "third_answer": " rozprawa ulega przerwaniu.  "
+        "answers": {
+            "A": " rozprawa ulega odroczeniu, ",
+            "B": " postępowanie w sprawie ulega zawieszeniu do czasu doręczenia wezwania lub zawiadomienia osobom wezwanym lub zawiadomionym, ",
+            "C": " rozprawa ulega przerwaniu.  "
+        }
     },
-    "question_52": {
-        "question_number": "52.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, sąd dla wyjaśnienia faktów istotnych dla rozstrzygnięcia sprawy może dopuścić dowód z przesłuchania stron: ",
-        "first_answer": " jeżeli po wyczerpaniu środków dowodowych lub w ich braku obie strony wyrażą na to zgodę, ",
-        "second_answer": " jeżeli po wyczerpaniu środków dowodowych lub w ich braku pozostały niewyjaśnione fakty istotne dla rozstrzygnięcia sprawy, ",
-        "third_answer": " jeżeli zażąda tego pozwany, a powód nie sprzeciwi się w wyznaczonym terminie.  "
+        "answers": {
+            "A": " jeżeli po wyczerpaniu środków dowodowych lub w ich braku obie strony wyrażą na to zgodę, ",
+            "B": " jeżeli po wyczerpaniu środków dowodowych lub w ich braku pozostały niewyjaśnione fakty istotne dla rozstrzygnięcia sprawy, ",
+            "C": " jeżeli zażąda tego pozwany, a powód nie sprzeciwi się w wyznaczonym terminie.  "
+        }
     },
-    "question_53": {
-        "question_number": "53.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, jeżeli pozwany ponosi odpowiedzialność z określonych przedmiotów majątkowych albo do wysokości ich wartości, sąd może, nie wymieniając tych przedmiotów ani ich wartości, uwzględnić powództwo zastrzegając pozwanemu prawo do: ",
-        "first_answer": " wytoczenia powództwa przeciwegzekucyjnego, ",
-        "second_answer": " świadczenia wzajemnego, ",
-        "third_answer": " powołania się w toku postępowania egzekucyjnego na ograniczenie odpowiedzialności.  "
+        "answers": {
+            "A": " wytoczenia powództwa przeciwegzekucyjnego, ",
+            "B": " świadczenia wzajemnego, ",
+            "C": " powołania się w toku postępowania egzekucyjnego na ograniczenie odpowiedzialności.  "
+        }
     },
-    "question_54": {
-        "question_number": "54.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, wyroki zaoczne doręcza się  z urzędu: ",
-        "first_answer": " tylko pozwanemu, ",
-        "second_answer": " tylko pozwanemu, jeżeli nie stawił się na posiedzenie wyznaczone na rozprawę, ",
-        "third_answer": " obu stronom.    \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               13 "
+        "answers": {
+            "A": " tylko pozwanemu, ",
+            "B": " tylko pozwanemu, jeżeli nie stawił się na posiedzenie wyznaczone na rozprawę, ",
+            "C": " obu stronom.    \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               13 "
+        }
     },
-    "question_55": {
-        "question_number": "55.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, orzeczenie uzupełniające wyrok zapada w postaci wyroku, chyba że: ",
-        "first_answer": " uzupełnienie dotyczy wyłącznie rozłożenia świadczenia na raty lub wyznaczenia odpowiedniego terminu jego spełnienia, ",
-        "second_answer": " uzupełnienie polega na oddaleniu nierozstrzygniętej części żądania, ",
-        "third_answer": " uzupełnienie dotyczy wyłącznie kosztów lub natychmiastowej wykonalności.  "
+        "answers": {
+            "A": " uzupełnienie dotyczy wyłącznie rozłożenia świadczenia na raty lub wyznaczenia odpowiedniego terminu jego spełnienia, ",
+            "B": " uzupełnienie polega na oddaleniu nierozstrzygniętej części żądania, ",
+            "C": " uzupełnienie dotyczy wyłącznie kosztów lub natychmiastowej wykonalności.  "
+        }
     },
-    "question_56": {
-        "question_number": "56.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, postanowienia dotyczące postępowania dowodowego na posiedzeniu niejawnym sąd drugiej instancji wydaje w składzie: ",
-        "first_answer": " jednego sędziego, ",
-        "second_answer": " trzech sędziów,  ",
-        "third_answer": " trzech sędziów, za wyjątkiem spraw rozpoznawanych w postępowaniu uproszczonym.  "
+        "answers": {
+            "A": " jednego sędziego, ",
+            "B": " trzech sędziów,  ",
+            "C": " trzech sędziów, za wyjątkiem spraw rozpoznawanych w postępowaniu uproszczonym.  "
+        }
     },
-    "question_57": {
-        "question_number": "57.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, nieważność postępowania zachodzi, jeżeli: ",
-        "first_answer": " sąd rejonowy orzekł w sprawie, w której wyłącznie właściwy jest inny sąd rejonowy,  ",
-        "second_answer": " wyrok został uzyskany za pomocą przestępstwa, ",
-        "third_answer": " brak jest jurysdykcji krajowej.  "
+        "answers": {
+            "A": " sąd rejonowy orzekł w sprawie, w której wyłącznie właściwy jest inny sąd rejonowy,  ",
+            "B": " wyrok został uzyskany za pomocą przestępstwa, ",
+            "C": " brak jest jurysdykcji krajowej.  "
+        }
     },
-    "question_58": {
-        "question_number": "58.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, w razie cofnięcia apelacji przed sądem drugiej instancji, sąd ten: ",
-        "first_answer": " umarza postępowanie apelacyjne i orzeka o kosztach jak przy cofnięciu pozwu, ",
-        "second_answer": " przekazuje sprawę sądowi pierwszej instancji celem umorzenia postępowania wywołanego wniesieniem apelacji i wydania orzeczenia o kosztach tego postępowania, ",
-        "third_answer": " uchyla zaskarżony wyrok i umarza postępowanie w sprawie.     \f14                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": " umarza postępowanie apelacyjne i orzeka o kosztach jak przy cofnięciu pozwu, ",
+            "B": " przekazuje sprawę sądowi pierwszej instancji celem umorzenia postępowania wywołanego wniesieniem apelacji i wydania orzeczenia o kosztach tego postępowania, ",
+            "C": " uchyla zaskarżony wyrok i umarza postępowanie w sprawie.     \f14                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_59": {
-        "question_number": "59.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, sąd pierwszej instancji, który wydał postanowienie zaskarżone zażaleniem, może na posiedzeniu niejawnym, nie przesyłając akt sądowi drugiej instancji, uchylić zaskarżone postanowienie i w miarę potrzeby sprawę rozpoznać na nowo, jeżeli: ",
-        "first_answer": " zażalenie zarzuca nieważność postępowania lub jest oczywiście uzasadnione, ",
-        "second_answer": " wniesie o to strona składająca zażalenie, a strona przeciwna w wyznaczonym terminie nie sprzeciwi się rozpoznaniu zażalenia przez sąd pierwszej instancji, ",
-        "third_answer": " strona przeciwna w odpowiedzi na zażalenie wniesie o rozpoznanie zażalenia przez sąd pierwszej instancji.  "
+        "answers": {
+            "A": " zażalenie zarzuca nieważność postępowania lub jest oczywiście uzasadnione, ",
+            "B": " wniesie o to strona składająca zażalenie, a strona przeciwna w wyznaczonym terminie nie sprzeciwi się rozpoznaniu zażalenia przez sąd pierwszej instancji, ",
+            "C": " strona przeciwna w odpowiedzi na zażalenie wniesie o rozpoznanie zażalenia przez sąd pierwszej instancji.  "
+        }
     },
-    "question_60": {
-        "question_number": "60.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, skarga kasacyjna jest niedopuszczalna w sprawach: ",
-        "first_answer": " o usunięcie niezgodności między stanem prawnym nieruchomości ujawnionym w księdze wieczystej a rzeczywistym stanem prawnym, niezależnie od wartości przedmiotu zaskarżenia, ",
-        "second_answer": " o ochronę dóbr osobistych, ",
-        "third_answer": " o rozwód.  "
+        "answers": {
+            "A": " o usunięcie niezgodności między stanem prawnym nieruchomości ujawnionym w księdze wieczystej a rzeczywistym stanem prawnym, niezależnie od wartości przedmiotu zaskarżenia, ",
+            "B": " o ochronę dóbr osobistych, ",
+            "C": " o rozwód.  "
+        }
     },
-    "question_61": {
-        "question_number": "61.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, w postępowaniu w sprawach o naruszenie posiadania powództwo wzajemne: ",
-        "first_answer": " nie jest dopuszczalne, ",
-        "second_answer": " jest dopuszczalne tylko wówczas, gdy dotyczy wzajemnego naruszenia posiadania, ",
-        "third_answer": " jest dopuszczalne i podlega rozpoznaniu wyłącznie z powództwem głównym.  "
+        "answers": {
+            "A": " nie jest dopuszczalne, ",
+            "B": " jest dopuszczalne tylko wówczas, gdy dotyczy wzajemnego naruszenia posiadania, ",
+            "C": " jest dopuszczalne i podlega rozpoznaniu wyłącznie z powództwem głównym.  "
+        }
     },
-    "question_62": {
-        "question_number": "62.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, w sprawie o uznanie zaginionego za zmarłego, jeżeli znane jest miejsce ostatniego zamieszkania zaginionego, właściwy jest: ",
-        "first_answer": " wyłącznie sąd dla m. st. Warszawy, ",
-        "second_answer": " sąd ostatniego miejsca zamieszkania zaginionego, ",
-        "third_answer": " wyłącznie sąd miejsca zamieszkania wnioskodawcy.    \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               15 "
+        "answers": {
+            "A": " wyłącznie sąd dla m. st. Warszawy, ",
+            "B": " sąd ostatniego miejsca zamieszkania zaginionego, ",
+            "C": " wyłącznie sąd miejsca zamieszkania wnioskodawcy.    \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               15 "
+        }
     },
-    "question_63": {
-        "question_number": "63.",
+    {
         "question": "Zgodnie z Kodeksem postępowania cywilnego, wniosek o ubezwłasnowolnienie może zgłosić: ",
-        "first_answer": "każdy zainteresowany, ",
-        "second_answer": " krewny w linii prostej osoby, której dotyczy wniosek o ubezwłasnowolnienie, ",
-        "third_answer": " wyłącznie małżonek.  "
+        "answers": {
+            "A": "każdy zainteresowany, ",
+            "B": " krewny w linii prostej osoby, której dotyczy wniosek o ubezwłasnowolnienie, ",
+            "C": " wyłącznie małżonek.  "
+        }
     },
-    "question_64": {
-        "question_number": "64.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, postanowienie o ustanowieniu doradcy tymczasowego traci moc z chwilą: ",
-        "first_answer": " nieprawomocnego odrzucenia wniosku o ubezwłasnowolnienie, ",
-        "second_answer": " gdy na skutek orzeczenia o ubezwłasnowolnieniu ustanowiony został kurator, ",
-        "third_answer": " wydania nieprawomocnego orzeczenia o ubezwłasnowolnieniu.  "
+        "answers": {
+            "A": " nieprawomocnego odrzucenia wniosku o ubezwłasnowolnienie, ",
+            "B": " gdy na skutek orzeczenia o ubezwłasnowolnieniu ustanowiony został kurator, ",
+            "C": " wydania nieprawomocnego orzeczenia o ubezwłasnowolnieniu.  "
+        }
     },
-    "question_65": {
-        "question_number": "65.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, zezwolenia we wszystkich ważniejszych sprawach, które dotyczą osoby lub majątku osoby pozostającej pod opieką sąd opiekuńczy udziela na wniosek: ",
-        "first_answer": " opiekuna, ",
-        "second_answer": " osoby pozostającej pod opieką, ",
-        "third_answer": " wyłącznie prokuratora.  "
+        "answers": {
+            "A": " opiekuna, ",
+            "B": " osoby pozostającej pod opieką, ",
+            "C": " wyłącznie prokuratora.  "
+        }
     },
-    "question_66": {
-        "question_number": "66.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, kuratora dla osoby niepełnosprawnej ustanawia sąd opiekuńczy: ",
-        "first_answer": " wyłącznie na wniosek tej osoby, ",
-        "second_answer": " na wniosek tej osoby, a za zgodą osoby niepełnosprawnej – także na wniosek organizacji pozarządowej, do której zadań statutowych należy ochrona praw osób niepełnosprawnych, udzielanie pomocy takim osobom lub ochrona praw człowieka, ",
-        "third_answer": " wyłącznie z urzędu.  "
+        "answers": {
+            "A": " wyłącznie na wniosek tej osoby, ",
+            "B": " na wniosek tej osoby, a za zgodą osoby niepełnosprawnej – także na wniosek organizacji pozarządowej, do której zadań statutowych należy ochrona praw osób niepełnosprawnych, udzielanie pomocy takim osobom lub ochrona praw człowieka, ",
+            "C": " wyłącznie z urzędu.  "
+        }
     },
-    "question_67": {
-        "question_number": "67.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, w postępowaniu o zniesienie współwłasności sąd rozstrzyga także o: ",
-        "first_answer": " roszczeniach osób trzecich z tytułu ochrony naruszonego posiadania, ",
-        "second_answer": " roszczeniach współwłaścicieli wobec osób trzecich z tytułu bezumownego korzystania z rzeczy, ",
-        "third_answer": " wzajemnych roszczeniach współwłaścicieli z tytułu posiadania rzeczy.  \f16                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": " roszczeniach osób trzecich z tytułu ochrony naruszonego posiadania, ",
+            "B": " roszczeniach współwłaścicieli wobec osób trzecich z tytułu bezumownego korzystania z rzeczy, ",
+            "C": " wzajemnych roszczeniach współwłaścicieli z tytułu posiadania rzeczy.  \f16                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_68": {
-        "question_number": "68.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, w postępowaniu wieczystoksięgowym nie stosuje się, nawet odpowiednio, przepisów o: ",
-        "first_answer": " doręczeniach, ",
-        "second_answer": " wznowieniu postępowania, ",
-        "third_answer": " rozprawie.  "
+        "answers": {
+            "A": " doręczeniach, ",
+            "B": " wznowieniu postępowania, ",
+            "C": " rozprawie.  "
+        }
     },
-    "question_69": {
-        "question_number": "69.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, oświadczenie o prostym przyjęciu spadku może być złożone przed: ",
-        "first_answer": " wyłącznie sądem spadku, ",
-        "second_answer": " notariuszem lub sądem rejonowym, w którego okręgu znajduje się miejsce zamieszkania lub pobytu składającego oświadczenie, ",
-        "third_answer": " komornikiem, w którego okręgu znajduje się miejsce zamieszkania lub pobytu składającego oświadczenie.  "
+        "answers": {
+            "A": " wyłącznie sądem spadku, ",
+            "B": " notariuszem lub sądem rejonowym, w którego okręgu znajduje się miejsce zamieszkania lub pobytu składającego oświadczenie, ",
+            "C": " komornikiem, w którego okręgu znajduje się miejsce zamieszkania lub pobytu składającego oświadczenie.  "
+        }
     },
-    "question_70": {
-        "question_number": "70.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, notariusz otwiera i ogłasza testament: ",
-        "first_answer": " zawsze niezwłocznie po jego sporządzeniu, ",
-        "second_answer": " gdy ma dowód śmierci spadkodawcy, ",
-        "third_answer": " wyłącznie po zarejestrowaniu aktu poświadczenia dziedziczenia.  "
+        "answers": {
+            "A": " zawsze niezwłocznie po jego sporządzeniu, ",
+            "B": " gdy ma dowód śmierci spadkodawcy, ",
+            "C": " wyłącznie po zarejestrowaniu aktu poświadczenia dziedziczenia.  "
+        }
     },
-    "question_71": {
-        "question_number": "71.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, jeżeli przedmiotem świadczenia są pieniądze polskie, złożenie do depozytu sądowego może być dokonane: ",
-        "first_answer": " wyłącznie po uzyskaniu zezwolenia sądu, ",
-        "second_answer": " przed uzyskaniem zezwolenia sądu z równoczesnym złożeniem przez dłużnika wniosku o zezwolenie na złożenie świadczenia do depozytu, ",
-        "third_answer": " przed uzyskaniem zezwolenia sądu, tylko wówczas, jeżeli wyraził na to zgodę prezes tego sądu.  "
+        "answers": {
+            "A": " wyłącznie po uzyskaniu zezwolenia sądu, ",
+            "B": " przed uzyskaniem zezwolenia sądu z równoczesnym złożeniem przez dłużnika wniosku o zezwolenie na złożenie świadczenia do depozytu, ",
+            "C": " przed uzyskaniem zezwolenia sądu, tylko wówczas, jeżeli wyraził na to zgodę prezes tego sądu.  "
+        }
     },
-    "question_72": {
-        "question_number": "72.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, udzielone przez sąd zabezpieczenie upada z chwilą: ",
-        "first_answer": " wydania nieprawomocnego orzeczenia odrzucającego pozew, ",
-        "second_answer": " wydania nieprawomocnego wyroku oddalającego powództwo, ",
-        "third_answer": " prawomocnego umorzenia postępowania.  \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               17 "
+        "answers": {
+            "A": " wydania nieprawomocnego orzeczenia odrzucającego pozew, ",
+            "B": " wydania nieprawomocnego wyroku oddalającego powództwo, ",
+            "C": " prawomocnego umorzenia postępowania.  \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               17 "
+        }
     },
-    "question_73": {
-        "question_number": "73.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, zabezpieczenie roszczeń pieniężnych następuje przez: ",
-        "first_answer": " zajęcie nieruchomości obowiązanego, ",
-        "second_answer": " ustanowienie zarządu przymusowego nad przedsiębiorstwem obowiązanego, ",
-        "third_answer": " unormowanie praw i obowiązków stron na czas trwania postępowania.  "
+        "answers": {
+            "A": " zajęcie nieruchomości obowiązanego, ",
+            "B": " ustanowienie zarządu przymusowego nad przedsiębiorstwem obowiązanego, ",
+            "C": " unormowanie praw i obowiązków stron na czas trwania postępowania.  "
+        }
     },
-    "question_74": {
-        "question_number": "74.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, w sprawach o alimenty zabezpieczenie może polegać: ",
-        "first_answer": " wyłącznie na zajęciu wynagrodzenia za pracę obowiązanego, ",
-        "second_answer": " na zobowiązaniu obowiązanego do zapłaty uprawnionemu jednorazowo albo okresowo określonej sumy pieniężnej, ",
-        "third_answer": " wyłącznie na ustanowieniu zakazu zbywania ruchomości obowiązanego.  "
+        "answers": {
+            "A": " wyłącznie na zajęciu wynagrodzenia za pracę obowiązanego, ",
+            "B": " na zobowiązaniu obowiązanego do zapłaty uprawnionemu jednorazowo albo okresowo określonej sumy pieniężnej, ",
+            "C": " wyłącznie na ustanowieniu zakazu zbywania ruchomości obowiązanego.  "
+        }
     },
-    "question_75": {
-        "question_number": "75.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, w sprawach o ochronę dóbr osobistych zabezpieczenie polegające na zakazie publikacji może być udzielone: ",
-        "first_answer": " tylko wtedy, gdy nie sprzeciwia się temu ważny interes publiczny, ",
-        "second_answer": " zawsze, bez spełnienia dodatkowych warunków, ",
-        "third_answer": " tylko wtedy, gdy nie sprzeciwia się temu ważny interes prywatny.  "
+        "answers": {
+            "A": " tylko wtedy, gdy nie sprzeciwia się temu ważny interes publiczny, ",
+            "B": " zawsze, bez spełnienia dodatkowych warunków, ",
+            "C": " tylko wtedy, gdy nie sprzeciwia się temu ważny interes prywatny.  "
+        }
     },
-    "question_76": {
-        "question_number": "76.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, do rozpoznania skargi na czynności komornika wybranego przez wierzyciela poza właściwością ogólną, właściwy jest: ",
-        "first_answer": " wyłącznie sąd, przy którym komornik działa, ",
-        "second_answer": " wyłącznie sąd ogólnej właściwości wierzyciela, ",
-        "third_answer": " sąd, który byłby właściwy według ogólnych zasad.  "
+        "answers": {
+            "A": " wyłącznie sąd, przy którym komornik działa, ",
+            "B": " wyłącznie sąd ogólnej właściwości wierzyciela, ",
+            "C": " sąd, który byłby właściwy według ogólnych zasad.  "
+        }
     },
-    "question_77": {
-        "question_number": "77.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, na postanowienie sądu drugiej instancji wydane w postępowaniu egzekucyjnym po rozpoznaniu zażalenia skarga kasacyjna: ",
-        "first_answer": " nie przysługuje, ",
-        "second_answer": " przysługuje, jeżeli skarga dotyczyła planu podziału sumy uzyskanej w egzekucji, ",
-        "third_answer": " przysługuje, jeżeli wartość egzekwowanego świadczenia jest wyższa niż pięćdziesiąt tysięcy złotych.  \f18                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": " nie przysługuje, ",
+            "B": " przysługuje, jeżeli skarga dotyczyła planu podziału sumy uzyskanej w egzekucji, ",
+            "C": " przysługuje, jeżeli wartość egzekwowanego świadczenia jest wyższa niż pięćdziesiąt tysięcy złotych.  \f18                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_78": {
-        "question_number": "78.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, postanowienie rozstrzygające zbieg egzekucji sądowej i administracyjnej co do tej samej rzeczy lub prawa majątkowego może wydać: ",
-        "first_answer": " wyłącznie sąd, ",
-        "second_answer": " sąd, a także referendarz sądowy, ",
-        "third_answer": " wyłącznie referendarz sądowy.  "
+        "answers": {
+            "A": " wyłącznie sąd, ",
+            "B": " sąd, a także referendarz sądowy, ",
+            "C": " wyłącznie referendarz sądowy.  "
+        }
     },
-    "question_79": {
-        "question_number": "79.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, do egzekucji ze wspólnego majątku wspólników spółki prawa cywilnego konieczny jest tytuł egzekucyjny wydany przeciwko: ",
-        "first_answer": " spółce, ",
-        "second_answer": " jednemu ze wspólników, ",
-        "third_answer": " wszystkim wspólnikom.  "
+        "answers": {
+            "A": " spółce, ",
+            "B": " jednemu ze wspólników, ",
+            "C": " wszystkim wspólnikom.  "
+        }
     },
-    "question_80": {
-        "question_number": "80.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, tytuł wykonawczy wystawiony przeciwko zbywcy przedsiębiorstwa jest podstawą egzekucji przeciwko nabywcy przedsiębiorstwa, jeżeli: ",
-        "first_answer": " wierzyciel uzyskał przeciwko nabywcy postanowienie o udzieleniu zabezpieczenia, ",
-        "second_answer": " wierzyciel złożył wniosek o wszczęcie egzekucji w ciągu miesiąca od dnia nabycia przedsiębiorstwa, ",
-        "third_answer": " wierzyciel uzyskał zgodę zbywcy przedsiębiorstwa.  "
+        "answers": {
+            "A": " wierzyciel uzyskał przeciwko nabywcy postanowienie o udzieleniu zabezpieczenia, ",
+            "B": " wierzyciel złożył wniosek o wszczęcie egzekucji w ciągu miesiąca od dnia nabycia przedsiębiorstwa, ",
+            "C": " wierzyciel uzyskał zgodę zbywcy przedsiębiorstwa.  "
+        }
     },
-    "question_81": {
-        "question_number": "81.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, organ egzekucyjny zawiesza postępowanie z urzędu jeżeli: ",
-        "first_answer": " okaże się, że wierzyciel lub dłużnik nie ma zdolności procesowej ani przedstawiciela ustawowego, ",
-        "second_answer": " sąd uchylił natychmiastową wykonalność tytułu, ",
-        "third_answer": " dłużnik złożył zabezpieczenie konieczne do zwolnienia go od egzekucji.  "
+        "answers": {
+            "A": " okaże się, że wierzyciel lub dłużnik nie ma zdolności procesowej ani przedstawiciela ustawowego, ",
+            "B": " sąd uchylił natychmiastową wykonalność tytułu, ",
+            "C": " dłużnik złożył zabezpieczenie konieczne do zwolnienia go od egzekucji.  "
+        }
     },
-    "question_82": {
-        "question_number": "82.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, organ egzekucyjny umarza postępowanie w całości lub części z urzędu, jeżeli: ",
-        "first_answer": " jest oczywiste, że z egzekucji nie uzyska się sumy wyższej od kosztów egzekucyjnych, ",
-        "second_answer": " prawomocnym orzeczeniem tytuł wykonawczy został pozbawiony wykonalności, ",
-        "third_answer": " egzekucję skierowano przeciwko osobie, która według klauzuli nie jest dłużnikiem. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               19 "
+        "answers": {
+            "A": " jest oczywiste, że z egzekucji nie uzyska się sumy wyższej od kosztów egzekucyjnych, ",
+            "B": " prawomocnym orzeczeniem tytuł wykonawczy został pozbawiony wykonalności, ",
+            "C": " egzekucję skierowano przeciwko osobie, która według klauzuli nie jest dłużnikiem. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               19 "
+        }
     },
-    "question_83": {
-        "question_number": "83.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, powództwa przeciwegzekucyjne wytacza się: ",
-        "first_answer": " przed sąd rzeczowo właściwy, w którego okręgu prowadzi się egzekucję, ",
-        "second_answer": " wyłącznie przed sąd rejonowy przy którym działa komornik, który prowadzi egzekucję, ",
-        "third_answer": " wyłącznie przed sąd okręgowy ogólnej właściwości dłużnika.  "
+        "answers": {
+            "A": " przed sąd rzeczowo właściwy, w którego okręgu prowadzi się egzekucję, ",
+            "B": " wyłącznie przed sąd rejonowy przy którym działa komornik, który prowadzi egzekucję, ",
+            "C": " wyłącznie przed sąd okręgowy ogólnej właściwości dłużnika.  "
+        }
     },
-    "question_84": {
-        "question_number": "84.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, zająć ruchomości będące we władaniu osoby zamieszkującej wspólnie z dłużnikiem, bez zgody tej osoby, można: ",
-        "first_answer": " zawsze w przypadku egzekucji każdego świadczenia pieniężnego, ",
-        "second_answer": " w przypadku egzekucji świadczeń alimentacyjnych, chyba że przedstawi ona dowód, że ruchomości są jej własnością, ",
-        "third_answer": " w każdej sprawie, jeżeli dłużnik wyraził na to zgodę.  "
+        "answers": {
+            "A": " zawsze w przypadku egzekucji każdego świadczenia pieniężnego, ",
+            "B": " w przypadku egzekucji świadczeń alimentacyjnych, chyba że przedstawi ona dowód, że ruchomości są jej własnością, ",
+            "C": " w każdej sprawie, jeżeli dłużnik wyraził na to zgodę.  "
+        }
     },
-    "question_85": {
-        "question_number": "85.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, przystępujący do przetargu zajętej ruchomości: ",
-        "first_answer": " obowiązany jest złożyć rękojmię w wysokości jednej dziesiątej sumy oszacowania,  ",
-        "second_answer": " nigdy nie składa rękojmi, ",
-        "third_answer": " nie składa rękojmi, jeżeli wierzyciel wyraził na to zgodę.  "
+        "answers": {
+            "A": " obowiązany jest złożyć rękojmię w wysokości jednej dziesiątej sumy oszacowania,  ",
+            "B": " nigdy nie składa rękojmi, ",
+            "C": " nie składa rękojmi, jeżeli wierzyciel wyraził na to zgodę.  "
+        }
     },
-    "question_86": {
-        "question_number": "86.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, udzielenie przybicia ruchomości nieulegających szybkiemu zepsuciu, mogą zaskarżyć: ",
-        "first_answer": " wszyscy zainteresowani w razie wyłączenia od udziału w przetargu, ",
-        "second_answer": " wierzyciel lub dłużnik w razie naruszenia przepisów o publicznym charakterze licytacji, o najniższej cenie nabycia i o wyłączeniu od udziału w przetargu, ",
-        "third_answer": " wszyscy zainteresowani w razie naruszenia przepisów o najniższej cenie nabycia.  "
+        "answers": {
+            "A": " wszyscy zainteresowani w razie wyłączenia od udziału w przetargu, ",
+            "B": " wierzyciel lub dłużnik w razie naruszenia przepisów o publicznym charakterze licytacji, o najniższej cenie nabycia i o wyłączeniu od udziału w przetargu, ",
+            "C": " wszyscy zainteresowani w razie naruszenia przepisów o najniższej cenie nabycia.  "
+        }
     },
-    "question_87": {
-        "question_number": "87.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, w egzekucji z nieruchomości, rozporządzenia przedmiotami podlegającymi zajęciu razem z nieruchomością po ich zajęciu są: ",
-        "first_answer": " zawsze nieważne, ",
-        "second_answer": " zawsze ważne, ",
-        "third_answer": " nieważne; nie dotyczy to rozporządzeń zarządcy nieruchomości w zakresie jego ustawowych uprawnień. \f20                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": " zawsze nieważne, ",
+            "B": " zawsze ważne, ",
+            "C": " nieważne; nie dotyczy to rozporządzeń zarządcy nieruchomości w zakresie jego ustawowych uprawnień. \f20                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_88": {
-        "question_number": "88.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, w egzekucji z nieruchomości, z dochodów z nieruchomości zarządca pokrywa w pierwszej kolejności: ",
-        "first_answer": " bieżące należności podatkowe, ",
-        "second_answer": " należności z tytułu ubezpieczenia nieruchomości, ",
-        "third_answer": " koszty egzekucji wraz ze swoim wynagrodzeniem oraz zwrot własnych wydatków.  "
+        "answers": {
+            "A": " bieżące należności podatkowe, ",
+            "B": " należności z tytułu ubezpieczenia nieruchomości, ",
+            "C": " koszty egzekucji wraz ze swoim wynagrodzeniem oraz zwrot własnych wydatków.  "
+        }
     },
-    "question_89": {
-        "question_number": "89.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, w egzekucji z nieruchomości, jeżeli nieruchomość była w okresie sześciu miesięcy przed zajęciem oszacowana dla potrzeb obrotu rynkowego i oszacowanie to odpowiada wymogom oszacowania nieruchomości w egzekucji z nieruchomości: ",
-        "first_answer": " nowego oszacowania nie dokonuje się, ",
-        "second_answer": " zawsze dokonuje się nowego oszacowania, ",
-        "third_answer": " nie dokonuje się nowego oszacowania, jeżeli dłużnik i wierzyciel wyrazili na to zgodę.  "
+        "answers": {
+            "A": " nowego oszacowania nie dokonuje się, ",
+            "B": " zawsze dokonuje się nowego oszacowania, ",
+            "C": " nie dokonuje się nowego oszacowania, jeżeli dłużnik i wierzyciel wyrazili na to zgodę.  "
+        }
     },
-    "question_90": {
-        "question_number": "90.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, jeżeli w egzekucji z nieruchomości, należność wierzyciela będzie uiszczona wraz z kosztami przed zamknięciem przetargu, komornik: ",
-        "first_answer": " zawiesi postępowanie egzekucyjne, ",
-        "second_answer": " umorzy egzekucję, ",
-        "third_answer": " przeprowadzi przetarg w celu wyłonienia nabywcy.  "
+        "answers": {
+            "A": " zawiesi postępowanie egzekucyjne, ",
+            "B": " umorzy egzekucję, ",
+            "C": " przeprowadzi przetarg w celu wyłonienia nabywcy.  "
+        }
     },
-    "question_91": {
-        "question_number": "91.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, w egzekucji z nieruchomości, z chwilą uprawomocnienia się postanowienia o przysądzeniu własności, pozostają w mocy bez potrącenia ich wartości z ceny nabycia: ",
-        "first_answer": " służebność przesyłu, ",
-        "second_answer": " hipoteki, ",
-        "third_answer": " prawa dożywotnika.  "
+        "answers": {
+            "A": " służebność przesyłu, ",
+            "B": " hipoteki, ",
+            "C": " prawa dożywotnika.  "
+        }
     },
-    "question_92": {
-        "question_number": "92.",
+    {
         "question": " Zgodnie z Kodeksem postępowania cywilnego, przepisy o uproszczonej egzekucji z nieruchomości stosuje się do egzekucji z: ",
-        "first_answer": " gruntu oddanego w użytkowanie wieczyste zabudowanego domem mieszkalnym, ",
-        "second_answer": " samodzielnego lokalu mieszkalnego stanowiącego odrębną nieruchomość, ",
-        "third_answer": " niezabudowanej nieruchomości gruntowej. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               21 "
+        "answers": {
+            "A": " gruntu oddanego w użytkowanie wieczyste zabudowanego domem mieszkalnym, ",
+            "B": " samodzielnego lokalu mieszkalnego stanowiącego odrębną nieruchomość, ",
+            "C": " niezabudowanej nieruchomości gruntowej. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               21 "
+        }
     },
-    "question_93": {
-        "question_number": "93.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, spółka komandytowo-akcyjna jest spółką: ",
-        "first_answer": "osobową, ",
-        "second_answer": "kapitałową, ",
-        "third_answer": "osobowo-kapitałową.  "
+        "answers": {
+            "A": "osobową, ",
+            "B": "kapitałową, ",
+            "C": "osobowo-kapitałową.  "
+        }
     },
-    "question_94": {
-        "question_number": "94.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, zmiana postanowień umowy spółki osobowej wymaga zgody: ",
-        "first_answer": "wszystkich wspólników, chyba że umowa stanowi inaczej, ",
-        "second_answer": "większości wspólników, chyba że umowa stanowi inaczej, ",
-        "third_answer": "wspólników, którzy posiadają większość udziałów, niezależnie od postanowień umowy spółki.  "
+        "answers": {
+            "A": "wszystkich wspólników, chyba że umowa stanowi inaczej, ",
+            "B": "większości wspólników, chyba że umowa stanowi inaczej, ",
+            "C": "wspólników, którzy posiadają większość udziałów, niezależnie od postanowień umowy spółki.  "
+        }
     },
-    "question_95": {
-        "question_number": "95.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, przedmiotem wkładu do spółki kapitałowej może być: ",
-        "first_answer": "prawo niezbywalne, ",
-        "second_answer": "wkład niepieniężny, ",
-        "third_answer": "świadczenie pracy bądź usług.  "
+        "answers": {
+            "A": "prawo niezbywalne, ",
+            "B": "wkład niepieniężny, ",
+            "C": "świadczenie pracy bądź usług.  "
+        }
     },
-    "question_96": {
-        "question_number": "96.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, zawarcie przez spółkę kapitałową umowy pożyczki z członkiem rady nadzorczej: ",
-        "first_answer": "nie wymaga zgody zgromadzenia wspólników albo walnego zgromadzenia, chyba że ustawa stanowi inaczej, ",
-        "second_answer": "wymaga zgody zgromadzenia wspólników albo walnego zgromadzenia, chyba że ustawa stanowi inaczej, ",
-        "third_answer": "wymaga zgody zarządu, chyba że ustawa stanowi inaczej.  "
+        "answers": {
+            "A": "nie wymaga zgody zgromadzenia wspólników albo walnego zgromadzenia, chyba że ustawa stanowi inaczej, ",
+            "B": "wymaga zgody zgromadzenia wspólników albo walnego zgromadzenia, chyba że ustawa stanowi inaczej, ",
+            "C": "wymaga zgody zarządu, chyba że ustawa stanowi inaczej.  "
+        }
     },
-    "question_97": {
-        "question_number": "97.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, rozporządzenie udziałem albo akcją dokonane przed wpisem spółki kapitałowej do rejestru albo przed zarejestrowaniem podwyższenia kapitału zakładowego jest: ",
-        "first_answer": "nieważne, ",
-        "second_answer": "ważne, o ile umowa spółki tak stanowi, ",
-        "third_answer": "ważne.   \f22                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": "nieważne, ",
+            "B": "ważne, o ile umowa spółki tak stanowi, ",
+            "C": "ważne.   \f22                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_98": {
-        "question_number": "98.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, gdy określony w umowie albo statucie spółki kapitałowej przedmiot działalności spółki jest sprzeczny z prawem, sąd rejestrowy może: ",
-        "first_answer": "orzec o rozwiązaniu wpisanej do rejestru spółki kapitałowej, ",
-        "second_answer": "orzec o nieistnieniu wpisanej do rejestru spółki kapitałowej, ",
-        "third_answer": "zmienić postanowienia umowy lub statutu wpisanej do rejestru spółki kapitałowej.  "
+        "answers": {
+            "A": "orzec o rozwiązaniu wpisanej do rejestru spółki kapitałowej, ",
+            "B": "orzec o nieistnieniu wpisanej do rejestru spółki kapitałowej, ",
+            "C": "zmienić postanowienia umowy lub statutu wpisanej do rejestru spółki kapitałowej.  "
+        }
     },
-    "question_99": {
-        "question_number": "99.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, spółka jawna powstaje z chwilą: ",
-        "first_answer": "zawarcia umowy spółki, ",
-        "second_answer": "zatwierdzenia umowy spółki przez sąd rejestrowy, ",
-        "third_answer": "wpisu do rejestru.  "
+        "answers": {
+            "A": "zawarcia umowy spółki, ",
+            "B": "zatwierdzenia umowy spółki przez sąd rejestrowy, ",
+            "C": "wpisu do rejestru.  "
+        }
     },
-    "question_100": {
-        "question_number": "100.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, prawo wspólnika spółki jawnej do reprezentowania spółki dotyczy: ",
-        "first_answer": "wszystkich czynności sądowych i pozasądowych spółki, ",
-        "second_answer": "wyłącznie czynności sądowych spółki, ",
-        "third_answer": "wyłącznie czynności pozasądowych spółki.  "
+        "answers": {
+            "A": "wszystkich czynności sądowych i pozasądowych spółki, ",
+            "B": "wyłącznie czynności sądowych spółki, ",
+            "C": "wyłącznie czynności pozasądowych spółki.  "
+        }
     },
-    "question_101": {
-        "question_number": "101.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, umowa spółki partnerskiej powinna być zawarta: ",
-        "first_answer": "w formie aktu notarialnego, ",
-        "second_answer": "na piśmie pod rygorem nieważności, ",
-        "third_answer": "na piśmie pod rygorem odmowy wpisu do rejestru.  "
+        "answers": {
+            "A": "w formie aktu notarialnego, ",
+            "B": "na piśmie pod rygorem nieważności, ",
+            "C": "na piśmie pod rygorem odmowy wpisu do rejestru.  "
+        }
     },
-    "question_102": {
-        "question_number": "102.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, umowa spółki komandytowej powinna być zawarta: ",
-        "first_answer": "w formie aktu notarialnego,  ",
-        "second_answer": "na piśmie pod rygorem nieważności, ",
-        "third_answer": "na piśmie pod rygorem odmowy wpisu do rejestru.     \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               23 "
+        "answers": {
+            "A": "w formie aktu notarialnego,  ",
+            "B": "na piśmie pod rygorem nieważności, ",
+            "C": "na piśmie pod rygorem odmowy wpisu do rejestru.     \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               23 "
+        }
     },
-    "question_103": {
-        "question_number": "103.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, w spółce komandytowej, wkład komandytariusza: ",
-        "first_answer": "może być wniesiony w wartości niższej niż suma komandytowa, jeżeli umowa nie stanowi inaczej, ",
-        "second_answer": "zawsze może być wniesiony w wartości niższej niż suma komandytowa, ",
-        "third_answer": "nigdy nie może być wniesiony w wartości niższej niż suma komandytowa.  "
+        "answers": {
+            "A": "może być wniesiony w wartości niższej niż suma komandytowa, jeżeli umowa nie stanowi inaczej, ",
+            "B": "zawsze może być wniesiony w wartości niższej niż suma komandytowa, ",
+            "C": "nigdy nie może być wniesiony w wartości niższej niż suma komandytowa.  "
+        }
     },
-    "question_104": {
-        "question_number": "104.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, kapitał zakładowy spółki komandytowo-akcyjnej powinien wynosić co najmniej: ",
-        "first_answer": "5 000 złotych, ",
-        "second_answer": "10 000 złotych, ",
-        "third_answer": "50 000 złotych.  "
+        "answers": {
+            "A": "5 000 złotych, ",
+            "B": "10 000 złotych, ",
+            "C": "50 000 złotych.  "
+        }
     },
-    "question_105": {
-        "question_number": "105.",
+    {
         "question": "Zgodnie z Kodeksem spółek handlowych, założycielami spółki komandytowo-akcyjnej są osoby podpisujące: ",
-        "first_answer": "statut, ",
-        "second_answer": "umowę, ",
-        "third_answer": "regulamin.  "
+        "answers": {
+            "A": "statut, ",
+            "B": "umowę, ",
+            "C": "regulamin.  "
+        }
     },
-    "question_106": {
-        "question_number": "106.",
+    {
         "question": "Zgodnie z Kodeksem pracy, osoba, wobec której pracodawca naruszył zasadę równego traktowania w zatrudnieniu, ma prawo do odszkodowania w wysokości: ",
-        "first_answer": "podwójnej wysokości stawki wynagrodzenia zasadniczego za ostatni miesiąc, ",
-        "second_answer": " nie niższej niż przeciętne wynagrodzenie za pracę w gospodarce narodowej, ",
-        "third_answer": " nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów.   "
+        "answers": {
+            "A": "podwójnej wysokości stawki wynagrodzenia zasadniczego za ostatni miesiąc, ",
+            "B": " nie niższej niż przeciętne wynagrodzenie za pracę w gospodarce narodowej, ",
+            "C": " nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów.   "
+        }
     },
-    "question_107": {
-        "question_number": "107.",
+    {
         "question": " Zgodnie z Kodeksem pracy, przejście zakładu pracy lub jego części na innego pracodawcę: ",
-        "first_answer": " zawsze może stanowić przyczynę uzasadniającą wypowiedzenie przez pracodawcę stosunku pracy, ",
-        "second_answer": " nie może stanowić przyczyny uzasadniającej wypowiedzenie przez pracodawcę stosunku pracy, ",
-        "third_answer": " tylko w uzasadnionych wypadkach może stanowić przyczynę uzasadniającą wypowiedzenie przez pracodawcę stosunku pracy. \f24                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": " zawsze może stanowić przyczynę uzasadniającą wypowiedzenie przez pracodawcę stosunku pracy, ",
+            "B": " nie może stanowić przyczyny uzasadniającej wypowiedzenie przez pracodawcę stosunku pracy, ",
+            "C": " tylko w uzasadnionych wypadkach może stanowić przyczynę uzasadniającą wypowiedzenie przez pracodawcę stosunku pracy. \f24                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_108": {
-        "question_number": "108.",
+    {
         "question": " Zgodnie z Kodeksem pracy, zmiana warunków stosunku pracy nawiązanego na podstawie powołania wymaga formy:  ",
-        "first_answer": " pisemnej, ",
-        "second_answer": " pisemnej z podpisem urzędowo poświadczonym, ",
-        "third_answer": " pisemnej z datą pewną.  "
+        "answers": {
+            "A": " pisemnej, ",
+            "B": " pisemnej z podpisem urzędowo poświadczonym, ",
+            "C": " pisemnej z datą pewną.  "
+        }
     },
-    "question_109": {
-        "question_number": "109.",
+    {
         "question": " Zgodnie z Kodeksem pracy, w razie zastosowania przez pracodawcę okresu wypowiedzenia krótszego niż wymagany: ",
-        "first_answer": " umowa o pracę rozwiązuje się z upływem zastosowanego okresu wypowiedzenia, a pracownikowi przysługuje odszkodowanie, ",
-        "second_answer": " wypowiedzenie jest bezwzględnie nieważne, ",
-        "third_answer": " umowa o pracę rozwiązuje się z upływem okresu wymaganego, a pracownikowi przysługuje wynagrodzenie do czasu rozwiązania umowy.  "
+        "answers": {
+            "A": " umowa o pracę rozwiązuje się z upływem zastosowanego okresu wypowiedzenia, a pracownikowi przysługuje odszkodowanie, ",
+            "B": " wypowiedzenie jest bezwzględnie nieważne, ",
+            "C": " umowa o pracę rozwiązuje się z upływem okresu wymaganego, a pracownikowi przysługuje wynagrodzenie do czasu rozwiązania umowy.  "
+        }
     },
-    "question_110": {
-        "question_number": "110.",
+    {
         "question": " Zgodnie z Kodeksem pracy, kara porządkowa może być zastosowana:  ",
-        "first_answer": " tylko po uprzednim wysłuchaniu pracownika, ",
-        "second_answer": " bez wysłuchania pracownika w razie ciężkiego i rażącego naruszenia podstawowych obowiązków pracowniczych, ",
-        "third_answer": " bez wysłuchania pracownika, jeżeli wyrazi na to zgodę zakładowa organizacja związkowa, której pracownik jest członkiem.  "
+        "answers": {
+            "A": " tylko po uprzednim wysłuchaniu pracownika, ",
+            "B": " bez wysłuchania pracownika w razie ciężkiego i rażącego naruszenia podstawowych obowiązków pracowniczych, ",
+            "C": " bez wysłuchania pracownika, jeżeli wyrazi na to zgodę zakładowa organizacja związkowa, której pracownik jest członkiem.  "
+        }
     },
-    "question_111": {
-        "question_number": "111.",
+    {
         "question": " Zgodnie z Kodeksem pracy, wymiar urlopu wypoczynkowego dla pracownika zatrudnionego w pełnym wymiarze czasu pracy, jeżeli pracownik jest zatrudniony krócej niż 10 lat, wynosi: ",
-        "first_answer": " 26 dni, ",
-        "second_answer": " 21 dni, ",
-        "third_answer": " 20 dni.        \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               25 "
+        "answers": {
+            "A": " 26 dni, ",
+            "B": " 21 dni, ",
+            "C": " 20 dni.        \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               25 "
+        }
     },
-    "question_112": {
-        "question_number": "112.",
+    {
         "question": " Zgodnie z Kodeksem pracy, odwołanie od wypowiedzenia umowy o pracę wnosi się do sądu pracy: ",
-        "first_answer": " w ciągu 7 dni od dnia doręczenia pisma wypowiadającego umowę o pracę,  ",
-        "second_answer": " w ciągu 14 dni od dnia, w którym pracodawca zawiadomił pracownika o zamiarze wypowiedzenia umowy o pracę. ",
-        "third_answer": " w ciągu 7 dni od dnia, w którym upłynął okres wypowiedzenia wskazany w piśmie wypowiadającym umowę o pracę.  "
+        "answers": {
+            "A": " w ciągu 7 dni od dnia doręczenia pisma wypowiadającego umowę o pracę,  ",
+            "B": " w ciągu 14 dni od dnia, w którym pracodawca zawiadomił pracownika o zamiarze wypowiedzenia umowy o pracę. ",
+            "C": " w ciągu 7 dni od dnia, w którym upłynął okres wypowiedzenia wskazany w piśmie wypowiadającym umowę o pracę.  "
+        }
     },
-    "question_113": {
-        "question_number": "113.",
+    {
         "question": " Zgodnie z Kodeksem rodzinnym i opiekuńczym, jeżeli prawo do mieszkania przysługuje jednemu małżonkowi, drugi małżonek jest uprawniony do korzystania z tego mieszkania: ",
-        "first_answer": " w celu zaspokojenia potrzeb rodziny, ",
-        "second_answer": " w celu zaspokojenia potrzeb rodziny, ale wyłącznie za zgodą drugiego małżonka, ",
-        "third_answer": " zawsze, niezależnie od celu korzystania z mieszkania i zgody drugiego małżonka.  "
+        "answers": {
+            "A": " w celu zaspokojenia potrzeb rodziny, ",
+            "B": " w celu zaspokojenia potrzeb rodziny, ale wyłącznie za zgodą drugiego małżonka, ",
+            "C": " zawsze, niezależnie od celu korzystania z mieszkania i zgody drugiego małżonka.  "
+        }
     },
-    "question_114": {
-        "question_number": "114.",
+    {
         "question": " Zgodnie z Kodeksem rodzinnym i opiekuńczym, jeżeli małżonków łączy ustawowy ustrój majątkowy (wspólność ustawowa), do majątku wspólnego należą: ",
-        "first_answer": " pobrane wynagrodzenie za pracę każdego z małżonków, ",
-        "second_answer": " prawa niezbywalne, które mogą przysługiwać tylko jednej osobie, ",
-        "third_answer": " wierzytelności z tytułu wynagrodzenia za pracę jednego z małżonków.  "
+        "answers": {
+            "A": " pobrane wynagrodzenie za pracę każdego z małżonków, ",
+            "B": " prawa niezbywalne, które mogą przysługiwać tylko jednej osobie, ",
+            "C": " wierzytelności z tytułu wynagrodzenia za pracę jednego z małżonków.  "
+        }
     },
-    "question_115": {
-        "question_number": "115.",
+    {
         "question": " Zgodnie z Kodeksem rodzinnym i opiekuńczym, w czasie trwania wspólności ustawowej: ",
-        "first_answer": " każdy z małżonków może żądać podziału majątku wspólnego, ",
-        "second_answer": " żaden z małżonków nie może żądać podziału majątku wspólnego, ",
-        "third_answer": " każdy z małżonków może żądać podziału majątku wspólnego z ważnych powodów.  "
+        "answers": {
+            "A": " każdy z małżonków może żądać podziału majątku wspólnego, ",
+            "B": " żaden z małżonków nie może żądać podziału majątku wspólnego, ",
+            "C": " każdy z małżonków może żądać podziału majątku wspólnego z ważnych powodów.  "
+        }
     },
-    "question_116": {
-        "question_number": "116.",
+    {
         "question": " Zgodnie z Kodeksem rodzinnym i opiekuńczym, można uznać ojcostwo: ",
-        "first_answer": " przed urodzeniem się dziecka już poczętego, ",
-        "second_answer": " wyłącznie dziecka urodzonego, ",
-        "third_answer": " wyłącznie dziecka urodzonego, do czasu osiągnięcia przez to dziecko pełnoletności.  \f26                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": " przed urodzeniem się dziecka już poczętego, ",
+            "B": " wyłącznie dziecka urodzonego, ",
+            "C": " wyłącznie dziecka urodzonego, do czasu osiągnięcia przez to dziecko pełnoletności.  \f26                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_117": {
-        "question_number": "117.",
+    {
         "question": "Zgodnie z Kodeksem postępowania administracyjnego, spory o właściwość między organami jednostek samorządu terytorialnego w różnych województwach w sprawach należących do zadań z zakresu administracji rządowej rozstrzyga: ",
-        "first_answer": "właściwy sąd administracyjny, ",
-        "second_answer": "minister właściwy do spraw administracji publicznej, ",
-        "third_answer": "właściwy wojewoda.  "
+        "answers": {
+            "A": "właściwy sąd administracyjny, ",
+            "B": "minister właściwy do spraw administracji publicznej, ",
+            "C": "właściwy wojewoda.  "
+        }
     },
-    "question_118": {
-        "question_number": "118.",
+    {
         "question": "Zgodnie z Kodeksem postępowania administracyjnego, pełnomocnikiem strony może być: ",
-        "first_answer": "wyłącznie adwokat lub radca prawny, ",
-        "second_answer": "wyłącznie adwokat, radca prawny, rzecznik patentowy lub doradca podatkowy, ",
-        "third_answer": "osoba fizyczna posiadająca zdolność do czynności prawnych.  "
+        "answers": {
+            "A": "wyłącznie adwokat lub radca prawny, ",
+            "B": "wyłącznie adwokat, radca prawny, rzecznik patentowy lub doradca podatkowy, ",
+            "C": "osoba fizyczna posiadająca zdolność do czynności prawnych.  "
+        }
     },
-    "question_119": {
-        "question_number": "119.",
+    {
         "question": "Zgodnie z Kodeksem postępowania administracyjnego, organy administracji publicznej obowiązane są załatwiać sprawy nie wymagające postępowania wyjaśniającego: ",
-        "first_answer": "w terminie 14 dni, ",
-        "second_answer": "w terminie miesiąca, ",
-        "third_answer": "bez zbędnej zwłoki.   "
+        "answers": {
+            "A": "w terminie 14 dni, ",
+            "B": "w terminie miesiąca, ",
+            "C": "bez zbędnej zwłoki.   "
+        }
     },
-    "question_120": {
-        "question_number": "120.",
+    {
         "question": "Zgodnie z Kodeksem postępowania administracyjnego, jeżeli ustanowiono kilku pełnomocników, doręcza się pisma: ",
-        "first_answer": "tylko jednemu pełnomocnikowi, ",
-        "second_answer": "wszystkim pełnomocnikom, ",
-        "third_answer": "tylko stronie postępowania.  "
+        "answers": {
+            "A": "tylko jednemu pełnomocnikowi, ",
+            "B": "wszystkim pełnomocnikom, ",
+            "C": "tylko stronie postępowania.  "
+        }
     },
-    "question_121": {
-        "question_number": "121.",
+    {
         "question": "Zgodnie z Kodeksem postępowania administracyjnego, strona może żądać wydania jej z akt sprawy uwierzytelnionych odpisów: ",
-        "first_answer": "o ile jest to uzasadnione ważnym interesem strony, ",
-        "second_answer": "w każdym wypadku, ",
-        "third_answer": "o ile organ administracji publicznej uzna to za konieczne do właściwego przeprowadzenia postępowania wyjaśniającego.  \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               27 "
+        "answers": {
+            "A": "o ile jest to uzasadnione ważnym interesem strony, ",
+            "B": "w każdym wypadku, ",
+            "C": "o ile organ administracji publicznej uzna to za konieczne do właściwego przeprowadzenia postępowania wyjaśniającego.  \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               27 "
+        }
     },
-    "question_122": {
-        "question_number": "122.",
+    {
         "question": "Zgodnie z Kodeksem postępowania administracyjnego, w razie śmierci przedstawiciela ustawowego strony, organ administracji publicznej: ",
-        "first_answer": "zawiesza postępowanie, ",
-        "second_answer": "umarza postępowanie, ",
-        "third_answer": "wzywa stronę do ustanowienia przedstawiciela ustawowego.  "
+        "answers": {
+            "A": "zawiesza postępowanie, ",
+            "B": "umarza postępowanie, ",
+            "C": "wzywa stronę do ustanowienia przedstawiciela ustawowego.  "
+        }
     },
-    "question_123": {
-        "question_number": "123.",
+    {
         "question": "Zgodnie z Kodeksem postępowania administracyjnego, organ administracji publicznej może umorzyć postępowanie, jeżeli: ",
-        "first_answer": "postępowanie z jakiejkolwiek przyczyny stało się bezprzedmiotowe w całości albo w części, ",
-        "second_answer": "wystąpi o to strona, na której żądanie postępowanie zostało wszczęte, a nie sprzeciwiają się temu inne strony oraz gdy nie jest to sprzeczne z interesem społecznym, ",
-        "third_answer": "strona utraciła zdolność do czynności prawnych.  "
+        "answers": {
+            "A": "postępowanie z jakiejkolwiek przyczyny stało się bezprzedmiotowe w całości albo w części, ",
+            "B": "wystąpi o to strona, na której żądanie postępowanie zostało wszczęte, a nie sprzeciwiają się temu inne strony oraz gdy nie jest to sprzeczne z interesem społecznym, ",
+            "C": "strona utraciła zdolność do czynności prawnych.  "
+        }
     },
-    "question_124": {
-        "question_number": "124.",
+    {
         "question": "Zgodnie z Kodeksem postępowania administracyjnego, rygor natychmiastowej wykonalności może być nadany decyzji również po jej wydaniu. W tym przypadku organ wydaje: ",
-        "first_answer": "postanowienie, na które służy stronie zażalenie, ",
-        "second_answer": "decyzję, od której służy stronie odwołanie, ",
-        "third_answer": "postanowienie, na które nie służy stronie zażalenie.  "
+        "answers": {
+            "A": "postanowienie, na które służy stronie zażalenie, ",
+            "B": "decyzję, od której służy stronie odwołanie, ",
+            "C": "postanowienie, na które nie służy stronie zażalenie.  "
+        }
     },
-    "question_125": {
-        "question_number": "125.",
+    {
         "question": "Zgodnie z Kodeksem postępowania administracyjnego, o ile kodeks nie stanowi inaczej, organ administracji publicznej, który wydał decyzję, jest nią związany od chwili jej: ",
-        "first_answer": "doręczenia lub ogłoszenia, ",
-        "second_answer": "podpisania, ",
-        "third_answer": "nadania w urzędzie pocztowym.   "
+        "answers": {
+            "A": "doręczenia lub ogłoszenia, ",
+            "B": "podpisania, ",
+            "C": "nadania w urzędzie pocztowym.   "
+        }
     },
-    "question_126": {
-        "question_number": "126.",
+    {
         "question": "Zgodnie z Kodeksem postępowania administracyjnego, odmowa uzupełnienia decyzji następuje w formie: ",
-        "first_answer": "decyzji, ",
-        "second_answer": " postanowienia, ",
-        "third_answer": "zarządzenia. \f28                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": "decyzji, ",
+            "B": " postanowienia, ",
+            "C": "zarządzenia. \f28                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_127": {
-        "question_number": "127.",
+    {
         "question": "Zgodnie z Kodeksem postępowania administracyjnego, zatwierdzenie ugody następuje w drodze: ",
-        "first_answer": "postanowienia, na które służy zażalenie, ",
-        "second_answer": "decyzji, od której służy odwołanie, ",
-        "third_answer": "zarządzenia, na które służy zażalenie.  "
+        "answers": {
+            "A": "postanowienia, na które służy zażalenie, ",
+            "B": "decyzji, od której służy odwołanie, ",
+            "C": "zarządzenia, na które służy zażalenie.  "
+        }
     },
-    "question_128": {
-        "question_number": "128.",
+    {
         "question": "Zgodnie z ustawą o wojewodzie i administracji rządowej w województwie, wicewojewodę powołuje i odwołuje Prezes Rady Ministrów na wniosek: ",
-        "first_answer": "ministra właściwego do spraw administracji publicznej, ",
-        "second_answer": "wojewody, ",
-        "third_answer": "marszałka województwa.  "
+        "answers": {
+            "A": "ministra właściwego do spraw administracji publicznej, ",
+            "B": "wojewody, ",
+            "C": "marszałka województwa.  "
+        }
     },
-    "question_129": {
-        "question_number": "129.",
+    {
         "question": "Zgodnie z ustawą o wprowadzeniu zasadniczego trójstopniowego podziału terytorialnego państwa, jednostkami zasadniczego trójstopniowego podziału terytorialnego państwa są:  ",
-        "first_answer": "sołectwa, ",
-        "second_answer": "dzielnice, ",
-        "third_answer": "gminy.  "
+        "answers": {
+            "A": "sołectwa, ",
+            "B": "dzielnice, ",
+            "C": "gminy.  "
+        }
     },
-    "question_130": {
-        "question_number": "130.",
+    {
         "question": "Zgodnie z ustawą o kontroli w administracji rządowej, działalność organów samorządu terytorialnego w sprawach dotyczących wykonywania zadań z zakresu administracji rządowej kontroluje: ",
-        "first_answer": "samorządowe kolegium odwoławcze, ",
-        "second_answer": "wojewoda, ",
-        "third_answer": "regionalna izba obrachunkowa.  "
+        "answers": {
+            "A": "samorządowe kolegium odwoławcze, ",
+            "B": "wojewoda, ",
+            "C": "regionalna izba obrachunkowa.  "
+        }
     },
-    "question_131": {
-        "question_number": "131.",
+    {
         "question": "Zgodnie z ustawą o samorządzie gminnym, nadzór nad działalnością gminną sprawowany jest: ",
-        "first_answer": "na podstawie kryterium zgodności z prawem, ",
-        "second_answer": "na podstawie kryterium zgodności z prawem i celowości, ",
-        "third_answer": "na podstawie kryterium zgodności z prawem, celowości i gospodarności.    \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               29 "
+        "answers": {
+            "A": "na podstawie kryterium zgodności z prawem, ",
+            "B": "na podstawie kryterium zgodności z prawem i celowości, ",
+            "C": "na podstawie kryterium zgodności z prawem, celowości i gospodarności.    \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               29 "
+        }
     },
-    "question_132": {
-        "question_number": "132.",
+    {
         "question": "Zgodnie z ustawą o samorządzie powiatowym, funkcje organów powiatu w miastach na prawach powiatu sprawuje: ",
-        "first_answer": "rada powiatu i zarząd powiatu, ",
-        "second_answer": "starosta i rada powiatu, ",
-        "third_answer": "rada miasta i prezydent miasta.  "
+        "answers": {
+            "A": "rada powiatu i zarząd powiatu, ",
+            "B": "starosta i rada powiatu, ",
+            "C": "rada miasta i prezydent miasta.  "
+        }
     },
-    "question_133": {
-        "question_number": "133.",
+    {
         "question": "Zgodnie z ustawą o samorządzie województwa, województwo może zawierać porozumienia w sprawie powierzenia prowadzenia zadań publicznych: ",
-        "first_answer": "wyłącznie z innymi województwami, ",
-        "second_answer": "wyłącznie z jednostkami lokalnego samorządu terytorialnego z obszaru województwa, ",
-        "third_answer": "z innymi województwami oraz jednostkami lokalnego samorządu terytorialnego z obszaru województwa.   "
+        "answers": {
+            "A": "wyłącznie z innymi województwami, ",
+            "B": "wyłącznie z jednostkami lokalnego samorządu terytorialnego z obszaru województwa, ",
+            "C": "z innymi województwami oraz jednostkami lokalnego samorządu terytorialnego z obszaru województwa.   "
+        }
     },
-    "question_134": {
-        "question_number": "134.",
+    {
         "question": "Zgodnie z ustawą o Radzie Ministrów, organizację i tryb swojej pracy Rada Ministrów określa w: ",
-        "first_answer": "statucie, ",
-        "second_answer": "regulaminie, ",
-        "third_answer": "rozporządzeniu.  "
+        "answers": {
+            "A": "statucie, ",
+            "B": "regulaminie, ",
+            "C": "rozporządzeniu.  "
+        }
     },
-    "question_135": {
-        "question_number": "135.",
+    {
         "question": " Zgodnie z ustawą - Ordynacja podatkowa, inkasentem jest osoba fizyczna, osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej: ",
-        "first_answer": "podlegająca na mocy ustaw podatkowych obowiązkowi podatkowemu, ",
-        "second_answer": "obowiązana na podstawie przepisów prawa podatkowego do obliczenia i pobrania od podatnika podatku i wpłacenia go we właściwym terminie organowi podatkowemu. ",
-        "third_answer": "obowiązana do pobrania od podatnika podatku i wpłacenia go we właściwym terminie organowi podatkowemu.  "
+        "answers": {
+            "A": "podlegająca na mocy ustaw podatkowych obowiązkowi podatkowemu, ",
+            "B": "obowiązana na podstawie przepisów prawa podatkowego do obliczenia i pobrania od podatnika podatku i wpłacenia go we właściwym terminie organowi podatkowemu. ",
+            "C": "obowiązana do pobrania od podatnika podatku i wpłacenia go we właściwym terminie organowi podatkowemu.  "
+        }
     },
-    "question_136": {
-        "question_number": "136.",
+    {
         "question": " Zgodnie z ustawą - Ordynacja podatkowa, organem podatkowym, stosownie do swojej właściwości, jako organ odwoławczy od decyzji wójta jest: ",
-        "first_answer": "dyrektor izby skarbowej, ",
-        "second_answer": "regionalna izba obrachunkowa, ",
-        "third_answer": "samorządowe kolegium odwoławcze. \f30                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": "dyrektor izby skarbowej, ",
+            "B": "regionalna izba obrachunkowa, ",
+            "C": "samorządowe kolegium odwoławcze. \f30                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_137": {
-        "question_number": "137.",
+    {
         "question": " Zgodnie z ustawą - Ordynacja podatkowa, wniosek o wydanie interpretacji indywidualnej podlega opłacie w wysokości: ",
-        "first_answer": " 40 zł, ",
-        "second_answer": "100 zł, ",
-        "third_answer": "500 zł.  "
+        "answers": {
+            "A": " 40 zł, ",
+            "B": "100 zł, ",
+            "C": "500 zł.  "
+        }
     },
-    "question_138": {
-        "question_number": "138.",
+    {
         "question": " Zgodnie z ustawą - Ordynacja podatkowa, organy podatkowe przestrzegają z urzędu swojej właściwości: ",
-        "first_answer": "wyłącznie rzeczowej, ",
-        "second_answer": "rzeczowej i miejscowej, ",
-        "third_answer": "tylko miejscowej.  "
+        "answers": {
+            "A": "wyłącznie rzeczowej, ",
+            "B": "rzeczowej i miejscowej, ",
+            "C": "tylko miejscowej.  "
+        }
     },
-    "question_139": {
-        "question_number": "139.",
+    {
         "question": " Zgodnie z ustawą - Ordynacja podatkowa, spory o właściwość między marszałkami województw rozstrzyga: ",
-        "first_answer": "Prezes Rady Ministrów, ",
-        "second_answer": "minister właściwy do spraw finansów publicznych, ",
-        "third_answer": "sąd administracyjny.  "
+        "answers": {
+            "A": "Prezes Rady Ministrów, ",
+            "B": "minister właściwy do spraw finansów publicznych, ",
+            "C": "sąd administracyjny.  "
+        }
     },
-    "question_140": {
-        "question_number": "140.",
+    {
         "question": " Zgodnie z ustawą - Ordynacja podatkowa, zastaw skarbowy powstaje z dniem: ",
-        "first_answer": "doręczenia decyzji określającej wysokość zobowiązania podatkowego, ",
-        "second_answer": "wystawienia tytułu wykonawczego, ",
-        "third_answer": "wpisu do rejestru zastawów skarbowych.  "
+        "answers": {
+            "A": "doręczenia decyzji określającej wysokość zobowiązania podatkowego, ",
+            "B": "wystawienia tytułu wykonawczego, ",
+            "C": "wpisu do rejestru zastawów skarbowych.  "
+        }
     },
-    "question_141": {
-        "question_number": "141.",
+    {
         "question": " Zgodnie z ustawą - Prawo o ustroju sądów powszechnych, prezes sądu okręgowego jest powoływany na okres: ",
-        "first_answer": " sześciu lat, ",
-        "second_answer": " pięciu lat, ",
-        "third_answer": " czterech lat.  "
+        "answers": {
+            "A": " sześciu lat, ",
+            "B": " pięciu lat, ",
+            "C": " czterech lat.  "
+        }
     },
-    "question_142": {
-        "question_number": "142.",
+    {
         "question": " Zgodnie z ustawą - Prawo o ustroju sądów powszechnych, dyrektora sądu okręgowego powołuje: ",
-        "first_answer": " prezes sądu okręgowego, ",
-        "second_answer": " prezes sądu apelacyjnego na wniosek prezesa danego sądu, ",
-        "third_answer": " Minister Sprawiedliwości na wniosek prezesa danego sądu. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               31 "
+        "answers": {
+            "A": " prezes sądu okręgowego, ",
+            "B": " prezes sądu apelacyjnego na wniosek prezesa danego sądu, ",
+            "C": " Minister Sprawiedliwości na wniosek prezesa danego sądu. \fEGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY                               31 "
+        }
     },
-    "question_143": {
-        "question_number": "143.",
+    {
         "question": " Zgodnie z ustawą o komornikach sądowych i egzekucji, do zadań powierzonych komornikom sądowym należy w szczególności: ",
-        "first_answer": " wykonywanie wyłącznie wyroków sądowych w sprawach o roszczenia pieniężne i niepieniężne oraz o zabezpieczenie roszczeń podlegających wykonaniu w drodze egzekucji sądowej, ",
-        "second_answer": " wykonywanie orzeczeń sądowych w sprawach o roszczenia pieniężne i niepieniężne oraz o zabezpieczenie roszczeń, ",
-        "third_answer": " wykonywanie wszystkich orzeczeń sądowych.  "
+        "answers": {
+            "A": " wykonywanie wyłącznie wyroków sądowych w sprawach o roszczenia pieniężne i niepieniężne oraz o zabezpieczenie roszczeń podlegających wykonaniu w drodze egzekucji sądowej, ",
+            "B": " wykonywanie orzeczeń sądowych w sprawach o roszczenia pieniężne i niepieniężne oraz o zabezpieczenie roszczeń, ",
+            "C": " wykonywanie wszystkich orzeczeń sądowych.  "
+        }
     },
-    "question_144": {
-        "question_number": "144.",
+    {
         "question": " Zgodnie z ustawą o komornikach sądowych i egzekucji, wierzyciel ma prawo wyboru komornika na terytorium Rzeczypospolitej Polskiej we wszystkich sprawach: ",
-        "first_answer": " z wyjątkiem spraw o egzekucję z nieruchomości oraz spraw, w których przepisy o egzekucji z nieruchomości stosuje się odpowiednio, ",
-        "second_answer": " bez względu na przedmiot egzekucji, ",
-        "third_answer": " z wyjątkiem spraw o egzekucję świadczeń niepieniężnych.  "
+        "answers": {
+            "A": " z wyjątkiem spraw o egzekucję z nieruchomości oraz spraw, w których przepisy o egzekucji z nieruchomości stosuje się odpowiednio, ",
+            "B": " bez względu na przedmiot egzekucji, ",
+            "C": " z wyjątkiem spraw o egzekucję świadczeń niepieniężnych.  "
+        }
     },
-    "question_145": {
-        "question_number": "145.",
+    {
         "question": " Zgodnie z ustawą o komornikach sądowych i egzekucji, dane do weryfikacji podpisu elektronicznego używanego przez komornika w postępowaniu egzekucyjnym potwierdza: ",
-        "first_answer": " Minister Sprawiedliwości, ",
-        "second_answer": " Krajowa Rada Komornicza, ",
-        "third_answer": " prezes właściwego sądu apelacyjnego.  "
+        "answers": {
+            "A": " Minister Sprawiedliwości, ",
+            "B": " Krajowa Rada Komornicza, ",
+            "C": " prezes właściwego sądu apelacyjnego.  "
+        }
     },
-    "question_146": {
-        "question_number": "146.",
+    {
         "question": " Zgodnie z ustawą o komornikach sądowych i egzekucji, wysokość składki miesięcznej opłacanej przez komorników na potrzeby organów samorządu komorniczego ustala: ",
-        "first_answer": " corocznie Krajowa Rada Komornicza, ",
-        "second_answer": " Zwyczajny Zjazd Komorników na okres dwóch lat,  ",
-        "third_answer": " Minister Sprawiedliwości w rozporządzeniu.    \f32                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        "answers": {
+            "A": " corocznie Krajowa Rada Komornicza, ",
+            "B": " Zwyczajny Zjazd Komorników na okres dwóch lat,  ",
+            "C": " Minister Sprawiedliwości w rozporządzeniu.    \f32                           EGZAMIN KONKURSOWY DLA KANDYDATÓW NA APLIKANTÓW KOMORNICZY"
+        }
     },
-    "question_147": {
-        "question_number": "147.",
+    {
         "question": " Zgodnie z ustawą o komornikach sądowych i egzekucji, karą dyscyplinarną, której nie można orzec w stosunku do aplikanta komorniczego jest: ",
-        "first_answer": " upomnienie, ",
-        "second_answer": " skreślenie z listy aplikantów komorniczych, ",
-        "third_answer": " kara pieniężna do dwudziestokrotnej wysokości przeciętnego wynagrodzenia miesięcznego.   "
+        "answers": {
+            "A": " upomnienie, ",
+            "B": " skreślenie z listy aplikantów komorniczych, ",
+            "C": " kara pieniężna do dwudziestokrotnej wysokości przeciętnego wynagrodzenia miesięcznego.   "
+        }
     },
-    "question_148": {
-        "question_number": "148.",
+    {
         "question": " Zgodnie z Traktatem o Funkcjonowaniu Unii Europejskiej, Komitet Ekonomiczno-Społeczny i Komitet Regionów to organy doradcze: ",
-        "first_answer": " Europejskiego ",
-        "second_answer": " Parlamentu Europejskiego, Rady i Komisji, ",
-        "third_answer": " Trybunału Obrachunkowego.  "
+        "answers": {
+            "A": " Europejskiego ",
+            "B": " Parlamentu Europejskiego, Rady i Komisji, ",
+            "C": " Trybunału Obrachunkowego.  "
+        }
     },
-    "question_149": {
-        "question_number": "149.",
+    {
         "question": " Zgodnie z Traktatem o Unii Europejskiej, instytucją Unii Europejskiej jest: ",
-        "first_answer": " Europejski Trybunał Praw Człowieka, ",
-        "second_answer": " Międzynarodowy Trybunał Sprawiedliwości, ",
-        "third_answer": " Trybunał Obrachunkowy.  "
+        "answers": {
+            "A": " Europejski Trybunał Praw Człowieka, ",
+            "B": " Międzynarodowy Trybunał Sprawiedliwości, ",
+            "C": " Trybunał Obrachunkowy.  "
+        }
     },
-    "question_150": {
-        "question_number": "150.",
+    {
         "question": " Zgodnie z ustawą - Prawo prywatne międzynarodowe, w razie braku wyboru prawa przez mocodawcę, pełnomocnictwo podlega w pierwszej kolejności: ",
-        "first_answer": " prawu państwa siedziby pełnomocnika, w której on stale działa, ",
-        "second_answer": " prawu państwa, w którym znajduje się przedsiębiorstwo należące do mocodawcy, ",
-        "third_answer": " prawu państwa, w którym pełnomocnik rzeczywiście działał, reprezentując mocodawcę, lub w którym wedle woli mocodawcy powinien działać.  \f"
+        "answers": {
+            "A": " prawu państwa siedziby pełnomocnika, w której on stale działa, ",
+            "B": " prawu państwa, w którym znajduje się przedsiębiorstwo należące do mocodawcy, ",
+            "C": " prawu państwa, w którym pełnomocnik rzeczywiście działał, reprezentując mocodawcę, lub w którym wedle woli mocodawcy powinien działać.  \f"
+        }
     }
-}
+]
