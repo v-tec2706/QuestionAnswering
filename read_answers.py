@@ -1,5 +1,6 @@
 import argparse
 import json
+import os
 
 import camelot
 
@@ -31,9 +32,12 @@ def parseTable(input_data, output):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input_data', type=str)
+    parser.add_argument('--input', type=str)
     parser.add_argument('--output', type=str)
     args = parser.parse_args()
-    input = args.input_data
+    input = args.input
     output = args.output
-    parseTable(input, output)
+
+    for directory_path, _, filenames in os.walk(args.input):
+        for filename in filenames:
+            parseTable(input + filename, output + filename.replace("pdf", "json"))

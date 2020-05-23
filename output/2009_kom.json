@@ -1,0 +1,1802 @@
+[
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, w\u0142adz\u0119 ustawodawcz\u0105 sprawuj\u0105:  ",
+    "answers": {
+      "A": "Sejm i Senat, ",
+      "B": "Prezydent Rzeczypospolitej Polskiej i Rada Ministr\u00f3w, ",
+      "C": "s\u0105dy i trybuna\u0142y.   "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 10 ust. 2 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, najwy\u017cszym prawem Rzeczypospolitej Polskiej jest: ",
+    "answers": {
+      "A": "system prawny sk\u0142adaj\u0105cy si\u0119 z ustaw i rozporz\u0105dze\u0144, ",
+      "B": "Kodeks cywilny, ",
+      "C": "Konstytucja.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 8 ust. 1 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, podstaw\u0105 ustroju rolnego pa\u0144stwa jest gospodarstwo: ",
+    "answers": {
+      "A": "pa\u0144stwowe, ",
+      "B": "sp\u00f3\u0142dzielcze, ",
+      "C": "rodzinne.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 23 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, Rzeczpospolita Polska jest pa\u0144stwem: ",
+    "answers": {
+      "A": "federacyjnym, ",
+      "B": "jednolitym, ",
+      "C": "zwi\u0105zkowym.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 3 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, w sprawie dopuszczalno\u015bci ekstradycji: ",
+    "answers": {
+      "A": "orzeka s\u0105d, ",
+      "B": "rozstrzyga Minister Sprawiedliwo\u015bci, ",
+      "C": "decyzj\u0119 podejmuje Prezydent RP.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 55 ust. 5 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, wybrany do Senatu mo\u017ce by\u0107 obywatel polski maj\u0105cy prawo wybierania, kt\u00f3ry najp\u00f3\u017aniej w dniu wybor\u00f3w ko\u0144czy lat: ",
+    "answers": {
+      "A": "18, ",
+      "B": "21, ",
+      "C": "30.  \f 3 "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 99 ust. 2 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, akty prawa miejscowego ustanawia: ",
+    "answers": {
+      "A": "Rada Ministr\u00f3w, ",
+      "B": "Prezydent RP, ",
+      "C": "organ samorz\u0105du terytorialnego.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 94 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, mandatu pos\u0142a nie mo\u017cna \u0142\u0105czy\u0107 z funkcj\u0105: ",
+    "answers": {
+      "A": "Rzecznika Praw Obywatelskich, ",
+      "B": "Prezesa Rady Ministr\u00f3w, ",
+      "C": "sekretarza stanu w administracji rz\u0105dowej.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art.103 ust. 1 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, pos\u0142owie s\u0105 przedstawicielami: ",
+    "answers": {
+      "A": "wyborc\u00f3w, ",
+      "B": "okr\u0119gu wyborczego, ",
+      "C": "Narodu.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 104 ust. 1 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, Zgromadzenie Narodowe to: ",
+    "answers": {
+      "A": "Sejm i Senat, obraduj\u0105ce wsp\u00f3lne pod przewodnictwem Marsza\u0142ka Sejmu lub w jego zast\u0119pstwie Marsza\u0142ka Senatu, ",
+      "B": "Sejm obraduj\u0105cy z udzia\u0142em Prezydenta RP, ",
+      "C": "Senat obraduj\u0105cy z udzia\u0142em Prezesa Rady Ministr\u00f3w.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 114 ust.1 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, Prezydent RP wydaje: ",
+    "answers": {
+      "A": "uchwa\u0142y, ",
+      "B": "dekrety, ",
+      "C": "rozporz\u0105dzenia.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 142 ust. 1 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, zwierzchnikiem korpusu s\u0142u\u017cby cywilnej jest: ",
+    "answers": {
+      "A": "Prezes Rady Ministr\u00f3w, ",
+      "B": "Prezydent RP. ",
+      "C": "minister w\u0142a\u015bciwy do spraw administracji publicznej.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 153 ust. 2 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, organami nadzoru nad dzia\u0142alno\u015bci\u0105 jednostek samorz\u0105du terytorialnego w zakresie spraw finansowych s\u0105: ",
+    "answers": {
+      "A": "regionalne izby obrachunkowe, ",
+      "B": " s\u0105dy powszechne, ",
+      "C": " samorz\u0105dowe kolegia odwo\u0142awcze. \f 4 "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 171 ust. 2 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, kontrol\u0119 dzia\u0142alno\u015bci administracji publicznej sprawuj\u0105: ",
+    "answers": {
+      "A": " s\u0105dy wojskowe, ",
+      "B": " s\u0105dy powszechne, ",
+      "C": " s\u0105dy administracyjne.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 184 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Konstytucj\u0105 RP, spory kompetencyjne pomi\u0119dzy centralnymi konstytucyjnymi organami pa\u0144stwa rozstrzyga: ",
+    "answers": {
+      "A": " S\u0105d Najwy\u017cszy, ",
+      "B": " Trybuna\u0142 Konstytucyjny, ",
+      "C": " Trybuna\u0142 Stanu.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 189 Konstytucji RP"
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, z zastrze\u017ceniem wyj\u0105tk\u00f3w w ustawie przewidzianych przedawnieniu ulegaj\u0105:  ",
+    "answers": {
+      "A": "roszczenia niemaj\u0105tkowe,  ",
+      "B": " roszczenia maj\u0105tkowe,  ",
+      "C": " roszczenia maj\u0105tkowe oraz niemaj\u0105tkowe.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 117 \u00a7 1 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, katalog d\u00f3br osobistych cz\u0142owieka podlegaj\u0105cych ochronie:  ",
+    "answers": {
+      "A": " jest ograniczony do d\u00f3br \u015bci\u015ble wskazanych w przepisach Kodeksu cywilnego,  ",
+      "B": " nie jest ograniczony, a Kodeks cywilny zawiera jedynie przyk\u0142adowe wskazanie chronionych d\u00f3br osobistych,  ",
+      "C": " podlega ustaleniu wy\u0142\u0105cznie na podstawie przepis\u00f3w Konstytucji Rzeczypospolitej Polskiej.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 23 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, po\u017cytki prawa to:  ",
+    "answers": {
+      "A": " p\u0142ody rzeczy i inne od\u0142\u0105czone od niej cz\u0119\u015bci sk\u0142adowe, o ile wed\u0142ug zasad prawid\u0142owej gospodarki stanowi\u0105 normalny doch\u00f3d z rzeczy,  ",
+      "B": " wszystkie p\u0142ody rzeczy i inne od\u0142\u0105czone od niej cz\u0119\u015bci sk\u0142adowe,  ",
+      "C": " dochody, kt\u00f3re prawo to przynosi zgodnie ze swym spo\u0142eczno-gospodarczym przeznaczeniem.  \f 5 "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 54 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, prawomocne orzeczenie s\u0105du stwierdzaj\u0105ce obowi\u0105zek danej osoby do z\u0142o\u017cenia oznaczonego o\u015bwiadczenia woli: ",
+    "answers": {
+      "A": " zast\u0119puje to o\u015bwiadczenie, ",
+      "B": " nie zast\u0119puje tego o\u015bwiadczenia, ",
+      "C": " wywo\u0142uje skutki prawne dopiero z chwil\u0105 og\u0142oszenia w Monitorze S\u0105dowym i Gospodarczym.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 64 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, uprawnienie do uchylenia si\u0119 od skutk\u00f3w prawnych o\u015bwiadczenia woli, kt\u00f3re zosta\u0142o z\u0142o\u017cone innej osobie pod wp\u0142ywem b\u0142\u0119du wygasa: ",
+    "answers": {
+      "A": "z up\u0142ywem roku od jego wykrycia, ",
+      "B": "z up\u0142ywem terminu wyznaczonego w tym celu przez s\u0105d, ",
+      "C": " z up\u0142ywem sze\u015bciu miesi\u0119cy od jego wykrycia.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 88 \u00a7 2 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, pe\u0142nomocnictwo og\u00f3lne powinno by\u0107 udzielone: ",
+    "answers": {
+      "A": " dla cel\u00f3w dowodowych na pi\u015bmie, ",
+      "B": "pod rygorem niewa\u017cno\u015bci na pi\u015bmie, ",
+      "C": " zawsze w formie aktu notarialnego.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 99 \u00a7 2 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, roszczenie o zniesienie wsp\u00f3\u0142w\u0142asno\u015bci: ",
+    "answers": {
+      "A": " ulega przedawnieniu z up\u0142ywem lat dziesi\u0119ciu, ",
+      "B": "ulega przedawnieniu z up\u0142ywem lat trzech, ",
+      "C": " nie ulega przedawnieniu.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 220 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, do ochrony ograniczonych praw rzeczowych stosuje si\u0119 odpowiednio: ",
+    "answers": {
+      "A": " przepisy dotycz\u0105ce ochrony d\u00f3br osobistych, ",
+      "B": "przepisy o ochronie autorskich praw niemaj\u0105tkowych, ",
+      "C": " przepisy o ochronie w\u0142asno\u015bci.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 251 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, zobowi\u0105zany do odszkodowania ponosi odpowiedzialno\u015b\u0107: ",
+    "answers": {
+      "A": " zawsze za wszystkie nast\u0119pstwa dzia\u0142ania lub zaniechania, z kt\u00f3rego szkoda wynik\u0142a, ",
+      "B": " tylko za normalne nast\u0119pstwa dzia\u0142ania lub zaniechania, z kt\u00f3rego szkoda wynik\u0142a, ",
+      "C": " tylko za takie nast\u0119pstwa dzia\u0142ania lub zaniechania, z kt\u00f3rego szkoda wynik\u0142a, o kt\u00f3rych wiedzia\u0142, \u017ce mog\u0105 nast\u0105pi\u0107.  \f 6  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 361 \u00a7 1 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, d\u0142u\u017cnicy zobowi\u0105zani do \u015bwiadczenia niepodzielnego s\u0105 odpowiedzialni za spe\u0142nienie \u015bwiadczenia: ",
+    "answers": {
+      "A": " zawsze \u0142\u0105cznie, ",
+      "B": "jak d\u0142u\u017cnicy solidarni, ",
+      "C": " w cz\u0119\u015bciach r\u00f3wnych.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 380 \u00a7 1 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, odst\u0119pne to: ",
+    "answers": {
+      "A": "suma oznaczona w zastrze\u017ceniu umownym, z kt\u00f3rego wynika, \u017ce jednej lub obu stronom wolno od umowy odst\u0105pi\u0107 za jej jednoczesn\u0105 zap\u0142at\u0105, ",
+      "B": "zaliczka, kt\u00f3ra zosta\u0142a zatrzymana przez wierzyciela, w sytuacji nieuzasadnionego odst\u0105pienia od umowy przez d\u0142u\u017cnika, ",
+      "C": " zadatek, kt\u00f3ry zosta\u0142 zatrzymany przez wierzyciela, w sytuacji nieuzasadnionego odst\u0105pienia od umowy przez d\u0142u\u017cnika.   "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 396 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, umowa o \u015bwiadczenie niemo\u017cliwe: ",
+    "answers": {
+      "A": " jest wa\u017cna, o ile obie strony mia\u0142y \u015bwiadomo\u015b\u0107 niemo\u017cliwo\u015bci \u015bwiadczenia, ",
+      "B": "jest wa\u017cna, o ile kt\u00f3rakolwiek ze stron nie uchyli si\u0119 od skutk\u00f3w prawnych swojego o\u015bwiadczenia woli w terminie roku od zawarcia umowy, ",
+      "C": " jest niewa\u017cna.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 387 \u00a7 1 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, ten, kto \u015bwiadomie skorzysta\u0142 z wyrz\u0105dzonej drugiemu czynem niedozwolonym szkody: ",
+    "answers": {
+      "A": " nie ponosi odpowiedzialno\u015bci za szkod\u0119, ",
+      "B": "jest odpowiedzialny za szkod\u0119, ",
+      "C": " ponosi odpowiedzialno\u015b\u0107 za szkod\u0119 tylko w\u00f3wczas, gdy egzekucja przeciwko sprawcy okaza\u0142a si\u0119 bezskuteczna.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 422 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, wystawienie rzeczy w miejscu sprzeda\u017cy na widok publiczny z oznaczeniem ceny uwa\u017ca si\u0119 za: ",
+    "answers": {
+      "A": " zaproszenie do rozpocz\u0119cia rokowa\u0144, ",
+      "B": "ofert\u0119 sprzeda\u017cy, ",
+      "C": " reklam\u0119 produktu. \f 7  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 543 k.c."
+    }
+  },
+  {
+    "question": " \f 3 7. Zgodnie z Konstytucj\u0105 RP, akty prawa miejscowego ustanawia: ",
+    "answers": {
+      "A": "Rada Ministr\u00f3w, ",
+      "B": "Prezydent RP, ",
+      "C": "organ samorz\u0105du terytorialnego.  8. Zgodnie z Konstytucj\u0105 RP, mandatu pos\u0142a nie mo\u017cna \u0142\u0105czy\u0107 z funkcj\u0105: A. Rzecznika Praw Obywatelskich, B. Prezesa Rady Ministr\u00f3w, sekretarza stanu w administracji rz\u0105dowej.  9. Zgodnie z Konstytucj\u0105 RP, pos\u0142owie s\u0105 przedstawicielami: A. wyborc\u00f3w, B. okr\u0119gu wyborczego, Narodu.  10. Zgodnie z Konstytucj\u0105 RP, Zgromadzenie Narodowe to: A. Sejm i Senat, obraduj\u0105ce wsp\u00f3lne pod przewodnictwem Marsza\u0142ka Sejmu lub w jego zast\u0119pstwie Marsza\u0142ka Senatu, B. Sejm obraduj\u0105cy z udzia\u0142em Prezydenta RP, Senat obraduj\u0105cy z udzia\u0142em Prezesa Rady Ministr\u00f3w.  11. Zgodnie z Konstytucj\u0105 RP, Prezydent RP wydaje: A. uchwa\u0142y, B. dekrety, rozporz\u0105dzenia.  12. Zgodnie z Konstytucj\u0105 RP, zwierzchnikiem korpusu s\u0142u\u017cby cywilnej jest: A. Prezes Rady Ministr\u00f3w, B. Prezydent RP. minister w\u0142a\u015bciwy do spraw administracji publicznej.  13. Zgodnie z Konstytucj\u0105 RP, organami nadzoru nad dzia\u0142alno\u015bci\u0105 jednostek samorz\u0105du terytorialnego w zakresie spraw finansowych s\u0105: A. regionalne izby obrachunkowe, B.  s\u0105dy powszechne,  samorz\u0105dowe kolegia odwo\u0142awcze. \f 4 14. Zgodnie z Konstytucj\u0105 RP, kontrol\u0119 dzia\u0142alno\u015bci administracji publicznej sprawuj\u0105: A.  s\u0105dy wojskowe, B.  s\u0105dy powszechne,  s\u0105dy administracyjne.   15. Zgodnie z Konstytucj\u0105 RP, spory kompetencyjne pomi\u0119dzy centralnymi konstytucyjnymi organami pa\u0144stwa rozstrzyga: A.  S\u0105d Najwy\u017cszy, B.  Trybuna\u0142 Konstytucyjny,  Trybuna\u0142 Stanu.   16. Zgodnie z Kodeksem cywilnym, z zastrze\u017ceniem wyj\u0105tk\u00f3w w ustawie przewidzianych przedawnieniu ulegaj\u0105:  A. roszczenia niemaj\u0105tkowe,  B.  roszczenia maj\u0105tkowe,   roszczenia maj\u0105tkowe oraz niemaj\u0105tkowe.   17. Zgodnie z Kodeksem cywilnym, katalog d\u00f3br osobistych cz\u0142owieka podlegaj\u0105cych ochronie:  A.  jest ograniczony do d\u00f3br \u015bci\u015ble wskazanych w przepisach Kodeksu cywilnego,  B.  nie jest ograniczony, a Kodeks cywilny zawiera jedynie przyk\u0142adowe wskazanie chronionych d\u00f3br osobistych,   podlega ustaleniu wy\u0142\u0105cznie na podstawie przepis\u00f3w Konstytucji Rzeczypospolitej Polskiej.   18. Zgodnie z Kodeksem cywilnym, po\u017cytki prawa to:  A.  p\u0142ody rzeczy i inne od\u0142\u0105czone od niej cz\u0119\u015bci sk\u0142adowe, o ile wed\u0142ug zasad prawid\u0142owej gospodarki stanowi\u0105 normalny doch\u00f3d z rzeczy,  B.  wszystkie p\u0142ody rzeczy i inne od\u0142\u0105czone od niej cz\u0119\u015bci sk\u0142adowe,   dochody, kt\u00f3re prawo to przynosi zgodnie ze swym spo\u0142eczno-gospodarczym przeznaczeniem.  \f 5 19. Zgodnie z Kodeksem cywilnym, prawomocne orzeczenie s\u0105du stwierdzaj\u0105ce obowi\u0105zek danej osoby do z\u0142o\u017cenia oznaczonego o\u015bwiadczenia woli: A.  zast\u0119puje to o\u015bwiadczenie, B.  nie zast\u0119puje tego o\u015bwiadczenia,  wywo\u0142uje skutki prawne dopiero z chwil\u0105 og\u0142oszenia w Monitorze S\u0105dowym i Gospodarczym.  20. Zgodnie z Kodeksem cywilnym, uprawnienie do uchylenia si\u0119 od skutk\u00f3w prawnych o\u015bwiadczenia woli, kt\u00f3re zosta\u0142o z\u0142o\u017cone innej osobie pod wp\u0142ywem b\u0142\u0119du wygasa: A. z up\u0142ywem roku od jego wykrycia, B. z up\u0142ywem terminu wyznaczonego w tym celu przez s\u0105d,  z up\u0142ywem sze\u015bciu miesi\u0119cy od jego wykrycia.  21. Zgodnie z Kodeksem cywilnym, pe\u0142nomocnictwo og\u00f3lne powinno by\u0107 udzielone: A.  dla cel\u00f3w dowodowych na pi\u015bmie, B. pod rygorem niewa\u017cno\u015bci na pi\u015bmie,  zawsze w formie aktu notarialnego.  22. Zgodnie z Kodeksem cywilnym, roszczenie o zniesienie wsp\u00f3\u0142w\u0142asno\u015bci: A.  ulega przedawnieniu z up\u0142ywem lat dziesi\u0119ciu, B. ulega przedawnieniu z up\u0142ywem lat trzech,  nie ulega przedawnieniu.  23. Zgodnie z Kodeksem cywilnym, do ochrony ograniczonych praw rzeczowych stosuje si\u0119 odpowiednio: A.  przepisy dotycz\u0105ce ochrony d\u00f3br osobistych, B. przepisy o ochronie autorskich praw niemaj\u0105tkowych,  przepisy o ochronie w\u0142asno\u015bci.  24. Zgodnie z Kodeksem cywilnym, zobowi\u0105zany do odszkodowania ponosi odpowiedzialno\u015b\u0107: A.  zawsze za wszystkie nast\u0119pstwa dzia\u0142ania lub zaniechania, z kt\u00f3rego szkoda wynik\u0142a, B.  tylko za normalne nast\u0119pstwa dzia\u0142ania lub zaniechania, z kt\u00f3rego szkoda wynik\u0142a,  tylko za takie nast\u0119pstwa dzia\u0142ania lub zaniechania, z kt\u00f3rego szkoda wynik\u0142a, o kt\u00f3rych wiedzia\u0142, \u017ce mog\u0105 nast\u0105pi\u0107.  \f 6  25. Zgodnie z Kodeksem cywilnym, d\u0142u\u017cnicy zobowi\u0105zani do \u015bwiadczenia niepodzielnego s\u0105 odpowiedzialni za spe\u0142nienie \u015bwiadczenia: A.  zawsze \u0142\u0105cznie, B. jak d\u0142u\u017cnicy solidarni,  w cz\u0119\u015bciach r\u00f3wnych.  26. Zgodnie z Kodeksem cywilnym, odst\u0119pne to: A. suma oznaczona w zastrze\u017ceniu umownym, z kt\u00f3rego wynika, \u017ce jednej lub obu stronom wolno od umowy odst\u0105pi\u0107 za jej jednoczesn\u0105 zap\u0142at\u0105, B. zaliczka, kt\u00f3ra zosta\u0142a zatrzymana przez wierzyciela, w sytuacji nieuzasadnionego odst\u0105pienia od umowy przez d\u0142u\u017cnika,  zadatek, kt\u00f3ry zosta\u0142 zatrzymany przez wierzyciela, w sytuacji nieuzasadnionego odst\u0105pienia od umowy przez d\u0142u\u017cnika.   27. Zgodnie z Kodeksem cywilnym, umowa o \u015bwiadczenie niemo\u017cliwe: A.  jest wa\u017cna, o ile obie strony mia\u0142y \u015bwiadomo\u015b\u0107 niemo\u017cliwo\u015bci \u015bwiadczenia, B. jest wa\u017cna, o ile kt\u00f3rakolwiek ze stron nie uchyli si\u0119 od skutk\u00f3w prawnych swojego o\u015bwiadczenia woli w terminie roku od zawarcia umowy,  jest niewa\u017cna.   28. Zgodnie z Kodeksem cywilnym, ten, kto \u015bwiadomie skorzysta\u0142 z wyrz\u0105dzonej drugiemu czynem niedozwolonym szkody: A.  nie ponosi odpowiedzialno\u015bci za szkod\u0119, B. jest odpowiedzialny za szkod\u0119,  ponosi odpowiedzialno\u015b\u0107 za szkod\u0119 tylko w\u00f3wczas, gdy egzekucja przeciwko sprawcy okaza\u0142a si\u0119 bezskuteczna.   29. Zgodnie z Kodeksem cywilnym, wystawienie rzeczy w miejscu sprzeda\u017cy na widok publiczny z oznaczeniem ceny uwa\u017ca si\u0119 za: A.  zaproszenie do rozpocz\u0119cia rokowa\u0144, B. ofert\u0119 sprzeda\u017cy,  reklam\u0119 produktu. \f 7  30. Zgodnie z Kodeksem cywilnym, roszczenie o zado\u015b\u0107uczynienie:  A.  nie przechodzi nigdy na spadkobierc\u00f3w poszkodowanego, B. przechodzi na spadkobierc\u00f3w poszkodowanego tylko wtedy, gdy poszkodowany tak postanowi w testamencie,  przechodzi na spadkobierc\u00f3w poszkodowanego tylko wtedy, gdy zosta\u0142o uznane na pi\u015bmie albo gdy pow\u00f3dztwo zosta\u0142o wytoczone za \u017cycia poszkodowanego.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 445 \u00a7 3 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, je\u017celi \u015bwiadczenie sta\u0142o si\u0119 niemo\u017cliwe skutkiem okoliczno\u015bci, za kt\u00f3re d\u0142u\u017cnik odpowiedzialno\u015bci nie ponosi, to: ",
+    "answers": {
+      "A": " zobowi\u0105zanie ulega przekszta\u0142ceniu w zobowi\u0105zanie naturalne, ",
+      "B": " d\u0142u\u017cnik zobowi\u0105zany jest do naprawienia szkody, jak\u0105 wierzyciel poni\u00f3s\u0142 przez to, \u017ce zawar\u0142 umow\u0119 nie maj\u0105c podstaw do przypuszczenia, \u017ce \u015bwiadczenie stanie si\u0119 niemo\u017cliwe (szkoda w granicach ujemnego interesu umowy), ",
+      "C": " zobowi\u0105zanie wygasa.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 475 \u00a7 1 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, je\u017celi termin spe\u0142nienia \u015bwiadczenia nie jest oznaczony ani nie wynika z w\u0142a\u015bciwo\u015bci zobowi\u0105zania, \u015bwiadczenie powinno by\u0107 spe\u0142nione: ",
+    "answers": {
+      "A": " niezw\u0142ocznie po wezwaniu d\u0142u\u017cnika do wykonania, ",
+      "B": "w ustawowym terminie dw\u00f3ch miesi\u0119cy od wezwania d\u0142u\u017cnika do wykonania, ",
+      "C": " najwcze\u015bniej po uprawomocnieniu si\u0119 wyroku zas\u0105dzaj\u0105cego \u015bwiadczenie.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 455 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, je\u017celi powsta\u0142 sp\u00f3r, kto jest wierzycielem, d\u0142u\u017cnik: ",
+    "answers": {
+      "A": " mo\u017ce z\u0142o\u017cy\u0107 przedmiot \u015bwiadczenia do depozytu s\u0105dowego, ",
+      "B": "jest zobowi\u0105zany z\u0142o\u017cy\u0107 wniosek o rozstrzygni\u0119cie przez s\u0105d, kto jest wierzycielem, ",
+      "C": " zawsze jest zobowi\u0105zany z\u0142o\u017cy\u0107 wniosek o ustanowienie kuratora celem reprezentowania wierzycieli pozostaj\u0105cych w sporze.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 467 pkt 3 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, o\u015bwiadczenie o potr\u0105ceniu wierzytelno\u015bci: ",
+    "answers": {
+      "A": " nigdy nie ma mocy wstecznej, ",
+      "B": "ma moc wsteczn\u0105 od chwili, kiedy potr\u0105cenie sta\u0142o si\u0119 mo\u017cliwe, ",
+      "C": " ma moc wsteczn\u0105, o ile adresat o\u015bwiadczenia nie z\u0142o\u017cy sprzeciwu niezw\u0142ocznie po otrzymaniu o\u015bwiadczenia.   \f 8 "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 499 zd. 2 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, dziecko w chwili otwarcia spadku ju\u017c pocz\u0119te: ",
+    "answers": {
+      "A": " nigdy nie mo\u017ce by\u0107 spadkobierc\u0105, ",
+      "B": "mo\u017ce by\u0107 spadkobierc\u0105, je\u017celi urodzi si\u0119 \u017cywe, ",
+      "C": " mo\u017ce by\u0107 spadkobierc\u0105 tylko w\u00f3wczas, je\u017celi zostanie powo\u0142ane do dziedziczenia w testamencie.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 927 \u00a7 2 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, spadkobierca mo\u017ce spadek zby\u0107 w ca\u0142o\u015bci lub w cz\u0119\u015bci dopiero w\u00f3wczas, gdy: ",
+    "answers": {
+      "A": " przyj\u0105\u0142 spadek, ",
+      "B": " up\u0142yn\u0119\u0142o sze\u015b\u0107 miesi\u0119cy od uprawomocnienia si\u0119 postanowienia o stwierdzeniu nabycia spadku, ",
+      "C": " uzyska\u0142 prawomocne postanowienie o dziale spadku.   "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 1051 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, testament nale\u017cy tak t\u0142umaczy\u0107: ",
+    "answers": {
+      "A": " a\u017ceby zapewni\u0107 mo\u017cliwie najpe\u0142niejsze urzeczywistnienie interes\u00f3w spadkobierc\u00f3w testamentowych, ",
+      "B": "aby by\u0142o to zgodne z literalnym brzmieniem rozporz\u0105dze\u0144 testamentowych, ",
+      "C": " a\u017ceby zapewni\u0107 mo\u017cliwie najpe\u0142niejsze urzeczywistnienie woli spadkodawcy.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 948 \u00a7 1 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, o\u015bwiadczenie o przyj\u0119ciu spadku z\u0142o\u017cone pod warunkiem lub z zastrze\u017ceniem terminu jest: ",
+    "answers": {
+      "A": " bezskuteczne, chyba \u017ce s\u0105d spadku wyrazi zgod\u0119 na wskazanie warunku lub zastrze\u017cenie terminu, ",
+      "B": " niewa\u017cne, ",
+      "C": " wa\u017cne, o ile spadek zostanie przyj\u0119ty z dobrodziejstwem inwentarza.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 1018 \u00a7 1 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym:  ",
+    "answers": {
+      "A": " Skarb Pa\u0144stwa ani gmina nie mog\u0105 odrzuci\u0107 spadku, kt\u00f3ry im przypad\u0142 z mocy ustawy, ",
+      "B": " Skarb Pa\u0144stwa ani gmina nie mog\u0105 odrzuci\u0107 spadku, kt\u00f3ry im przypad\u0142 z mocy testamentu,  ",
+      "C": " Skarb Pa\u0144stwa i gmina mog\u0105 odrzuci\u0107 spadek, kt\u00f3ry im przypad\u0142 z mocy ustawy. \f 9 "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 1023 \u00a7 1 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem cywilnym, umowa z przysz\u0142ym spadkodawc\u0105, przez kt\u00f3r\u0105 spadkobierca ustawowy mo\u017ce zrzec si\u0119 dziedziczenia po tym spadkodawcy, powinna by\u0107 zawarta:  ",
+    "answers": {
+      "A": "w formie pisemnej z podpisem urz\u0119dowo po\u015bwiadczonym, ",
+      "B": "w formie pisemnej przed kierownikiem w\u0142a\u015bciwego urz\u0119du stanu cywilnego,  ",
+      "C": "w formie aktu notarialnego.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 1048 k.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w\u0142a\u015bciwo\u015b\u0107 miejscowa s\u0105du w sprawie z pow\u00f3dztwa z tytu\u0142u zachowku jest w\u0142a\u015bciwo\u015bci\u0105: ",
+    "answers": {
+      "A": "wy\u0142\u0105czn\u0105, ",
+      "B": "przemienn\u0105, ",
+      "C": "og\u00f3ln\u0105.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 39 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, przypozwanie to: ",
+    "answers": {
+      "A": " wezwanie osoby trzeciej do udzia\u0142u w sprawie w charakterze pozwanego, ",
+      "B": " zawiadomienie osoby trzeciej o tocz\u0105cym si\u0119 procesie i wezwanie jej do wzi\u0119cia w nim udzia\u0142u w charakterze interwenienta ubocznego,  ",
+      "C": " zawiadomienie osoby trzeciej o tocz\u0105cym si\u0119 procesie i wezwanie jej do wzi\u0119cia w nim udzia\u0142u w charakterze interwenienta g\u0142\u00f3wnego.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 84 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w razie \u015bmierci strony albo utraty przez ni\u0105 zdolno\u015bci s\u0105dowej, pe\u0142nomocnictwo procesowe udzielone przez ni\u0105: ",
+    "answers": {
+      "A": " ulega zawieszeniu, ",
+      "B": " nie wygasa, chyba \u017ce nast\u0119pca prawny strony z\u0142o\u017cy o\u015bwiadczenie o wypowiedzeniu pe\u0142nomocnictwa, ",
+      "C": " wygasa, jednak\u017ce pe\u0142nomocnik procesowy dzia\u0142a a\u017c do czasu zawieszenia post\u0119powania.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 96 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, zwrot koszt\u00f3w nale\u017cy si\u0119 pozwanemu pomimo uwzgl\u0119dnienia pow\u00f3dztwa: ",
+    "answers": {
+      "A": " je\u017celi nie kwestionowa\u0142 twierdze\u0144 powoda co do okoliczno\u015bci faktycznych stanowi\u0105cych podstaw\u0119 pow\u00f3dztwa, ale nie uzna\u0142 pow\u00f3dztwa, ",
+      "B": " je\u017celi pozwany zg\u0142osi\u0142 wszystkie wnioski dowodowe, w \u015bwietle kt\u00f3rych pow\u00f3dztwo okaza\u0142o si\u0119 uzasadnione, ",
+      "C": " je\u017celi nie da\u0142 powodu do wytoczenia sprawy i uzna\u0142 przy pierwszej czynno\u015bci procesowej \u017c\u0105danie pozwu. \f 10 "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 101 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, Skarbowi Pa\u0144stwa b\u0119d\u0105cemu stron\u0105 post\u0119powania, pisma s\u0105dowe dor\u0119cza si\u0119 zawsze w ten spos\u00f3b, \u017ce dor\u0119cza si\u0119 je: ",
+    "answers": {
+      "A": "tylko ustanowionemu pe\u0142nomocnikowi procesowemu, ",
+      "B": "tylko ustanowionemu pe\u0142nomocnikowi procesowemu, o ile jest on adwokatem lub radc\u0105 prawnym, ",
+      "C": "organowi uprawnionemu do reprezentowania Skarbu Pa\u0144stwa przed s\u0105dem lub do r\u0105k pracownika upowa\u017cnionego do odbioru pism.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 133 \u00a7 3 zd. 2 k.p.c. w zw. z art. 133 \u00a7 2 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, sp\u00f3\u017aniony lub z mocy ustawy niedopuszczalny wniosek o przywr\u00f3cenie terminu do dokonania czynno\u015bci procesowej s\u0105d: ",
+    "answers": {
+      "A": "oddali, ",
+      "B": "odrzuci, ",
+      "C": "pozostawi bez rozpoznania.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 171 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, na wniosek kt\u00f3rejkolwiek ze stron s\u0105d postanowi podj\u0105\u0107 post\u0119powanie zawieszone na wniosek obu stron: ",
+    "answers": {
+      "A": "ka\u017cdorazowo po up\u0142ywie dw\u00f3ch miesi\u0119cy od zawieszenia,  ",
+      "B": "nie wcze\u015bniej ni\u017c po up\u0142ywie trzech miesi\u0119cy od zawieszenia, je\u017celi strony we wniosku o zawieszenie nie oznaczy\u0142y d\u0142u\u017cszego terminu, ",
+      "C": "w ka\u017cdym czasie.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 181 pkt 2 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, pow\u00f3d mo\u017ce \u017c\u0105da\u0107 ustalenia przez s\u0105d istnienia lub nieistnienia stosunku prawnego lub prawa, gdy: ",
+    "answers": {
+      "A": " przemawia za tym wa\u017cny interes spo\u0142eczny, ",
+      "B": " przemawia za tym wa\u017cny interes publiczny, ",
+      "C": " pow\u00f3d ma w tym interes prawny.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 189 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, z chwil\u0105 dor\u0119czenia pozwanemu pozwu: ",
+    "answers": {
+      "A": " nie mo\u017cna w toku sprawy wszcz\u0105\u0107 pomi\u0119dzy tymi samymi stronami nowego post\u0119powania o to samo roszczenie, ",
+      "B": " nie jest mo\u017cliwe odrzucenie pozwu przez s\u0105d z powodu braku jurysdykcji krajowej, ",
+      "C": "nie jest mo\u017cliwa zmiana trybu post\u0119powania przez s\u0105d.   \f 11   "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 192 pkt 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, pozew cofni\u0119ty: ",
+    "answers": {
+      "A": " nie wywo\u0142uje tylko skutk\u00f3w materialnoprawnych, jakie ustawa wi\u0105\u017ce z wytoczeniem pow\u00f3dztwa, ",
+      "B": " nie wywo\u0142uje \u017cadnych skutk\u00f3w, jakie ustawa wi\u0105\u017ce z wytoczeniem pow\u00f3dztwa, jednak na \u017c\u0105danie pozwanego pow\u00f3d zwraca mu koszty, je\u017celi s\u0105d ju\u017c przedtem nie orzek\u0142 prawomocnie o obowi\u0105zku ich uiszczenia przez pozwanego, ",
+      "C": " wywo\u0142uje wszystkie skutki prawne zwi\u0105zane z wytoczeniem pow\u00f3dztwa, je\u017celi cofni\u0119cie pozwu nie jest po\u0142\u0105czone ze zrzeczeniem si\u0119 roszczenia.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 203 \u00a7 2 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, fakty powszechnie znane s\u0105d bierze pod uwag\u0119: ",
+    "answers": {
+      "A": "tylko na wniosek strony, zg\u0142oszony i nale\u017cycie uzasadniony przed zamkni\u0119ciem rozprawy, ",
+      "B": "tylko na zgodny wniosek stron, ",
+      "C": "nawet bez powo\u0142ania si\u0119 na nie przez strony.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 213 \u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, je\u017celi nadaje si\u0119 do rozstrzygni\u0119cia tylko cz\u0119\u015b\u0107 \u017c\u0105dania lub niekt\u00f3re z \u017c\u0105da\u0144 pozwu, s\u0105d pierwszej instancji: ",
+    "answers": {
+      "A": "ma obowi\u0105zek wyda\u0107 wyrok cz\u0119\u015bciowy, ",
+      "B": "ma obowi\u0105zek wyda\u0107 wyrok wst\u0119pny, ",
+      "C": "mo\u017ce wyda\u0107 wyrok cz\u0119\u015bciowy.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 317 \u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, je\u017celi s\u0105d pierwszej instancji zas\u0105dza roszczenie o zap\u0142at\u0119 uznane przez pozwanego: ",
+    "answers": {
+      "A": " mo\u017ce nada\u0107 wyrokowi przy jego wydaniu rygor natychmiastowej wykonalno\u015bci, ",
+      "B": " nada wyrokowi przy jego wydaniu rygor natychmiastowej wykonalno\u015bci, ",
+      "C": " mo\u017ce nada\u0107 wyrokowi przy jego wydaniu rygor natychmiastowej wykonalno\u015bci tylko na pisemny wniosek powoda zg\u0142oszony w pozwie.   \f 12 "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 333 \u00a7 1 pkt 2 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, na wniosek pozwanego s\u0105d zawiesi rygor natychmiastowej wykonalno\u015bci nadany wyrokowi zaocznemu, je\u017celi: ",
+    "answers": {
+      "A": " na skutek wykonania wyroku mog\u0142aby wynikn\u0105\u0107 dla pozwanego niepowetowana szkoda, ",
+      "B": " pow\u00f3d wyrazi zgod\u0119 na zawieszenie rygoru, ",
+      "C": " wyrok ten zosta\u0142 wydany z naruszeniem przepis\u00f3w o dopuszczalno\u015bci jego wydania albo je\u017celi pozwany uprawdopodobni, \u017ce jego niestawiennictwo by\u0142o nie zawinione,  a przedstawione w sprzeciwie okoliczno\u015bci wywo\u0142uj\u0105 w\u0105tpliwo\u015bci co do zasadno\u015bci wyroku zaocznego.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 346 \u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, je\u017celi kodeks ten nie stanowi inaczej, do nakaz\u00f3w zap\u0142aty stosuje si\u0119 odpowiednio przepisy o: ",
+    "answers": {
+      "A": "postanowieniach, ",
+      "B": "wyrokach, ",
+      "C": "wyrokach zaocznych.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 353(2) k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, strona mo\u017ce w odpowiednim terminie zg\u0142osi\u0107 wniosek o uzupe\u0142nienie wyroku: ",
+    "answers": {
+      "A": " gdy po wydaniu wyroku oka\u017ce si\u0119, \u017ce w sprawie nie bra\u0142y udzia\u0142u wszystkie osoby, kt\u00f3rych \u0142\u0105czny udzia\u0142 w sprawie jest konieczny, ",
+      "B": " gdy po wydaniu wyroku w ca\u0142o\u015bci uwzgl\u0119dniaj\u0105cego pow\u00f3dztwo, a przed jego uprawomocnieniem si\u0119 pow\u00f3d uzna, \u017ce roszczenie przys\u0142ugiwa\u0142o mu w wi\u0119kszym rozmiarze ni\u017c zosta\u0142o to uwzgl\u0119dnione w wyroku,  ",
+      "C": " gdy s\u0105d nie zamie\u015bci\u0142 w wyroku dodatkowego orzeczenia, kt\u00f3re wed\u0142ug przepis\u00f3w ustawy powinien by\u0142 zamie\u015bci\u0107 z urz\u0119du.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 351 \u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, na zarz\u0105dzenie o zwrocie pozwu wydane przez przewodnicz\u0105cego powodowi:  ",
+    "answers": {
+      "A": " przys\u0142uguje \u015brodek zaskar\u017cenia w postaci sprzeciwu, ",
+      "B": " przys\u0142uguje \u015brodek zaskar\u017cenia w postaci za\u017calenia, ",
+      "C": " nie przys\u0142uguje \u017caden \u015brodek zaskar\u017cenia.   \f 13  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 394 \u00a7 1 pkt 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, dokument prywatny stanowi dow\u00f3d: ",
+    "answers": {
+      "A": " tego, \u017ce osoba, kt\u00f3ra go podpisa\u0142a, z\u0142o\u017cy\u0142a o\u015bwiadczenie zawarte w dokumencie, ",
+      "B": " tego, co zosta\u0142o w nim urz\u0119dowo za\u015bwiadczone,  ",
+      "C": " fakt\u00f3w, o kt\u00f3rych mowa w tre\u015bci dokumentu, ale tylko w\u00f3wczas, gdy osoba, kt\u00f3ra go podpisa\u0142a z\u0142o\u017cy\u0142a podpis w obecno\u015bci notariusza.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 245 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, wyrok prawomocny ma powag\u0119 rzeczy os\u0105dzonej tylko: ",
+    "answers": {
+      "A": " co do tego, co w zwi\u0105zku z podstaw\u0105 sporu stanowi\u0142o przedmiot rozstrzygni\u0119cia, a ponadto tylko mi\u0119dzy tymi samymi stronami,  ",
+      "B": " je\u017celi jest wyrokiem uwzgl\u0119dniaj\u0105cym pow\u00f3dztwo, ",
+      "C": " w\u00f3wczas, je\u017celi nie zosta\u0142 wydany jako wyrok zaoczny.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 366 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, s\u0105d pierwszej instancji odrzuci na posiedzeniu niejawnym apelacj\u0119, kt\u00f3rej brak\u00f3w strona nie uzupe\u0142ni\u0142a w terminie: ",
+    "answers": {
+      "A": "ustawowym wynosz\u0105cym 21 dni, ",
+      "B": "do rozprawy apelacyjnej, ",
+      "C": "wyznaczonym.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 370 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, je\u017celi apelacja jest bezzasadna, to s\u0105d drugiej instancji: ",
+    "answers": {
+      "A": "oddala apelacj\u0119, ",
+      "B": "utrzymuje w mocy wyrok s\u0105du pierwszej instancji, ",
+      "C": "odmawia przyj\u0119cia apelacji do rozpoznania.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 385 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w post\u0119powaniu cywilnym przed s\u0105dem pierwszej instancji niewa\u017cno\u015b\u0107 post\u0119powania zachodzi, je\u017celi: ",
+    "answers": {
+      "A": "droga s\u0105dowa by\u0142a niedopuszczalna,  ",
+      "B": "wyrok zosta\u0142 og\u0142oszony bez udzia\u0142u protokolanta, ",
+      "C": "w rozpoznaniu sprawy bra\u0142 udzia\u0142 s\u0119dzia, kt\u00f3rego z jedn\u0105 ze stron \u0142\u0105czy\u0142 stosunek osobisty tego rodzaju, \u017ce m\u00f3g\u0142by wywo\u0142ywa\u0107 w\u0105tpliwo\u015bci co do bezstronno\u015bci s\u0119dziego.    \f 14 "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 379 pkt 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w razie wniesienia za\u017calenia, s\u0105d pierwszej instancji, kt\u00f3ry wyda\u0142 zaskar\u017cone postanowienie, mo\u017ce na posiedzeniu niejawnym, nie przesy\u0142aj\u0105c akt s\u0105dowi drugiej instancji, uchyli\u0107 zaskar\u017cone postanowienie i w miar\u0119 potrzeby spraw\u0119 rozpozna\u0107 na nowo: ",
+    "answers": {
+      "A": " tylko w\u00f3wczas, je\u017celi strona przeciwna po dor\u0119czeniu jej odpisu za\u017calenia o\u015bwiadczy\u0142a, \u017ce przychyla si\u0119 do za\u017calenia, ",
+      "B": " je\u017celi za\u017calenie zarzuca niewa\u017cno\u015b\u0107 post\u0119powania lub jest oczywi\u015bcie uzasadnione, ",
+      "C": " tylko w\u00f3wczas, je\u017celi zaskar\u017cone postanowienie nie jest postanowieniem ko\u0144cz\u0105cym post\u0119powanie w sprawie i nast\u0105pi\u0142a zmiana okoliczno\u015bci.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 395 \u00a7 2 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, je\u017celi uprawomocni\u0142 si\u0119 wyrok ustalaj\u0105cy nieistnienie ma\u0142\u017ce\u0144stwa, a nast\u0119pnie jedna ze stron zawar\u0142a nowy zwi\u0105zek ma\u0142\u017ce\u0144ski, skarga o wznowienie post\u0119powania: ",
+    "answers": {
+      "A": "jest niedopuszczalna, ",
+      "B": "jest dopuszczalna, je\u017celi nie up\u0142yn\u0119\u0142o pi\u0119\u0107 lat od uprawomocnienia si\u0119 wyroku, ",
+      "C": "jest dopuszczalna, je\u017celi skarga ta zosta\u0142a wniesiona w terminie trzech miesi\u0119cy od dowiedzenia si\u0119 przez stron\u0119 o podstawie wznowienia.   "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 400 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, skarga o stwierdzenie niezgodno\u015bci  z prawem prawomocnego orzeczenia nie mo\u017ce by\u0107 sporz\u0105dzona: ",
+    "answers": {
+      "A": " przez radc\u0119 prawnego, ",
+      "B": " przez adwokata, ",
+      "C": " przez miejskiego rzecznika praw konsument\u00f3w.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 87(1) k.p.c., art. 424(6)\u00a73 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, pow\u00f3dztwo wzajemne o ustalenie ojcostwa jest: ",
+    "answers": {
+      "A": " dopuszczalne, ",
+      "B": " niedopuszczalne, ",
+      "C": " dopuszczalne, ale tylko w\u00f3wczas, gdy wyst\u0119puje z nim ma\u0142oletnie dziecko.    \f 15 "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 454(1) \u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w post\u0119powaniu w sprawach o naruszenie posiadania, s\u0105d bada: ",
+    "answers": {
+      "A": " jedynie ostatni stan posiadania i fakt jego naruszenia, nie rozpoznaj\u0105c samego prawa ani dobrej wiary pozwanego, ",
+      "B": " zar\u00f3wno ostatni stan posiadania i fakt jego naruszenia, jak r\u00f3wnie\u017c prawo pozwanego do w\u0142adania rzecz\u0105 i jego dobr\u0105 wiar\u0119 przy naruszeniu posiadania, ",
+      "C": " prawo pozwanego do w\u0142adania rzecz\u0105 i jego dobr\u0105 wiar\u0119 przy naruszeniu posiadania, o ile obie strony wyra\u017c\u0105 na to zgod\u0119.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 478 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, s\u0105d rozpoznaje spraw\u0119 w post\u0119powaniu nakazowym: ",
+    "answers": {
+      "A": " z urz\u0119du, o ile pow\u00f3d do\u0142\u0105czy\u0142 do pozwu dokumenty, w oparciu o kt\u00f3re mo\u017ce by\u0107 wydany nakaz zap\u0142aty, ",
+      "B": " na pisemny wniosek powoda zg\u0142oszony w pozwie, ",
+      "C": " na pisemny wniosek pozwanego zg\u0142oszony w odpowiedzi na pozew.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 484(1) \u00a7 2 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, sprawy o ubezw\u0142asnowolnienie rozpoznaje w pierwszej instancji: ",
+    "answers": {
+      "A": "s\u0105d okr\u0119gowy w post\u0119powaniu nieprocesowym, ",
+      "B": "s\u0105d rejonowy w post\u0119powaniu nieprocesowym, ",
+      "C": "s\u0105d okr\u0119gowy w procesie.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 544 \u00a7 1 k.p.c., art. 13 \u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, do \u015brodk\u00f3w zabezpieczenia spadku nie nale\u017cy: ",
+    "answers": {
+      "A": "ustanowienie dozoru nad nieruchomo\u015bci\u0105, ",
+      "B": "spisanie maj\u0105tku ruchomego i oddanie go pod doz\u00f3r, ",
+      "C": "zaj\u0119cie maj\u0105tku ruchomego.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 636 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, o\u015bwiadczenie o przyj\u0119ciu lub odrzuceniu spadku mo\u017ce by\u0107 z\u0142o\u017cone przed: ",
+    "answers": {
+      "A": "notariuszem, ",
+      "B": "organem gminy, ",
+      "C": "komornikiem s\u0105dowym.   \f 16 "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 640 \u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, kurator spadku zarz\u0105dza maj\u0105tkiem spadkowym: ",
+    "answers": {
+      "A": "samodzielnie, ",
+      "B": "pod nadzorem komornika s\u0105dowego, ",
+      "C": "pod nadzorem s\u0105du spadku.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 667 \u00a7 2 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w post\u0119powaniu nieprocesowym skarga kasacyjna nie przys\u0142uguje w sprawach dotycz\u0105cych: ",
+    "answers": {
+      "A": "ustanowienia s\u0142u\u017cebno\u015bci drogi koniecznej, ",
+      "B": "przepadku rzeczy, ",
+      "C": "stwierdzenia nabycia spadku.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 519(1) \u00a7 4 pkt 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, o \u017c\u0105daniu ustalenia nier\u00f3wnych udzia\u0142\u00f3w ma\u0142\u017conk\u00f3w w maj\u0105tku wsp\u00f3lnym, s\u0105d orzeka w post\u0119powaniu o: ",
+    "answers": {
+      "A": "rozstrzygni\u0119cie o istotnych sprawach rodziny w braku porozumienia ma\u0142\u017conk\u00f3w, ",
+      "B": "podzia\u0142 maj\u0105tku wsp\u00f3lnego po ustaniu wsp\u00f3lno\u015bci maj\u0105tkowej mi\u0119dzy ma\u0142\u017conkami, ",
+      "C": "rozstrzygni\u0119cie o wy\u0142\u0105czeniu odpowiedzialno\u015bci ma\u0142\u017conka za zobowi\u0105zania zaci\u0105gni\u0119te przez drugiego ma\u0142\u017conka w sprawach wynikaj\u0105cych z zaspokojenia zwyk\u0142ych potrzeb rodziny.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 567 \u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, wpis do Krajowego Rejestru S\u0105dowego nast\u0119puje na podstawie: ",
+    "answers": {
+      "A": "postanowienia, ",
+      "B": "zarz\u0105dzenia, ",
+      "C": "wyroku.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 694(5 )\u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w post\u0119powaniu o z\u0142o\u017cenie przedmiotu \u015bwiadczenia do depozytu s\u0105dowego: ",
+    "answers": {
+      "A": "s\u0105d nie bada prawdziwo\u015bci twierdze\u0144 zawartych we wniosku, ograniczaj\u0105c si\u0119 do oceny, czy wed\u0142ug przytoczonych okoliczno\u015bci z\u0142o\u017cenie do depozytu jest prawnie uzasadnione, ",
+      "B": "s\u0105d zawsze bada, czy twierdzenia zawarte we wniosku s\u0105 zgodne z prawd\u0105, ",
+      "C": "s\u0105d bada prawdziwo\u015b\u0107 twierdze\u0144 zawartych we wniosku tylko na zarzut podniesiony przez uczestnika post\u0119powania.   \f 17 "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 693(1) k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, je\u017celi wniosek o udzielenie zabezpieczenia nie odpowiada wymogom formalnym przewidzianym dla tego wniosku: ",
+    "answers": {
+      "A": "s\u0105d oddala wniosek, ",
+      "B": "s\u0105d odrzuca wniosek, ",
+      "C": "przewodnicz\u0105cy zwraca wniosek bez wzywania wnioskodawcy do uzupe\u0142nienia wniosku.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 738 zd. 2 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, zabezpieczenie upada w razie: ",
+    "answers": {
+      "A": "nieprawomocnego zwrotu albo odrzucenia pozwu,  ",
+      "B": "prawomocnego oddalenia pow\u00f3dztwa, w sprawie, w kt\u00f3rej zabezpieczenie zosta\u0142o udzielone, ",
+      "C": "nieprawomocnego zawieszenia post\u0119powania s\u0105dowego, w kt\u00f3rym zabezpieczenie zosta\u0142o udzielone.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 744 \u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, skarg\u0119 na czynno\u015b\u0107 komornika wnosi si\u0119: ",
+    "answers": {
+      "A": "do s\u0105du rejonowego za po\u015brednictwem komornika, kt\u00f3ry dokona\u0142 zaskar\u017conej czynno\u015bci, ",
+      "B": "bezpo\u015brednio do w\u0142a\u015bciwego s\u0105du rejonowego, ",
+      "C": "do prezesa tego s\u0105du rejonowego, przy kt\u00f3rym dzia\u0142a komornik dokonuj\u0105cy zaskar\u017conej czynno\u015bci.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 767 \u00a7 4 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, prawomocne postanowienie komornika w przedmiocie koszt\u00f3w egzekucji podlega wykonaniu: ",
+    "answers": {
+      "A": "dopiero po nadaniu temu postanowieniu klauzuli wykonalno\u015bci przez s\u0105d, ",
+      "B": "bez potrzeby zaopatrywania tego postanowienia w klauzul\u0119 wykonalno\u015bci, ",
+      "C": "po stwierdzeniu przez s\u0105d wykonalno\u015bci tego postanowienia.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 770(1) k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w dni ustawowo uznane za wolne od pracy oraz w porze nocnej: ",
+    "answers": {
+      "A": "komornik nie mo\u017ce dokonywa\u0107 czynno\u015bci egzekucyjnych w \u017cadnym wypadku, ",
+      "B": "komornik mo\u017ce dokonywa\u0107 czynno\u015bci egzekucyjne w ka\u017cdym wypadku, ",
+      "C": "komornik mo\u017ce dokonywa\u0107 czynno\u015bci egzekucyjne tylko w wypadkach szczeg\u00f3lnie uzasadnionych za pisemnym zezwoleniem prezesa s\u0105du rejonowego.  \f 18 "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 810 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, zaj\u0119cia ruchomo\u015bci komornik dokonuje: ",
+    "answers": {
+      "A": "przez wpisanie ruchomo\u015bci do protoko\u0142u zaj\u0119cia, ",
+      "B": "przez umieszczenie na ka\u017cdej ruchomo\u015bci znaku ujawniaj\u0105cego na zewn\u0105trz jej zaj\u0119cie, ",
+      "C": "przez odebranie rzeczy ruchomych d\u0142u\u017cnikowi i oddanie ich pod doz\u00f3r wyznaczonemu dozorcy.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 847 \u00a7 1 zd. 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, wniosek o nakazanie d\u0142u\u017cnikowi wyjawienia maj\u0105tku sk\u0142ada si\u0119: ",
+    "answers": {
+      "A": "w s\u0105dzie w\u0142a\u015bciwo\u015bci og\u00f3lnej wierzyciela, ",
+      "B": "w s\u0105dzie w\u0142a\u015bciwo\u015bci og\u00f3lnej d\u0142u\u017cnika, ",
+      "C": "w s\u0105dzie w\u0142a\u015bciwym ze wzgl\u0119du na miejsce po\u0142o\u017cenia maj\u0105tku d\u0142u\u017cnika, z kt\u00f3rego egzekucja ju\u017c jest prowadzona lub mo\u017ce by\u0107 prowadzona.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 914 \u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, obci\u0105\u017cenie przez d\u0142u\u017cnika nieruchomo\u015bci po jej zaj\u0119ciu jest: ",
+    "answers": {
+      "A": "wa\u017cne, chyba \u017ce d\u0142u\u017cnik powiadomi\u0142 o tym obci\u0105\u017ceniu komornika, ",
+      "B": "niewa\u017cne, ",
+      "C": "wa\u017cne i podlega ujawnieniu w protokole opisu i oszacowania nieruchomo\u015bci.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 930 \u00a7 3 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, na postanowienie s\u0105du pierwszej instancji co do nadania klauzuli wykonalno\u015bci tytu\u0142owi egzekucyjnemu przys\u0142uguje: ",
+    "answers": {
+      "A": "za\u017calenie, ",
+      "B": "apelacja, ",
+      "C": "skarga kasacyjna.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 795 \u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, je\u017celi oka\u017ce si\u0119 w post\u0119powaniu egzekucyjnym, \u017ce wierzyciel lub d\u0142u\u017cnik nie ma zdolno\u015bci procesowej ani przedstawiciela ustawowego: ",
+    "answers": {
+      "A": "organ egzekucyjny umarza post\u0119powanie egzekucyjne z urz\u0119du, ",
+      "B": "organ egzekucyjny zawiesza post\u0119powanie egzekucyjne z urz\u0119du, ",
+      "C": "post\u0119powanie egzekucyjne ulega zawieszeniu z mocy prawa.   \f 19 "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 818 \u00a7 1 k.p.c."
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 - Prawo upad\u0142o\u015bciowe i naprawcze, z dniem og\u0142oszenia upad\u0142o\u015bci obejmuj\u0105cej likwidacj\u0119 maj\u0105tku upad\u0142ego post\u0119powanie egzekucyjne dotycz\u0105ce wierzytelno\u015bci podlegaj\u0105cej zg\u0142oszeniu do masy upad\u0142o\u015bci, wszcz\u0119te przed og\u0142oszeniem upad\u0142o\u015bci: ",
+    "answers": {
+      "A": "podlega zawieszeniu z urz\u0119du, ",
+      "B": "ulega zawieszeniu z mocy prawa, ",
+      "C": "podlega zawieszeniu na wniosek wierzyciela lub d\u0142u\u017cnika.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 146 ust. 1 ustawy z dnia 28 lutego 2003 r. - Prawo upad\u0142o\u015bciowe i naprawcze (Dz. U. Nr 60, poz. 535 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 - Prawo upad\u0142o\u015bciowe i naprawcze, w post\u0119powaniu upad\u0142o\u015bciowym skargi na czynno\u015bci komornika rozpoznaje: ",
+    "answers": {
+      "A": "s\u0105d rejonowy wydzia\u0142 cywilny, przy kt\u00f3rym dzia\u0142a komornik, ",
+      "B": "s\u0119dzia \u2013 komisarz, ",
+      "C": "s\u0105d upad\u0142o\u015bciowy w sk\u0142adzie trzech s\u0119dzi\u00f3w zawodowych.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 153 ustawy z dnia 28 lutego 2003 r. - Prawo upad\u0142o\u015bciowe i naprawcze (Dz. U. Nr 60, poz. 535 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o Krajowym Rejestrze S\u0105dowym, s\u0105dem rejestrowym jest prowadz\u0105cy rejestr: ",
+    "answers": {
+      "A": "s\u0105d okr\u0119gowy (s\u0105d gospodarczy), ",
+      "B": "s\u0105d rejonowy - wydzia\u0142 cywilny, ",
+      "C": "s\u0105d rejonowy (s\u0105d gospodarczy).  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 2 ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze S\u0105dowym (Dz. U. z 2007 r. Nr 168, poz. 1186 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o swobodzie dzia\u0142alno\u015bci gospodarczej, przepis\u00f3w tej ustawy nie stosuje si\u0119 do: ",
+    "answers": {
+      "A": "zarobkowej dzia\u0142alno\u015bci budowlanej, ",
+      "B": "zarobkowej dzia\u0142alno\u015bci us\u0142ugowej, ",
+      "C": "dzia\u0142alno\u015bci wytw\u00f3rczej w rolnictwie w zakresie upraw rolnych oraz chowu i hodowli zwierz\u0105t.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 3 ustawy z dnia 2 lipca 2004 r. o swobodzie dzia\u0142alno\u015bci gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o swobodzie dzia\u0142alno\u015bci gospodarczej, przedsi\u0119biorca zagraniczny tworz\u0105cy oddzia\u0142 z siedzib\u0105 na terytorium Rzeczypospolitej Polskiej mo\u017ce wykonywa\u0107 dzia\u0142alno\u015b\u0107 gospodarcz\u0105: ",
+    "answers": {
+      "A": "w ka\u017cdej dziedzinie, ",
+      "B": "wy\u0142\u0105cznie w zakresie przedmiotu dzia\u0142alno\u015bci przedsi\u0119biorcy zagranicznego, ",
+      "C": "w zakresie przedmiotu dzia\u0142alno\u015bci przedsi\u0119biorcy zagranicznego oraz dowolnie wybranej dziedziny wi\u0105\u017c\u0105cej si\u0119 z tym przedmiotem.   \f 20  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 86 ustawy z dnia 2 lipca 2004 r. o swobodzie dzia\u0142alno\u015bci gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, sp\u00f3\u0142k\u0105 kapita\u0142ow\u0105 jest: ",
+    "answers": {
+      "A": "sp\u00f3\u0142ka komandytowa, ",
+      "B": "sp\u00f3\u0142ka komandytowo-akcyjna, ",
+      "C": "sp\u00f3\u0142ka akcyjna.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 4 \u00a7 1 pkt 2 k.s.h."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, zmiana postanowie\u0144 umowy sp\u00f3\u0142ki osobowej: ",
+    "answers": {
+      "A": "zawsze wymaga zgody wszystkich wsp\u00f3lnik\u00f3w, ",
+      "B": "wymaga zgody wszystkich wsp\u00f3lnik\u00f3w, chyba \u017ce umowa stanowi inaczej, ",
+      "C": "zawsze wymaga zgody wi\u0119kszo\u015bci wsp\u00f3lnik\u00f3w.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 9 k.s.h."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, za zobowi\u0105zania sp\u00f3\u0142ki kapita\u0142owej w organizacji: ",
+    "answers": {
+      "A": "odpowiadaj\u0105 solidarnie sp\u00f3\u0142ka i osoby, kt\u00f3re dzia\u0142a\u0142y w jej imieniu, ",
+      "B": "odpowiada tylko sp\u00f3\u0142ka, ",
+      "C": "odpowiadaj\u0105 tylko osoby, kt\u00f3re dzia\u0142a\u0142y w imieniu sp\u00f3\u0142ki kapita\u0142owej w organizacji.   "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 13 \u00a7 1 k.s.h."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, sp\u00f3\u0142k\u0105 jawn\u0105 jest: ",
+    "answers": {
+      "A": "sp\u00f3\u0142ka osobowa, kt\u00f3ra prowadzi przedsi\u0119biorstwo pod w\u0142asn\u0105 firm\u0105, a nie jest inn\u0105 sp\u00f3\u0142k\u0105 handlow\u0105, ",
+      "B": "sp\u00f3\u0142ka kapita\u0142owa w organizacji \u2013 do czasu jej wpisu do odpowiedniego rejestru, ",
+      "C": "sp\u00f3\u0142ka cywilna, w kt\u00f3rej udzia\u0142y poszczeg\u00f3lnych wsp\u00f3lnik\u00f3w w dochodach i stratach sp\u00f3\u0142ki s\u0105 jednoznacznie okre\u015blone i ujawnione w tre\u015bci wpisu w rejestrze przedsi\u0119biorc\u00f3w.   "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 22 \u00a7 1 k.s.h."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, w przypadku gdy wsp\u00f3lnik sp\u00f3\u0142ki jawnej nie jest pozbawiony prawa reprezentowania sp\u00f3\u0142ki, prawo tego wsp\u00f3lnika do reprezentowania sp\u00f3\u0142ki dotyczy: ",
+    "answers": {
+      "A": "wy\u0142\u0105cznie czynno\u015bci s\u0105dowych sp\u00f3\u0142ki, ",
+      "B": "wy\u0142\u0105cznie czynno\u015bci pozas\u0105dowych sp\u00f3\u0142ki, ",
+      "C": "wszystkich czynno\u015bci s\u0105dowych i pozas\u0105dowych sp\u00f3\u0142ki. \f 21  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 29 \u00a7 2 k.s.h."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, sp\u00f3\u0142k\u0105 partnersk\u0105 jest: ",
+    "answers": {
+      "A": "sp\u00f3\u0142ka osobowa, utworzona przez wsp\u00f3lnik\u00f3w (partner\u00f3w) w celu wykonywania wolnego zawodu w sp\u00f3\u0142ce prowadz\u0105cej przedsi\u0119biorstwo pod w\u0142asn\u0105 firm\u0105, ",
+      "B": "sp\u00f3\u0142ka komandytowa, w kt\u00f3rej komplementariusz i komandytariusz maj\u0105 te same prawa i obowi\u0105zki, ",
+      "C": "sp\u00f3\u0142ka akcyjna, w kt\u00f3rej akcjonariusze maj\u0105 tak\u0105 sam\u0105 ilo\u015b\u0107 akcji, a \u017cadna z akcji nie jest uprzywilejowana co do prawa g\u0142osu.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 86 \u00a7 1 k.s.h."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, umowa sp\u00f3\u0142ki komandytowej powinna by\u0107 zawarta: ",
+    "answers": {
+      "A": "na pi\u015bmie z podpisami notarialnie po\u015bwiadczonymi, ",
+      "B": "z dat\u0105 pewn\u0105, ",
+      "C": "w formie aktu notarialnego.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 106 k.s.h."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, w sp\u00f3\u0142kach z ograniczon\u0105 odpowiedzialno\u015bci\u0105 rada nadzorcza lub komisja rewizyjna: ",
+    "answers": {
+      "A": "musi by\u0107 ustanowiona niezale\u017cnie od wysoko\u015bci kapita\u0142u zak\u0142adowego, ",
+      "B": "powinna by\u0107 ustanowiona, je\u017celi wysoko\u015b\u0107 kapita\u0142u zak\u0142adowego przewy\u017csza kwot\u0119 250 000 z\u0142otych, ",
+      "C": "powinna by\u0107 ustanowiona, je\u017celi kapita\u0142 zak\u0142adowy przewy\u017csza kwot\u0119 500 000 z\u0142otych, a wsp\u00f3lnik\u00f3w jest wi\u0119cej ni\u017c dwudziestu pi\u0119ciu.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 213 \u00a7 2 k.s.h."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, w sp\u00f3\u0142kach akcyjnych wi\u0105\u017c\u0105ce zarz\u0105d polecenia dotycz\u0105ce prowadzenia spraw sp\u00f3\u0142ki: ",
+    "answers": {
+      "A": "mo\u017ce wydawa\u0107 rada nadzorcza, ",
+      "B": "mo\u017ce wydawa\u0107 walne zgromadzenie, ",
+      "C": "nie mog\u0105 by\u0107 wydawane zar\u00f3wno przez rad\u0119 nadzorcz\u0105, jak i walne zgromadzenie.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 375(1) k.s.h."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, w sp\u00f3\u0142ce akcyjnej ustanawia si\u0119 rad\u0119 nadzorcz\u0105: ",
+    "answers": {
+      "A": "zawsze, ",
+      "B": "jedynie w\u00f3wczas, gdy kapita\u0142 zak\u0142adowy przewy\u017csza kwot\u0119 5 000 000 z\u0142otych, ",
+      "C": "jedynie w\u00f3wczas, gdy kapita\u0142 zak\u0142adowy przewy\u017csza kwot\u0119 1 000 000 z\u0142otych.   \f 22 "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 381 k.s.h."
+    }
+  },
+  {
+    "question": " Zgodnie z Kodeksem pracy, je\u017celi pracownik umy\u015blnie wyrz\u0105dzi\u0142 szkod\u0119 pracodawcy, do przedawnienia roszczenia o naprawienie tej szkody stosuje si\u0119 przepisy: ",
+    "answers": {
+      "A": " Kodeksu karnego, ",
+      "B": " Kodeksu cywilnego, ",
+      "C": " Kodeksu post\u0119powania administracyjnego.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 291 \u00a7 3 k.p."
+    }
+  },
+  {
+    "question": " Zgodnie z Kodeksem pracy, za zobowi\u0105zania wynikaj\u0105ce ze stosunku pracy, powsta\u0142e przed przej\u015bciem cz\u0119\u015bci zak\u0142adu pracy na innego pracodawc\u0119, dotychczasowy i nowy pracodawca odpowiadaj\u0105: ",
+    "answers": {
+      "A": " proporcjonalnie do warto\u015bci cz\u0119\u015bci zak\u0142adu pracy, kt\u00f3ra przesz\u0142a na nowego pracodawc\u0119, ",
+      "B": " solidarnie, ",
+      "C": " w cz\u0119\u015bciach r\u00f3wnych.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 23(1) \u00a7 2 k.p."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem pracy, minimaln\u0105 wysoko\u015b\u0107 wynagrodzenia za prac\u0119 okre\u015bla: ",
+    "answers": {
+      "A": " Og\u00f3lnopolskie Porozumienie Zwi\u0105zk\u00f3w Zawodowych, ",
+      "B": " Polska Konfederacja Pracodawc\u00f3w, ",
+      "C": " pa\u0144stwo.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 10 \u00a7 2 k.p."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem pracy, o zamiarze wypowiedzenia pracownikowi umowy o prac\u0119 zawartej na czas nie okre\u015blony pracodawca zawiadamia na pi\u015bmie: ",
+    "answers": {
+      "A": " spo\u0142ecznego inspektora pracy, ",
+      "B": " w\u0142a\u015bciwy oddzia\u0142 Zak\u0142adu Ubezpiecze\u0144 Spo\u0142ecznych, ",
+      "C": " reprezentuj\u0105c\u0105 pracownika zak\u0142adow\u0105 organizacj\u0119 zwi\u0105zkow\u0105.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 38 \u00a7 1 k.p."
+    }
+  },
+  {
+    "question": " Zgodnie z Kodeksem pracy, obowi\u0105zek wyp\u0142acenia wynagrodzenia mo\u017ce by\u0107 spe\u0142niony w inny spos\u00f3b ni\u017c do r\u0105k pracownika, je\u017celi: ",
+    "answers": {
+      "A": " tak stanowi uk\u0142ad zbiorowy pracy lub pracownik uprzednio wyrazi na to zgod\u0119 na pi\u015bmie, ",
+      "B": " ze wzgl\u0119du na szczeg\u00f3lne okoliczno\u015bci sprawy pracodawca uzna to za konieczne, ",
+      "C": " wysoko\u015b\u0107 wynagrodzenia pracownika przekracza 5000 z\u0142. \f 23  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 86 \u00a7 3 k.p."
+    }
+  },
+  {
+    "question": " Zgodnie z Kodeksem pracy, mobbing oznacza: ",
+    "answers": {
+      "A": " ka\u017cde niepo\u017c\u0105dane zachowanie o charakterze seksualnym lub odnosz\u0105ce si\u0119 do p\u0142ci pracownika, kt\u00f3rego celem lub skutkiem jest naruszenie godno\u015bci pracownika, w szczeg\u00f3lno\u015bci stworzenie wobec niego zastraszaj\u0105cej, wrogiej, poni\u017caj\u0105cej, upokarzaj\u0105cej lub uw\u0142aczaj\u0105cej atmosfery; na zachowanie to mog\u0105 si\u0119 sk\u0142ada\u0107 fizyczne, werbalne lub pozawerbalne elementy, ",
+      "B": " dzia\u0142ania lub zachowania dotycz\u0105ce pracownika lub skierowane przeciwko pracownikowi, polegaj\u0105ce na uporczywym i d\u0142ugotrwa\u0142ym n\u0119kaniu lub zastraszaniu pracownika, wywo\u0142uj\u0105ce u niego zani\u017con\u0105 ocen\u0119 przydatno\u015bci zawodowej, powoduj\u0105ce lub maj\u0105ce na celu poni\u017cenie lub o\u015bmieszanie pracownika, izolowanie go lub wyeliminowanie z zespo\u0142u wsp\u00f3\u0142pracownik\u00f3w, ",
+      "C": " ka\u017cde czynienie ze swego prawa u\u017cytku, kt\u00f3ry by\u0142by sprzeczny ze spo\u0142eczno-gospodarczym przeznaczeniem tego prawa lub zasadami wsp\u00f3\u0142\u017cycia spo\u0142ecznego.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 94(3) \u00a7 2 k.p."
+    }
+  },
+  {
+    "question": " Zgodnie z Kodeksem pracy, po \u015bmierci pracownika prawa maj\u0105tkowe ze stosunku pracy: ",
+    "answers": {
+      "A": " przechodz\u0105 na osoby, kt\u00f3re zosta\u0142y wskazane przez spadkodawc\u0119 w umowie o prac\u0119 (lub p\u00f3\u017aniejszym pisemnym o\u015bwiadczeniu pracownika), ",
+      "B": "wygasaj\u0105, ",
+      "C": " przechodz\u0105, w r\u00f3wnych cz\u0119\u015bciach, na ma\u0142\u017conka oraz inne osoby spe\u0142niaj\u0105ce warunki wymagane do uzyskania renty rodzinnej w my\u015bl przepis\u00f3w o emeryturach i rentach z Funduszu Ubezpiecze\u0144 Spo\u0142ecznych, a w razie braku takich os\u00f3b prawa te wchodz\u0105 do spadku.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 63(1) \u00a7 1 i 2 k.p."
+    }
+  },
+  {
+    "question": " Zakaz konkurencji okre\u015blony w Kodeksie pracy polega na tym, \u017ce: ",
+    "answers": {
+      "A": " niedozwolone jest w stosunkach pomi\u0119dzy pracownikami zatrudnionymi przez tego samego pracodawc\u0119 tego rodzaju wsp\u00f3\u0142zawodnictwo, kt\u00f3re narusza zasady wsp\u00f3\u0142\u017cycia spo\u0142ecznego lub dobre obyczaje,  ",
+      "B": " niedozwolone jest podejmowanie dzia\u0142a\u0144 konkurencyjnych przez jednego pracodawc\u0119 w stosunku do drugiego, ",
+      "C": " w zakresie okre\u015blonym w odr\u0119bnej umowie, pracownik nie mo\u017ce prowadzi\u0107 dzia\u0142alno\u015bci konkurencyjnej wobec pracodawcy ani te\u017c \u015bwiadczy\u0107 pracy w ramach stosunku pracy lub na innej podstawie na rzecz podmiotu prowadz\u0105cego tak\u0105 dzia\u0142alno\u015b\u0107.  \f 24 "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 101(1) \u00a7 1 k.p."
+    }
+  },
+  {
+    "question": " Zgodnie z Kodeksem pracy, czasem pracy jest czas: ",
+    "answers": {
+      "A": " w kt\u00f3rym pracownik efektywnie \u015bwiadczy prac\u0119, ",
+      "B": " w kt\u00f3rym pracownik pozostaje w dyspozycji pracodawcy w zak\u0142adzie pracy lub w innym miejscu wyznaczonym do wykonywania pracy, ",
+      "C": " w godzinach od 7.00 do 21.00.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 128 \u00a7 1 k.p."
+    }
+  },
+  {
+    "question": " Zgodnie z Kodeksem pracy, terminy przedawnienia roszcze\u0144 ze stosunku pracy:  ",
+    "answers": {
+      "A": " mog\u0105 by\u0107 skracane przez czynno\u015b\u0107 prawn\u0105, ",
+      "B": " nie mog\u0105 by\u0107 skracane ani przed\u0142u\u017cane przez czynno\u015b\u0107 prawn\u0105, ",
+      "C": " mog\u0105 by\u0107 przed\u0142u\u017cane przez czynno\u015b\u0107 prawn\u0105, je\u017celi tak stanowi uk\u0142ad zbiorowy pracy.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 291 \u00a7 1 i 4 k.p."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, za zobowi\u0105zania zaci\u0105gni\u0119te przez jednego z ma\u0142\u017conk\u00f3w w sprawach wynikaj\u0105cych z zaspokajania zwyk\u0142ych potrzeb rodziny, o ile s\u0105d nie postanowi inaczej: ",
+    "answers": {
+      "A": "odpowiedzialni s\u0105 solidarnie oboje ma\u0142\u017conkowie, ",
+      "B": "odpowiedzialno\u015b\u0107 zawsze ponosi tylko ten ma\u0142\u017conek, kt\u00f3ry zobowi\u0105zanie zaci\u0105gn\u0105\u0142, ",
+      "C": "odpowiedzialni s\u0105 oboje ma\u0142\u017conkowie w cz\u0119\u015bciach r\u00f3wnych.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 30 \u00a7 1 i 2 k.r.op."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, rozdzielno\u015b\u0107 maj\u0105tkowa powstaje z mocy prawa: ",
+    "answers": {
+      "A": "w razie ubezw\u0142asnowolnienia lub og\u0142oszenia upad\u0142o\u015bci jednego z ma\u0142\u017conk\u00f3w, ",
+      "B": "w razie pozbawienia jednego z ma\u0142\u017conk\u00f3w orzeczeniem s\u0105du samodzielnego zarz\u0105du maj\u0105tkiem wsp\u00f3lnym, ",
+      "C": "w razie wyjazdu jednego z ma\u0142\u017conk\u00f3w za granic\u0119, na okres nie kr\u00f3tszy ni\u017c trzy lata.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 53 \u00a7 1 k.r.op."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, krewnymi w linii bocznej s\u0105:  ",
+    "answers": {
+      "A": "osoby, z kt\u00f3rych jedna pochodzi od drugiej, ",
+      "B": "wszystkie osoby, kt\u00f3re pochodz\u0105 od wsp\u00f3lnego przodka, ",
+      "C": "osoby, kt\u00f3re pochodz\u0105 od wsp\u00f3lnego przodka, a nie s\u0105 krewnymi w linii prostej.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 61(7) \u00a7 1 zd. 2 k.r.op."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, obowi\u0105zek alimentacyjny: ",
+    "answers": {
+      "A": "przechodzi na spadkobierc\u00f3w zobowi\u0105zanego, ",
+      "B": "nie przechodzi na spadkobierc\u00f3w zobowi\u0105zanego, ",
+      "C": "przechodzi na spadkobierc\u00f3w zobowi\u0105zanego, o ile nie odrzucili spadku.  \f 25   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 139 k.r.op."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, wierzyciel ma\u0142\u017conka w czasie trwania wsp\u00f3lno\u015bci ustawowej: ",
+    "answers": {
+      "A": "nie mo\u017ce \u017c\u0105da\u0107 zaspokojenia z udzia\u0142u, kt\u00f3ry w razie ustania wsp\u00f3lno\u015bci ustawowej przypadnie temu ma\u0142\u017conkowi w maj\u0105tku wsp\u00f3lnym, ",
+      "B": "mo\u017ce \u017c\u0105da\u0107 zaspokojenia z udzia\u0142u, kt\u00f3ry w razie ustania wsp\u00f3lno\u015bci ustawowej przypadnie temu ma\u0142\u017conkowi w przedmiotach nale\u017c\u0105cych do maj\u0105tku wsp\u00f3lnego, ",
+      "C": "mo\u017ce za zezwoleniem s\u0105du \u017c\u0105da\u0107 zaspokojenia z udzia\u0142u, kt\u00f3ry w razie ustania wsp\u00f3lno\u015bci ustawowej przypadnie temu ma\u0142\u017conkowi w maj\u0105tku wsp\u00f3lnym.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 42 k.r.op."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, s\u0105d opieku\u0144czy mo\u017ce orzec zawieszenie w\u0142adzy rodzicielskiej w razie: ",
+    "answers": {
+      "A": "nadu\u017cywania w\u0142adzy rodzicielskiej przez rodzic\u00f3w, ",
+      "B": "ra\u017c\u0105cego zaniedbywania przez rodzic\u00f3w ich obowi\u0105zk\u00f3w wzgl\u0119dem dziecka, ",
+      "C": "przemijaj\u0105cej przeszkody w wykonywaniu w\u0142adzy rodzicielskiej.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 110 \u00a7 1 k.r.op."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, rozwi\u0105zania przysposobienia mo\u017ce \u017c\u0105da\u0107: ",
+    "answers": {
+      "A": "wy\u0142\u0105cznie przysposabiaj\u0105cy, ",
+      "B": "wy\u0142\u0105cznie przysposobiony, ",
+      "C": "przysposabiaj\u0105cy i przysposobiony, a tak\u017ce prokurator.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 125 \u00a7 1 i art. 127 k.r.op."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, krewnych w tym samym stopniu obci\u0105\u017ca obowi\u0105zek alimentacyjny: ",
+    "answers": {
+      "A": "w cz\u0119\u015bciach r\u00f3wnych, ",
+      "B": "w cz\u0119\u015bciach odpowiadaj\u0105cych ich mo\u017cliwo\u015bciom zarobkowym i maj\u0105tkowym, ",
+      "C": "solidarnie.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 129 \u00a7 2 k.r.op."
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o samorz\u0105dzie wojew\u00f3dztwa, organem samorz\u0105du wojew\u00f3dztwa jest: ",
+    "answers": {
+      "A": "wojewoda, ",
+      "B": "sejmik wojew\u00f3dztwa, ",
+      "C": "starosta.   \f 26 "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 15 ustawy z dnia 5 czerwca 1998 r. o samorz\u0105dzie wojew\u00f3dztwa  (Dz.  U.  z  2001  r.  Nr  142,  poz.  1590  ze zm.)."
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o samorz\u0105dzie powiatowym, powiat ma osobowo\u015b\u0107 prawn\u0105: ",
+    "answers": {
+      "A": "w ka\u017cdym przypadku, ",
+      "B": "o ile liczba jego mieszka\u0144c\u00f3w przekracza 10.000 ludzi, ",
+      "C": "o ile liczba jego mieszka\u0144c\u00f3w przekracza 100.000 ludzi.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art.  2  ust.  2  ustawy z  dnia  5 czerwca  1998 r.   o  samorz\u0105dzie  powiatowym  (Dz.  U.  z  2001  r.  Nr  142, poz. 1592 ze zm.)."
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o samorz\u0105dzie gminnym, gminy tworzy: ",
+    "answers": {
+      "A": "Rada Ministr\u00f3w, w drodze rozporz\u0105dzenia, ",
+      "B": "wojewoda, w drodze aktu prawa miejscowego, ",
+      "C": "Prezydent RP w drodze dekretu.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art.  4  ust.  1  pkt  1  ustawy  z  dnia  8  marca  1990  r.   o samorz\u0105dzie gminnym  (Dz. U. z 2001 r. Nr 142, poz. 1591 ze zm.)."
+    }
+  },
+  {
+    "question": " Zgodnie z ustaw\u0105 o wojewodzie i administracji rz\u0105dowej w wojew\u00f3dztwie, wojewoda jest: ",
+    "answers": {
+      "A": "cz\u0142onkiem zarz\u0105du wojew\u00f3dztwa, ",
+      "B": "przedstawicielem Rady Ministr\u00f3w w wojew\u00f3dztwie, ",
+      "C": "kierownikiem starostwa.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art.  3  ust  1  pkt  1  ustawy  z  dnia  23  stycznia  2009  r.   o  wojewodzie  i  administracji  rz\u0105dowej  w  wojew\u00f3dztwie (Dz. U. Nr 31 poz. 206)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o broni i amunicji, pozwolenie na bro\u0144 wydawane jest w drodze: ",
+    "answers": {
+      "A": "postanowienia administracyjnego, ",
+      "B": "decyzji administracyjnej, ",
+      "C": "orzeczenia w\u0142a\u015bciwego s\u0105du powszechnego.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art.  12  ust.  1  ustawy  z  dnia  21  maja  1999  r.  o  broni   i amunicji (Dz. U. 2004 r. Nr 52 poz. 525 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, w post\u0119powaniu administracyjnym strona: ",
+    "answers": {
+      "A": "zawsze mo\u017ce dzia\u0142a\u0107 przez pe\u0142nomocnika, bez wzgl\u0119du na charakter czynno\u015bci, ",
+      "B": "nie mo\u017ce dzia\u0142a\u0107 przez pe\u0142nomocnika, ",
+      "C": "mo\u017ce dzia\u0142a\u0107 przez pe\u0142nomocnika, chyba \u017ce charakter czynno\u015bci wymaga jej osobistego dzia\u0142ania.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 32 k.p.a."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, niedopuszczalno\u015b\u0107 odwo\u0142ania stwierdza w drodze postanowienia: ",
+    "answers": {
+      "A": "organ administracji publicznej pierwszej instancji, ",
+      "B": "organ odwo\u0142awczy, ",
+      "C": "zar\u00f3wno organ pierwszej instancji, jak i organ odwo\u0142awczy.   \f 27 "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 134 k.p.a."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, w post\u0119powaniu administracyjnym mo\u017cna odst\u0105pi\u0107 od uzasadnienia decyzji: ",
+    "answers": {
+      "A": "zawsze, gdy taki wniosek z\u0142o\u017cy strona post\u0119powania, ",
+      "B": "z urz\u0119du, je\u017celi organ uzna to za zb\u0119dne, ",
+      "C": "gdy uwzgl\u0119dnia ona w ca\u0142o\u015bci \u017c\u0105danie strony; nie dotyczy to jednak decyzji rozstrzygaj\u0105cych sporne interesy stron oraz decyzji wydanych na skutek odwo\u0142ania.   "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art. 107 \u00a7 4 k.p.a."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, w post\u0119powaniu administracyjnym strony mog\u0105 zawrze\u0107 przed organem administracji publicznej ugod\u0119: ",
+    "answers": {
+      "A": "je\u017celi przemawia za tym charakter sprawy, przyczyni si\u0119 to do uproszczenia lub przyspieszenia post\u0119powania i nie sprzeciwia si\u0119 temu przepis prawa, ",
+      "B": "zawsze, ",
+      "C": "je\u017celi organ administracji, w drodze decyzji, uzna to za konieczne.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 114 k.p.a."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, spory kompetencyjne mi\u0119dzy organami jednostek samorz\u0105du terytorialnego a organami administracji rz\u0105dowej rozstrzyga: ",
+    "answers": {
+      "A": "s\u0105d administracyjny, ",
+      "B": "samorz\u0105dowe kolegium odwo\u0142awcze, ",
+      "C": "wojewoda.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 22 \u00a7 2 k.p.a."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, w post\u0119powaniu administracyjnym od decyzji wydanej w pierwszej instancji przez burmistrza s\u0142u\u017cy: ",
+    "answers": {
+      "A": "skarga, ",
+      "B": "odwo\u0142anie, ",
+      "C": "apelacja.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 127 \u00a7 1 k.p.a."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, w post\u0119powaniu administracyjnym, gdy decyzja wydana zosta\u0142a bez podstawy prawnej lub z ra\u017c\u0105cym naruszeniem prawa i nie wywo\u0142a\u0142a nieodwracalnych skutk\u00f3w prawnych, organ administracji publicznej: ",
+    "answers": {
+      "A": "uchyla decyzj\u0119, ",
+      "B": "stwierdza niewa\u017cno\u015b\u0107 decyzji, ",
+      "C": "wydaje postanowienie administracyjne, kt\u00f3re konwaliduje poprzedni\u0105 decyzj\u0119.  \f 28  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 156 \u00a7 1 pkt 2 k.p.a."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, w post\u0119powaniu administracyjnym od decyzji wydanych w pierwszej instancji przez ministra s\u0142u\u017cy: ",
+    "answers": {
+      "A": "odwo\u0142anie, ",
+      "B": "wniosek o ponowne rozpatrzenie sprawy, ",
+      "C": "skarga do Naczelnego S\u0105du Administracyjnego.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 127 \u00a7 3 k.p.a."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, w post\u0119powaniu administracyjnym, je\u017celi organ administracji publicznej, do kt\u00f3rego podanie wniesiono, jest niew\u0142a\u015bciwy w sprawie to: ",
+    "answers": {
+      "A": "niezw\u0142ocznie przekazuje je do organu w\u0142a\u015bciwego; je\u017celi organu tego nie mo\u017cna ustali\u0107 na podstawie danych podania, albo gdy z podania wynika, \u017ce w\u0142a\u015bciwym w sprawie jest s\u0105d powszechny, kt\u00f3ry nie uzna\u0142 si\u0119 ju\u017c w tej sprawie za niew\u0142a\u015bciwy, zwraca je wnosz\u0105cemu, ",
+      "B": "pozostawia spraw\u0119 bez rozpoznania, ",
+      "C": "odrzuca podanie.   "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 65 \u00a7 1 k.p.a., art. 66 \u00a7 3 i 4 k.p.a."
+    }
+  },
+  {
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, w post\u0119powaniu administracyjnym w sprawie zako\u0144czonej decyzj\u0105 ostateczn\u0105, je\u017celi decyzja wydana zosta\u0142a w wyniku przest\u0119pstwa: ",
+    "answers": {
+      "A": "zawiadamia si\u0119 prokuratur\u0119 i wstrzymuje si\u0119 z dokonywaniem dalszych czynno\u015bci do czasu skierowania aktu oskar\u017cenia do s\u0105du, ",
+      "B": "wznawia si\u0119 post\u0119powanie, ",
+      "C": "przekazuje si\u0119 spraw\u0119 do s\u0105du administracyjnego \u2013 o ile taki wniosek z\u0142o\u017cy strona post\u0119powania.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 145 \u00a7 1 pkt 2 k.p.a."
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o finansach publicznych, sektor finans\u00f3w publicznych tworz\u0105 mi\u0119dzy innymi: ",
+    "answers": {
+      "A": "organy w\u0142adzy publicznej, ",
+      "B": "przedsi\u0119biorstwa pa\u0144stwowe, ",
+      "C": "sp\u00f3\u0142ki prawa handlowego.  \f 29 "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art.  4  ust  1  pkt  1  ustawy  z  dnia  30  czerwca  2005  r.   o  finansach  publicznych  (Dz.  U.  Nr  249  poz.  2104  ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z Traktatem Ustanawiaj\u0105cym Wsp\u00f3lnot\u0119 Europejsk\u0105 (tekst skonsolidowany uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem z ",
+    "answers": {
+      "A": "nie ma osobowo\u015bci prawnej, ",
+      "B": "ma osobowo\u015b\u0107 prawn\u0105, ",
+      "C": "nie ma osobowo\u015bci prawnej, ale posiada zdolno\u015b\u0107 do zawierania um\u00f3w mi\u0119dzynarodowych.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art. 281 Traktatu z dnia 25  marca 1957 r. Ustanawiaj\u0105cego Wsp\u00f3lnot\u0119 Europejsk\u0105 (tekst skonsolidowany  uwzgl\u0119dniaj\u0105cy  zmiany  wprowadzone Traktatem z Aten)"
+    }
+  },
+  {
+    "question": "Zgodnie z Traktatem Ustanawiaj\u0105cym Wsp\u00f3lnot\u0119 Europejsk\u0105 (tekst skonsolidowany uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem z ",
+    "answers": {
+      "A": "jeden przedstawiciel szczebla ministerialnego ka\u017cdego Pa\u0144stwa Cz\u0142onkowskiego, upowa\u017cniony do zaci\u0105gania zobowi\u0105za\u0144 w imieniu rz\u0105du tego Pa\u0144stwa Cz\u0142onkowskiego, ",
+      "B": "szef banku centralnego ka\u017cdego Pa\u0144stwa ",
+      "C": "przedstawiciel ka\u017cdego Pa\u0144stwa Cz\u0142onkowskiego, wybrany spo\u015br\u00f3d cz\u0142onk\u00f3w Parlamentu Europejskiego.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art. 203 Traktatu z dnia 25  marca 1957 r. Ustanawiaj\u0105cego Wsp\u00f3lnot\u0119 Europejsk\u0105 (tekst skonsolidowany  uwzgl\u0119dniaj\u0105cy  zmiany  wprowadzone Traktatem z Aten)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 - Prawo prywatne mi\u0119dzynarodowe, je\u017celi umowa mi\u0119dzynarodowa, kt\u00f3rej Rzeczpospolita Polska jest stron\u0105, nie postanawia inaczej i osoba nie ma obywatelstwa \u017cadnego pa\u0144stwa, a ustawa przewiduje w\u0142a\u015bciwo\u015b\u0107 prawa ojczystego, to stosuje si\u0119: ",
+    "answers": {
+      "A": "prawo pa\u0144stwa, w kt\u00f3rym znajduje si\u0119 jej miejsce zamieszkania, ",
+      "B": "prawo pa\u0144stwa, w kt\u00f3rym znajduje si\u0119 jej miejsce urodzenia, ",
+      "C": "prawo pa\u0144stwa wed\u0142ug wyboru tej osoby.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art.  3  ustawy  z  dnia  12 listopada  1965 r.  Prawo prywatne  mi\u0119dzynarodowe  (Dz.  U.  nr  46,  poz.  290  ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 - Prawo o ustroju s\u0105d\u00f3w powszechnych, s\u0105dami powszechnymi s\u0105 mi\u0119dzy innymi: ",
+    "answers": {
+      "A": "s\u0105dy administracyjne, ",
+      "B": "s\u0105dy apelacyjne, ",
+      "C": "s\u0105dy wojskowe.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art.  1  \u00a7  1  ustawy  z  dnia  27  lipca  2001  r.  \u2013  Prawo   o ustroju s\u0105d\u00f3w powszechnych (Dz. U. Nr 98, poz. 1070 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 - Prawo o ustroju s\u0105d\u00f3w powszechnych, kary porz\u0105dkowe grzywny wymierzane przez s\u0105d maj\u0105 zastosowanie mi\u0119dzy innymi do: ",
+    "answers": {
+      "A": "\u0142awnik\u00f3w nale\u017c\u0105cych do sk\u0142adu orzekaj\u0105cego, ",
+      "B": "prokuratora bior\u0105cego udzia\u0142 w sprawie, ",
+      "C": "radcy prawnego bior\u0105cego udzia\u0142 w sprawie.  \f 30  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art.  51a  ustawy  z  dnia  27 lipca  2001  r.  \u2013  Prawo   o ustroju s\u0105d\u00f3w powszechnych (Dz. U. Nr 98, poz. 1070 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 - Prawo o ustroju s\u0105d\u00f3w powszechnych, s\u0105dami dyscyplinarnymi w sprawach dyscyplinarnych s\u0119dzi\u00f3w s\u0105d\u00f3w powszechnych w pierwszej instancji s\u0105: ",
+    "answers": {
+      "A": "s\u0105dy okr\u0119gowe, ",
+      "B": "s\u0105dy apelacyjne, ",
+      "C": "s\u0105dy wojskowe.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art.  110  \u00a7  1  pkt  1  ustawy  z  dnia  27  lipca  2001  r.  \u2013 Prawo  o  ustroju  s\u0105d\u00f3w  powszechnych  (Dz.  U.  Nr  98, poz. 1070 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o S\u0105dzie Najwy\u017cszym, w sk\u0142ad S\u0105du Najwy\u017cszego wchodzi Izba: ",
+    "answers": {
+      "A": "Finansowa, ",
+      "B": "",
+      "C": "Administracyjna.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art.  3  \u00a7  1  pkt  1  ustawy  z  dnia  23  listopada  2002  r.   o S\u0105dzie Najwy\u017cszym (Dz. U. Nr 204 poz. 2052 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych i egzekucji, przy wykonywaniu czynno\u015bci komornik podlega: ",
+    "answers": {
+      "A": "orzeczeniom s\u0105du i prezesowi s\u0105du rejonowego, przy kt\u00f3rym dzia\u0142a, ",
+      "B": "tylko orzeczeniom s\u0105du, ",
+      "C": "Ministrowi Finans\u00f3w.   "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art.  3  ust.  1  ustawy  z  dnia  29  sierpnia  1997 r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych i egzekucji, komornik uzyskuje prawo wykonywania czynno\u015bci egzekucyjnych: ",
+    "answers": {
+      "A": "z chwil\u0105 zawiadomienia Ministra Sprawiedliwo\u015bci o obj\u0119ciu lub utworzeniu kancelarii, ",
+      "B": "z dniem z\u0142o\u017cenia \u015blubowania, ",
+      "C": "po up\u0142ywie miesi\u0105ca od dnia zawiadomienia o powo\u0142aniu.   "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art.  14  ust.  4  ustawy  z  dnia  29  sierpnia  1997  r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych i egzekucji, aplikanta komorniczego zatrudnia: ",
+    "answers": {
+      "A": "prezes w\u0142a\u015bciwego s\u0105du okr\u0119gowego, ",
+      "B": "prezes w\u0142a\u015bciwej izby komorniczej,  ",
+      "C": "komornik.  \f 31 "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art.  29  ust.  2  ustawy  z  dnia  29  sierpnia  1997  r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych i egzekucji, zawarcie przez komornika umowy ubezpieczenia odpowiedzialno\u015bci cywilnej za szkody, kt\u00f3re mog\u0105 zosta\u0107 wyrz\u0105dzone w zwi\u0105zku z wykonywaniem czynno\u015bci egzekucyjnych: ",
+    "answers": {
+      "A": "nie jest obowi\u0105zkowe, ",
+      "B": "jest obowi\u0105zkowe,  ",
+      "C": "jest obowi\u0105zkowe, ale tylko w odniesieniu do komornik\u00f3w, kt\u00f3rzy zatrudniaj\u0105 asesor\u00f3w.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art.  24  ust.  1  ustawy  z  dnia  29  sierpnia  1997  r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych i egzekucji, kandydat, kt\u00f3ry uzyska\u0142 pozytywn\u0105 ocen\u0119 z egzaminu konkursowego na aplikacj\u0119 komornicz\u0105 mo\u017ce z\u0142o\u017cy\u0107 wniosek o wpis na list\u0119 aplikant\u00f3w komorniczych w ci\u0105gu: ",
+    "answers": {
+      "A": "2 lat od dnia og\u0142oszenia wynik\u00f3w egzaminu konkursowego, ",
+      "B": "3 lat od dnia og\u0142oszenia wynik\u00f3w egzaminu konkursowego, ",
+      "C": "5 lat od dnia og\u0142oszenia wynik\u00f3w egzaminu konkursowego.  "
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art.  29  ust.  9  ustawy  z  dnia  29  sierpnia  1997  r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych i egzekucji, kar\u0105 dyscyplinarn\u0105 nie jest: ",
+    "answers": {
+      "A": "wydalenie ze s\u0142u\u017cby komorniczej, ",
+      "B": "zakaz wykonywania zawodu komornika, ",
+      "C": "nagana.  "
+    },
+    "correct_answer": {
+      "answer": "B",
+      "answer_explanation": "art.72  ust.  1  ustawy z  dnia  29  sierpnia  1997 r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych i egzekucji, cz\u0142onkostwo komornika w izbie komorniczej: ",
+    "answers": {
+      "A": "powstaje z mocy prawa z dniem otrzymania zawiadomienia o powo\u0142aniu, ",
+      "B": "nie jest obowi\u0105zkowe, ",
+      "C": "powstaje z mocy prawa z dniem uzyskania przez komornika prawa wykonywania czynno\u015bci egzekucyjnych.  "
+    },
+    "correct_answer": {
+      "answer": "C",
+      "answer_explanation": "art.  86  ust.  3  ustawy  z  dnia  29  sierpnia  1997  r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+    }
+  },
+  {
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych i egzekucji, organem izby komorniczej mi\u0119dzy innymi jest: ",
+    "answers": {
+      "A": "komisja rewizyjna, ",
+      "B": "przewodnicz\u0105cy rady izby komorniczej, ",
+      "C": "przewodnicz\u0105cy komisji rewizyjnej. \f"
+    },
+    "correct_answer": {
+      "answer": "A",
+      "answer_explanation": "art.  87  pkt  3  ustawy  z  dnia  29  sierpnia  1997  r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+    }
+  }
+]

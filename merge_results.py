@@ -1,5 +1,6 @@
 import argparse
 import json
+import os
 
 
 def merge_results(questions_path, answers_path, result):
@@ -7,10 +8,8 @@ def merge_results(questions_path, answers_path, result):
     with open(questions_path, ) as questions, open(answers_path) as answers:
         questions_json = json.load(questions)
         answers_json = json.load(answers)
-        for _, question in questions_json.items():
-            question_number = int(question["question_number"].replace(".", ""))
-            question["question_number"] = question_number
-            answer = answers_json[question_number - 1]
+        for index, question in enumerate(questions_json):
+            answer = answers_json[index]
             question["correct_answer"] = {"answer": answer["answer"],
                                           "answer_explanation": answer["answer_explanation"]}
             merged.append(question)
@@ -28,4 +27,7 @@ if __name__ == "__main__":
     questions = args.questions
     answers = args.answers
     output = args.output
-    merge_results(questions, answers, output)
+
+    for directory_path, _, filenames in os.walk(args.questions):
+        for filename in filenames:
+            merge_results(questions + filename, answers + filename, output + filename)

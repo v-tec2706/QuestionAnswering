@@ -1,0 +1,757 @@
+[
+  {
+    "question_number": "1",
+    "answer": "A",
+    "answer_explanation": "art. 16 \u00a7 2 k.k."
+  },
+  {
+    "question_number": "2",
+    "answer": "C",
+    "answer_explanation": "art. 26 \u00a7 3 k.k."
+  },
+  {
+    "question_number": "3",
+    "answer": "C",
+    "answer_explanation": "art. 38 \u00a7 2 k.k."
+  },
+  {
+    "question_number": "4",
+    "answer": "B",
+    "answer_explanation": "art. 39 pkt 8 k.k."
+  },
+  {
+    "question_number": "5",
+    "answer": "A",
+    "answer_explanation": "art. 44 \u00a7 8 k.k."
+  },
+  {
+    "question_number": "6",
+    "answer": "C",
+    "answer_explanation": "art. 46 \u00a7 1 w zw. z art. 39 pkt 5 k.k."
+  },
+  {
+    "question_number": "7",
+    "answer": "C",
+    "answer_explanation": "art. 69 \u00a7 4 k.k."
+  },
+  {
+    "question_number": "8",
+    "answer": "B",
+    "answer_explanation": "art. 70 \u00a7 1 k.k."
+  },
+  {
+    "question_number": "9",
+    "answer": "B",
+    "answer_explanation": "art. 71 \u00a7 1 k.k."
+  },
+  {
+    "question_number": "10",
+    "answer": "A",
+    "answer_explanation": "art. 81 k.k."
+  },
+  {
+    "question_number": "11",
+    "answer": "B",
+    "answer_explanation": "art. 7 \u00a7 2 k.k. i art. 189 \u00a7 3 k.k."
+  },
+  {
+    "question_number": "12",
+    "answer": "C",
+    "answer_explanation": "art. 354 pkt 1 k.p.k."
+  },
+  {
+    "question_number": "13",
+    "answer": "A",
+    "answer_explanation": "art. 122 \u00a7 2 k.p.k."
+  },
+  {
+    "question_number": "14",
+    "answer": "C",
+    "answer_explanation": "art. 108 \u00a7 1 k.p.k."
+  },
+  {
+    "question_number": "15",
+    "answer": "A",
+    "answer_explanation": "art. 418a k.p.k."
+  },
+  {
+    "question_number": "16",
+    "answer": "B",
+    "answer_explanation": "art. 43 k.p.k."
+  },
+  {
+    "question_number": "17",
+    "answer": "C",
+    "answer_explanation": "art. 25 \u00a7 2 k.p.k."
+  },
+  {
+    "question_number": "18",
+    "answer": "A",
+    "answer_explanation": "art. 57 \u00a7 1 k.p.k."
+  },
+  {
+    "question_number": "19",
+    "answer": "A",
+    "answer_explanation": "art. 85 \u00a7 1 k.p.k."
+  },
+  {
+    "question_number": "20",
+    "answer": "C",
+    "answer_explanation": "art. 115 \u00a7 2 k.p.k."
+  },
+  {
+    "question_number": "21",
+    "answer": "B",
+    "answer_explanation": "art. 280 \u00a7 2 k.p.k."
+  },
+  {
+    "question_number": "22",
+    "answer": "A",
+    "answer_explanation": "art. 54 \u00a7 1 k.p.k."
+  },
+  {
+    "question_number": "23",
+    "answer": "C",
+    "answer_explanation": "art. 270 \u00a7 1 k.p.k."
+  },
+  {
+    "question_number": "24",
+    "answer": "A",
+    "answer_explanation": "art. 539 k.p.k."
+  },
+  {
+    "question_number": "25",
+    "answer": "A",
+    "answer_explanation": "art. 517f \u00a7 3 k.p.k. w zw. z art. 411 \u00a7 1 k.p.k."
+  },
+  {
+    "question_number": "26",
+    "answer": "B",
+    "answer_explanation": "art. 457 \u00a7 2 k.p.k."
+  },
+  {
+    "question_number": "27",
+    "answer": "A",
+    "answer_explanation": "art. 6 \u00a7 3 k.p.w."
+  },
+  {
+    "question_number": "28",
+    "answer": "C",
+    "answer_explanation": "art. 93 \u00a7 1 k.p.w."
+  },
+  {
+    "question_number": "29",
+    "answer": "C",
+    "answer_explanation": "art. 41 k.w. w zw. z art. 18 pkt 4 k.w."
+  },
+  {
+    "question_number": "30",
+    "answer": "A",
+    "answer_explanation": "art. 28 \u00a7 1 k.w. a contrario"
+  },
+  {
+    "question_number": "31",
+    "answer": "A",
+    "answer_explanation": "art. 19 \u00a7 4 k.k.s."
+  },
+  {
+    "question_number": "32",
+    "answer": "C",
+    "answer_explanation": "art. 39 \u00a7 2 k.k.s."
+  },
+  {
+    "question_number": "33",
+    "answer": "C",
+    "answer_explanation": "art. 31 \u00a7 3 k.c."
+  },
+  {
+    "question_number": "34",
+    "answer": "A",
+    "answer_explanation": "art. 100 k.c."
+  },
+  {
+    "question_number": "35",
+    "answer": "C",
+    "answer_explanation": "art. 210 k.c."
+  },
+  {
+    "question_number": "36",
+    "answer": "C",
+    "answer_explanation": "art. 157 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "37",
+    "answer": "C",
+    "answer_explanation": "art. 199 k.c."
+  },
+  {
+    "question_number": "38",
+    "answer": "C",
+    "answer_explanation": "art. 723 k.c."
+  },
+  {
+    "question_number": "39",
+    "answer": "C",
+    "answer_explanation": "art. 747 i art. 748 k.c."
+  },
+  {
+    "question_number": "40",
+    "answer": "A",
+    "answer_explanation": "art. 758 \u00a7 2 k.c."
+  },
+  {
+    "question_number": "41",
+    "answer": "B",
+    "answer_explanation": "art. 248 k.c."
+  },
+  {
+    "question_number": "42",
+    "answer": "A",
+    "answer_explanation": "art. 924 i art. 925 k.c."
+  },
+  {
+    "question_number": "43",
+    "answer": "B",
+    "answer_explanation": "art. 933 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "44",
+    "answer": "A",
+    "answer_explanation": "art. 944 k.c."
+  },
+  {
+    "question_number": "45",
+    "answer": "B",
+    "answer_explanation": "art. 951 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "46",
+    "answer": "B",
+    "answer_explanation": "art. 878 \u00a7 2 k.c."
+  },
+  {
+    "question_number": "47",
+    "answer": "B",
+    "answer_explanation": "art. 899 \u00a7 1 k.c. i art. 898 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "48",
+    "answer": "C",
+    "answer_explanation": "art. 906 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "49",
+    "answer": "C",
+    "answer_explanation": "art. 916 k.c."
+  },
+  {
+    "question_number": "50",
+    "answer": "A",
+    "answer_explanation": "art. 918 \u00a7 2 k.c."
+  },
+  {
+    "question_number": "51",
+    "answer": "C",
+    "answer_explanation": "art. 22 k.p.c."
+  },
+  {
+    "question_number": "52",
+    "answer": "B",
+    "answer_explanation": "art. 240 \u00a7 2 k.p.c."
+  },
+  {
+    "question_number": "53",
+    "answer": "B",
+    "answer_explanation": "art. 241 k.p.c."
+  },
+  {
+    "question_number": "54",
+    "answer": "B",
+    "answer_explanation": "art. 130 \u00a7 4 k.p.c."
+  },
+  {
+    "question_number": "55",
+    "answer": "A",
+    "answer_explanation": "art. 130 \u00a7 1 i \u00a7 3 k.p.c. w zw. z art. 187 k.p.c."
+  },
+  {
+    "question_number": "56",
+    "answer": "A",
+    "answer_explanation": "art. 25 \u00a7 1 i 2 k.p.c."
+  },
+  {
+    "question_number": "57",
+    "answer": "C",
+    "answer_explanation": "art. 53(1 )k.p.c."
+  },
+  {
+    "question_number": "58",
+    "answer": "A",
+    "answer_explanation": "art. 154 k.p.c."
+  },
+  {
+    "question_number": "59",
+    "answer": "B",
+    "answer_explanation": "art. 185 \u00a7 2 k.p.c."
+  },
+  {
+    "question_number": "60",
+    "answer": "B",
+    "answer_explanation": "art. 149 \u00a7 2 k.p.c."
+  },
+  {
+    "question_number": "61",
+    "answer": "B",
+    "answer_explanation": "art. 505(20) \u00a7 1 i \u00a7 4 k.p.c."
+  },
+  {
+    "question_number": "62",
+    "answer": "B",
+    "answer_explanation": "art. 351 \u00a7 3 k.p.c. w zw. z art. 354 k.p.c."
+  },
+  {
+    "question_number": "63",
+    "answer": "C",
+    "answer_explanation": "art. 499 pkt 2 k.p.c."
+  },
+  {
+    "question_number": "64",
+    "answer": "B",
+    "answer_explanation": "art. 502 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "65",
+    "answer": "C",
+    "answer_explanation": "art. 346 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "66",
+    "answer": "C",
+    "answer_explanation": "art.  19  ust.  2  pkt  1  ustawy  z  dnia  28  lipca  2005  r.  o  kosztach s\u0105dowych  w  sprawach  cywilnych  (Dz.  U.  z  2010  r.  Nr  90,  poz. 594, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "67",
+    "answer": "C",
+    "answer_explanation": "art. 13 ust. 2 ustawy z dnia 28 lipca 2005 r. o kosztach s\u0105dowych w sprawach cywilnych (Dz. U. z 2010 r. Nr 90, poz. 594, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "68",
+    "answer": "B",
+    "answer_explanation": "art.  258  \u00a7  1  ustawy  z  16  wrze\u015bnia  1982  r.  \u2013  Prawo  sp\u00f3\u0142dzielcze (Dz. U. z 2003 r. Nr 188, poz.1848, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "69",
+    "answer": "C",
+    "answer_explanation": "art.  25  ust.  1  pkt  4  ustawy  z  dnia  6  lipca  1982  r.  o  ksi\u0119gach wieczystych  i  hipotece  (Dz.  U.  z  2001  r.  Nr  124,  poz.  1361,  z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "70",
+    "answer": "A",
+    "answer_explanation": "art. 19 a ust. 1 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokator\u00f3w,  mieszkaniowym  zasobie  gminy  i  o  zmianie  Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "71",
+    "answer": "C",
+    "answer_explanation": "art. 7 ust. 1 ustawy z dnia 24 czerwca 1994 r. o w\u0142asno\u015bci  lokali (Dz. U. z 2000 r. Nr 80, poz. 903, z p\u00f3\u017an. zm.) a contrario"
+  },
+  {
+    "question_number": "72",
+    "answer": "C",
+    "answer_explanation": "art.  9  ust.  3  ustawy  z  15  grudnia  2000 r.  o  sp\u00f3\u0142dzielniach mieszkaniowych (Dz. U. z 2003 r. Nr 119, poz.1116, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "73",
+    "answer": "B",
+    "answer_explanation": "art. 2 k.r. i o. w zw. z art. 1 \u00a7 1 k.r. i o."
+  },
+  {
+    "question_number": "74",
+    "answer": "B",
+    "answer_explanation": "art. 57 \u00a7 2 k.r.i o."
+  },
+  {
+    "question_number": "75",
+    "answer": "A",
+    "answer_explanation": "art. 112 k.r.i o."
+  },
+  {
+    "question_number": "76",
+    "answer": "C",
+    "answer_explanation": "art. 71 k.r.i o."
+  },
+  {
+    "question_number": "77",
+    "answer": "B",
+    "answer_explanation": "art. 61(6) \u00a7 1 k.r.i o."
+  },
+  {
+    "question_number": "78",
+    "answer": "A",
+    "answer_explanation": "art.  37  ust.  1  pkt  1  ustawy  z  dnia  2  lipca  2004  r.  o  swobodzie dzia\u0142alno\u015bci  gospodarczej  (Dz.  U.  z  2010  r.  Nr  220,  poz.  1447,     z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "79",
+    "answer": "B",
+    "answer_explanation": "art.  46  ust.  1  pkt  7  ustawy  z  dnia  2  lipca  2004  r.  o  swobodzie dzia\u0142alno\u015bci  gospodarczej  (Dz.  U.  z  2010  r.  Nr  220,  poz.  1447,             z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "80",
+    "answer": "B",
+    "answer_explanation": "art.  14a  ust.  1  i  2  ustawy  z  dnia  2  lipca  2004  r.  o  swobodzie dzia\u0142alno\u015bci  gospodarczej  (Dz.  U.  z  2010  r.  Nr  220,  poz.  1447,           z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "81",
+    "answer": "C",
+    "answer_explanation": "art.  49  ust.  2  ustawy  z  dnia  16 lutego  2007 r.  o  ochronie konkurencji i konsument\u00f3w (Dz. U. Nr 50, poz. 331, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "82",
+    "answer": "B",
+    "answer_explanation": "art.  48  ust.  3  ustawy  z  dnia  16 lutego  2007 r.  o  ochronie konkurencji i konsument\u00f3w (Dz. U. Nr 50, poz. 331, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "83",
+    "answer": "C",
+    "answer_explanation": "art.  45  ust.  2  ustawy z  dnia  28 lutego  2003 r. -  Prawo upad\u0142o\u015bciowe  i  naprawcze  (Dz.  U.  z  2009  r.  Nr  175,  poz.  1361,           z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "84",
+    "answer": "A",
+    "answer_explanation": "art.  189  ustawy  z  dnia  28  lutego  2003  r.  -  Prawo  upad\u0142o\u015bciowe            i naprawcze (Dz. U. z 2009 r. Nr 175, poz. 1361, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "85",
+    "answer": "C",
+    "answer_explanation": "art.  56  ustawy  z  dnia  20  sierpnia  1997  r.  o  Krajowym  Rejestrze S\u0105dowym (Dz. U. z 2007 r. Nr 168, poz. 1186, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "86",
+    "answer": "C",
+    "answer_explanation": "art.  36  pkt  8a  ustawy  z  dnia  20  sierpnia  1997  r.  o  Krajowym Rejestrze S\u0105dowym (Dz. U. z 2007 r. Nr 168, poz. 1186, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "87",
+    "answer": "B",
+    "answer_explanation": "art.  11  ust.  1  pkt  1  ustawy  z  dnia  6  grudnia  1996  r.  o  zastawie rejestrowym  i  rejestrze  zastaw\u00f3w  (Dz.  U.  z  2009  r.  Nr  67,  poz. 569, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "88",
+    "answer": "A",
+    "answer_explanation": "art.  16  ust.  1  ustawy  z  dnia  21  sierpnia  1997  r.  o  gospodarce nieruchomo\u015bciami  (Dz.  U.  z  2010  r.  Nr  102,  poz.  651,  z  po\u017an. zm.)"
+  },
+  {
+    "question_number": "89",
+    "answer": "A",
+    "answer_explanation": "art.  25  ust.  1  ustawy  z  dnia  21  sierpnia  1997  r.  o  gospodarce nieruchomo\u015bciami  (Dz.  U.  z  2010  r.  Nr  102,  poz.  651,  z  p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "90",
+    "answer": "A",
+    "answer_explanation": "art. 6 zd. 2 ustawy z dnia 28 kwietnia 1936 r. \u2013 Prawo wekslowe (Dz. U. Nr 37, poz. 282, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "91",
+    "answer": "B",
+    "answer_explanation": "art.  1  ust.  1a  ustawy  z  dnia  24  marca  1920  r.  o  nabywaniu nieruchomo\u015bci  przez  cudzoziemc\u00f3w  (Dz.  U.  z  2004  r.  Nr  167, poz. 1758, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "92",
+    "answer": "B",
+    "answer_explanation": "art. 9 k.s.h."
+  },
+  {
+    "question_number": "93",
+    "answer": "B",
+    "answer_explanation": "art. 10 \u00a7 3 k.s.h."
+  },
+  {
+    "question_number": "94",
+    "answer": "C",
+    "answer_explanation": "art. 11 \u00a7 2 k.s.h."
+  },
+  {
+    "question_number": "95",
+    "answer": "A",
+    "answer_explanation": "art. 38 \u00a7 1 w zw. z art. 37 \u00a7 2 k.s.h."
+  },
+  {
+    "question_number": "96",
+    "answer": "A",
+    "answer_explanation": "art. 100 \u00a7 1 k.s.h."
+  },
+  {
+    "question_number": "97",
+    "answer": "A",
+    "answer_explanation": "art. 108 \u00a7 1 i 2 k.s.h."
+  },
+  {
+    "question_number": "98",
+    "answer": "B",
+    "answer_explanation": "art. 175 k.s.h."
+  },
+  {
+    "question_number": "99",
+    "answer": "B",
+    "answer_explanation": "art. 190 k.s.h."
+  },
+  {
+    "question_number": "100",
+    "answer": "C",
+    "answer_explanation": "art. 22 \u00a7 3 k.p."
+  },
+  {
+    "question_number": "101",
+    "answer": "A",
+    "answer_explanation": "art. 33(1) k.p. w zw. z art. 25 \u00a7 1 k.p."
+  },
+  {
+    "question_number": "102",
+    "answer": "B",
+    "answer_explanation": "art. 134 k.p."
+  },
+  {
+    "question_number": "103",
+    "answer": "C",
+    "answer_explanation": "art.  11  ustawy  z  dnia  13  marca  2003 r.  o  szczeg\u00f3lnych  zasadach rozwi\u0105zywania  z  pracownikami stosunk\u00f3w  pracy  z  przyczyn niedotycz\u0105cych  pracownik\u00f3w  (Dz.  U.  Nr  90,  poz.  844,  z  p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "104",
+    "answer": "A",
+    "answer_explanation": "art.  16  ust.  6  ustawy  z  dnia  13  pa\u017adziernika  1998  r.  o  systemie ubezpiecze\u0144  spo\u0142ecznych  (Dz.  U  z  2009  r.  Nr  205,  poz.  1585,               z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "105",
+    "answer": "B",
+    "answer_explanation": "art.  8  ustawy  z  dnia  25  czerwca  1999 r.  o \u015bwiadczeniach pieni\u0119\u017cnych z ubezpieczenia spo\u0142ecznego  w razie choroby             i macierzy\u0144stwa (Dz. U. z 2010 r. Nr 77, poz. 512, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "106",
+    "answer": "A",
+    "answer_explanation": "art. 3 ust. 4 ustawy z dnia 30 pa\u017adziernika 2002 r. o ubezpieczeniu spo\u0142ecznym z tytu\u0142u wypadk\u00f3w przy pracy i chor\u00f3b zawodowych (Dz. U. z 2009 r. Nr 167, poz. 1322, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "107",
+    "answer": "B",
+    "answer_explanation": "art.  4  ust.  1  pkt  2  ustawy  z  dnia  8  marca  1990  r.  o  samorz\u0105dzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "108",
+    "answer": "C",
+    "answer_explanation": "art.  68  ust.  1  ustawy  z  dnia  5  czerwca  1998  r.  o  samorz\u0105dzie powiatowym (Dz. U. z 2001 r. Nr 142, poz.1592, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "109",
+    "answer": "B",
+    "answer_explanation": "art. 81 ustawy z dnia 5 czerwca 1998 r.  o samorz\u0105dzie wojew\u00f3dztwa (Dz. U. z 2001 r. Nr 142, poz. 1590, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "110",
+    "answer": "A",
+    "answer_explanation": "art.  86  ust.  1  ustawy  z  dnia  7  lipca  1994  r.  -  Prawo  budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "111",
+    "answer": "A",
+    "answer_explanation": "art. 3a ust. 1 ustawy z dnia 12 pa\u017adziernika 1994 r.  o samorz\u0105dowych kolegiach odwo\u0142awczych (Dz. U. z 2001 r. Nr"
+  },
+  {
+    "question_number": "",
+    "answer": "",
+    "answer_explanation": "79, poz. 856, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "112",
+    "answer": "C",
+    "answer_explanation": "art. 51 ust. 1 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu             i zagospodarowaniu przestrzennym (Dz. U. z 2012 r. poz. 647)"
+  },
+  {
+    "question_number": "113",
+    "answer": "A",
+    "answer_explanation": "art.  61  ust.  1  ustawy  z  dnia  23  stycznia  2009  r.  o  wojewodzie                 i administracji rz\u0105dowej w wojew\u00f3dztwie (Dz. U. z 2009 r. Nr 31, poz. 206, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "114",
+    "answer": "B",
+    "answer_explanation": "art. 22 \u00a7 1 pkt 2 k.p.a."
+  },
+  {
+    "question_number": "115",
+    "answer": "B",
+    "answer_explanation": "art. 33 \u00a7 1 k.p.a."
+  },
+  {
+    "question_number": "116",
+    "answer": "C",
+    "answer_explanation": "art. 120 \u00a7 1 k.p.a."
+  },
+  {
+    "question_number": "117",
+    "answer": "A",
+    "answer_explanation": "art. 132 \u00a7 3 k.p.a."
+  },
+  {
+    "question_number": "118",
+    "answer": "A",
+    "answer_explanation": "art. 143 k.p.a."
+  },
+  {
+    "question_number": "119",
+    "answer": "C",
+    "answer_explanation": "art. 172 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi (Dz. U. z 2012 r. poz. 270)"
+  },
+  {
+    "question_number": "120",
+    "answer": "C",
+    "answer_explanation": "art.  54  \u00a7  3  ustawy z  dnia  30 sierpnia  2002 o post\u0119powaniu przed s\u0105dami administracyjnymi (Dz. U. z 2012 r. poz. 270)"
+  },
+  {
+    "question_number": "121",
+    "answer": "A",
+    "answer_explanation": "art. 278 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi (Dz. U. z 2012 r. poz. 270)"
+  },
+  {
+    "question_number": "122",
+    "answer": "A",
+    "answer_explanation": "art.  157  \u00a7  1  ustawy  z  dnia  30 sierpnia  2002 r.  \u2013  Prawo  o post\u0119powaniu przed s\u0105dami administracyjnymi (Dz. U. z 2012 r. poz. 270)"
+  },
+  {
+    "question_number": "123",
+    "answer": "C",
+    "answer_explanation": "art.  5  pkt  5  ustawy z  dnia  30 sierpnia  2002 r.  \u2013  Prawo  o post\u0119powaniu przed s\u0105dami administracyjnymi (Dz. U. z 2012 r. poz. 270)"
+  },
+  {
+    "question_number": "124",
+    "answer": "A",
+    "answer_explanation": "art.  55  \u00a7  1  ustawy z  dnia  30 sierpnia  2002 r.  \u2013  Prawo  o post\u0119powaniu przed s\u0105dami administracyjnymi (Dz. U. z 2012 r. poz. 270)"
+  },
+  {
+    "question_number": "125",
+    "answer": "C",
+    "answer_explanation": "art. 15 ust. 2 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej \u2013 tekst uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem  z Lizbony (Dz. U. z 2004 r. Nr 90, poz. 864/30, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "126",
+    "answer": "B",
+    "answer_explanation": "art. 17 ust. 3 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej \u2013 tekst uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem  z Lizbony (Dz. U. z 2004 r. Nr 90, poz. 864/30, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "127",
+    "answer": "B",
+    "answer_explanation": "art. 234 Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu Unii Europejskiej \u2013 tekst uwzgl\u0119dniaj\u0105cy zmiany  wprowadzone Traktatem z Lizbony (Dz. U. z 2004 r. Nr 90, poz. 864/2, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "128",
+    "answer": "A",
+    "answer_explanation": "art. 228 ust. 1 Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu Unii  Europejskiej  \u2013  tekst  uwzgl\u0119dniaj\u0105cy  zmiany  wprowadzone Traktatem z Lizbony (Dz. U. z 2004 r. Nr 90, poz. 864/2, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "129",
+    "answer": "A",
+    "answer_explanation": "art. 90 ust. 2 Konstytucji Rzeczypospolitej Polskiej"
+  },
+  {
+    "question_number": "130",
+    "answer": "C",
+    "answer_explanation": "art. 101 ust. 1 Konstytucji Rzeczypospolitej Polskiej"
+  },
+  {
+    "question_number": "131",
+    "answer": "C",
+    "answer_explanation": "art. 137 Konstytucji Rzeczypospolitej Polskiej"
+  },
+  {
+    "question_number": "132",
+    "answer": "A",
+    "answer_explanation": "art. 199 ust. 2 Konstytucji Rzeczypospolitej Polskiej"
+  },
+  {
+    "question_number": "133",
+    "answer": "C",
+    "answer_explanation": "art. 205 ust. 1 Konstytucji Rzeczypospolitej Polskiej"
+  },
+  {
+    "question_number": "134",
+    "answer": "A",
+    "answer_explanation": "art. 214 ust. 1 Konstytucji Rzeczypospolitej Polskiej"
+  },
+  {
+    "question_number": "135",
+    "answer": "C",
+    "answer_explanation": "art. 216 ust. 4 i 5 Konstytucji Rzeczypospolitej Polskiej"
+  },
+  {
+    "question_number": "136",
+    "answer": "C",
+    "answer_explanation": "art. 221 Konstytucji Rzeczypospolitej Polskiej"
+  },
+  {
+    "question_number": "137",
+    "answer": "A",
+    "answer_explanation": "art.  15  ust.  1  ustawy  z  dnia  1  sierpnia  1997  r.  o  Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "138",
+    "answer": "B",
+    "answer_explanation": "art.  50  \u00a7  1  w  zw.  z  art.  49  \u00a7  1  ustawy  z  dnia  27  lipca  2001  r.  \u2013 Prawo o  ustroju  s\u0105d\u00f3w  powszechnych  (Dz.  U.  Nr  98,  poz.  1070,  z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "139",
+    "answer": "B",
+    "answer_explanation": "art.  41b  \u00a7  3  ustawy  z  dnia  27  lipca  2001  r.  \u2013  Prawo  o  ustroju s\u0105d\u00f3w powszechnych (Dz. U. Nr 98, poz. 1070, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "140",
+    "answer": "A",
+    "answer_explanation": "art. 65 \u00a7 2 ustawy z dnia 27 lipca 2001 r. \u2013 Prawo o ustroju s\u0105d\u00f3w powszechnych (Dz. U. Nr 98, poz. 1070, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "141",
+    "answer": "A",
+    "answer_explanation": "art. 23 \u00a7 1 ustawy z dnia 25 lipca 2002 r. - Prawo o ustroju s\u0105d\u00f3w administracyjnych (Dz. U. Nr 153, poz. 1269, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "142",
+    "answer": "B",
+    "answer_explanation": "art.  10ea  ust.  1  ustawy  z  dnia  20  czerwca  1985  r. o  prokuraturze (Dz. U. z 2011 r. Nr 270, poz. 1599, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "143",
+    "answer": "A",
+    "answer_explanation": "art.  61  \u00a7  2  ustawy  z  dnia  23 listopada  2002 r.  o  S\u0105dzie Najwy\u017cszym (Dz. U. Nr 240, poz. 2052, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "144",
+    "answer": "B",
+    "answer_explanation": "art.  28  ust.  7  ustawy  z  dnia  6  lipca  1982  r.  o  radcach  prawnych (Dz. U. z 2010 r. Nr 10, poz. 65, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "145",
+    "answer": "A",
+    "answer_explanation": "art.  29  pkt  3  ustawy  z  dnia  6  lipca  1982  r.  o  radcach  prawnych (Dz. U. z 2010 r. Nr 10, poz. 65, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "146",
+    "answer": "B",
+    "answer_explanation": "art. 35(1) ust. 1 i 2 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2010 r. Nr 10, poz. 65, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "147",
+    "answer": "A",
+    "answer_explanation": "art. 4c ust. 1 ustawy z dnia 26  maja 1982 r. -  Prawo  o adwokaturze (Dz. U. z 2009 r. Nr 146, poz. 1188, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "148",
+    "answer": "B",
+    "answer_explanation": "art.  37a  ustawy  z  dnia  26  maja  1982  r.  -  Prawo  o  adwokaturze (Dz. U. z 2009 r. Nr 146, poz. 1188, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "149",
+    "answer": "A",
+    "answer_explanation": "art. 48 ust. 3 ustawy z dnia 26  maja 1982 r. -  Prawo  o adwokaturze (Dz. U. z 2009 r. Nr 146, poz. 1188, z p\u00f3\u017an. zm.)"
+  },
+  {
+    "question_number": "150",
+    "answer": "A",
+    "answer_explanation": "art.  20  ust.  2  ustawy  z  dnia  15  lipca  1987  r.  o  Rzeczniku  Praw Obywatelskich (Dz. U. z 2001 r. Nr 14, poz.147, z p\u00f3\u017an. zm.)"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "question_number": "1",
+    "answer": "A",
+    "answer_explanation": "art. 10 ust. 2 Konstytucji RP"
+  },
+  {
+    "question_number": "2",
+    "answer": "C",
+    "answer_explanation": "art. 8 ust. 1 Konstytucji RP"
+  },
+  {
+    "question_number": "3",
+    "answer": "C",
+    "answer_explanation": "art. 23 Konstytucji RP"
+  },
+  {
+    "question_number": "4",
+    "answer": "B",
+    "answer_explanation": "art. 3 Konstytucji RP"
+  },
+  {
+    "question_number": "5",
+    "answer": "A",
+    "answer_explanation": "art. 55 ust. 5 Konstytucji RP"
+  },
+  {
+    "question_number": "6",
+    "answer": "C",
+    "answer_explanation": "art. 99 ust. 2 Konstytucji RP"
+  },
+  {
+    "question_number": "7",
+    "answer": "C",
+    "answer_explanation": "art. 94 Konstytucji RP"
+  },
+  {
+    "question_number": "8",
+    "answer": "A",
+    "answer_explanation": "art.103 ust. 1 Konstytucji RP"
+  },
+  {
+    "question_number": "9",
+    "answer": "C",
+    "answer_explanation": "art. 104 ust. 1 Konstytucji RP"
+  },
+  {
+    "question_number": "10",
+    "answer": "A",
+    "answer_explanation": "art. 114 ust.1 Konstytucji RP"
+  },
+  {
+    "question_number": "11",
+    "answer": "C",
+    "answer_explanation": "art. 142 ust. 1 Konstytucji RP"
+  },
+  {
+    "question_number": "12",
+    "answer": "A",
+    "answer_explanation": "art. 153 ust. 2 Konstytucji RP"
+  },
+  {
+    "question_number": "13",
+    "answer": "A",
+    "answer_explanation": "art. 171 ust. 2 Konstytucji RP"
+  },
+  {
+    "question_number": "14",
+    "answer": "C",
+    "answer_explanation": "art. 184 Konstytucji RP"
+  },
+  {
+    "question_number": "15",
+    "answer": "B",
+    "answer_explanation": "art. 189 Konstytucji RP"
+  },
+  {
+    "question_number": "16",
+    "answer": "B",
+    "answer_explanation": "art. 117 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "17",
+    "answer": "B",
+    "answer_explanation": "art. 23 k.c."
+  },
+  {
+    "question_number": "18",
+    "answer": "C",
+    "answer_explanation": "art. 54 k.c."
+  },
+  {
+    "question_number": "19",
+    "answer": "A",
+    "answer_explanation": "art. 64 k.c."
+  },
+  {
+    "question_number": "20",
+    "answer": "A",
+    "answer_explanation": "art. 88 \u00a7 2 k.c."
+  },
+  {
+    "question_number": "21",
+    "answer": "B",
+    "answer_explanation": "art. 99 \u00a7 2 k.c."
+  },
+  {
+    "question_number": "22",
+    "answer": "C",
+    "answer_explanation": "art. 220 k.c."
+  },
+  {
+    "question_number": "23",
+    "answer": "C",
+    "answer_explanation": "art. 251 k.c."
+  },
+  {
+    "question_number": "24",
+    "answer": "B",
+    "answer_explanation": "art. 361 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "25",
+    "answer": "B",
+    "answer_explanation": "art. 380 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "26",
+    "answer": "A",
+    "answer_explanation": "art. 396 k.c."
+  },
+  {
+    "question_number": "27",
+    "answer": "C",
+    "answer_explanation": "art. 387 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "28",
+    "answer": "B",
+    "answer_explanation": "art. 422 k.c."
+  },
+  {
+    "question_number": "29",
+    "answer": "B",
+    "answer_explanation": "art. 543 k.c."
+  },
+  {
+    "question_number": "30",
+    "answer": "C",
+    "answer_explanation": "art. 445 \u00a7 3 k.c."
+  },
+  {
+    "question_number": "31",
+    "answer": "C",
+    "answer_explanation": "art. 475 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "32",
+    "answer": "A",
+    "answer_explanation": "art. 455 k.c."
+  },
+  {
+    "question_number": "33",
+    "answer": "A",
+    "answer_explanation": "art. 467 pkt 3 k.c."
+  },
+  {
+    "question_number": "34",
+    "answer": "B",
+    "answer_explanation": "art. 499 zd. 2 k.c."
+  },
+  {
+    "question_number": "35",
+    "answer": "B",
+    "answer_explanation": "art. 927 \u00a7 2 k.c."
+  },
+  {
+    "question_number": "36",
+    "answer": "A",
+    "answer_explanation": "art. 1051 k.c."
+  },
+  {
+    "question_number": "37",
+    "answer": "C",
+    "answer_explanation": "art. 948 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "38",
+    "answer": "B",
+    "answer_explanation": "art. 1018 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "39",
+    "answer": "A",
+    "answer_explanation": "art. 1023 \u00a7 1 k.c."
+  },
+  {
+    "question_number": "40",
+    "answer": "C",
+    "answer_explanation": "art. 1048 k.c."
+  },
+  {
+    "question_number": "41",
+    "answer": "A",
+    "answer_explanation": "art. 39 k.p.c."
+  },
+  {
+    "question_number": "42",
+    "answer": "B",
+    "answer_explanation": "art. 84 k.p.c."
+  },
+  {
+    "question_number": "43",
+    "answer": "C",
+    "answer_explanation": "art. 96 k.p.c."
+  },
+  {
+    "question_number": "44",
+    "answer": "C",
+    "answer_explanation": "art. 101 k.p.c."
+  },
+  {
+    "question_number": "45",
+    "answer": "C",
+    "answer_explanation": "art. 133 \u00a7 3 zd. 2 k.p.c. w zw. z art. 133 \u00a7 2 k.p.c."
+  },
+  {
+    "question_number": "46",
+    "answer": "B",
+    "answer_explanation": "art. 171 k.p.c."
+  },
+  {
+    "question_number": "47",
+    "answer": "B",
+    "answer_explanation": "art. 181 pkt 2 k.p.c."
+  },
+  {
+    "question_number": "48",
+    "answer": "C",
+    "answer_explanation": "art. 189 k.p.c."
+  },
+  {
+    "question_number": "49",
+    "answer": "A",
+    "answer_explanation": "art. 192 pkt 1 k.p.c."
+  },
+  {
+    "question_number": "50",
+    "answer": "B",
+    "answer_explanation": "art. 203 \u00a7 2 k.p.c."
+  },
+  {
+    "question_number": "51",
+    "answer": "C",
+    "answer_explanation": "art. 213 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "52",
+    "answer": "C",
+    "answer_explanation": "art. 317 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "53",
+    "answer": "B",
+    "answer_explanation": "art. 333 \u00a7 1 pkt 2 k.p.c."
+  },
+  {
+    "question_number": "54",
+    "answer": "C",
+    "answer_explanation": "art. 346 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "55",
+    "answer": "B",
+    "answer_explanation": "art. 353(2) k.p.c."
+  },
+  {
+    "question_number": "56",
+    "answer": "C",
+    "answer_explanation": "art. 351 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "57",
+    "answer": "B",
+    "answer_explanation": "art. 394 \u00a7 1 pkt 1 k.p.c."
+  },
+  {
+    "question_number": "58",
+    "answer": "A",
+    "answer_explanation": "art. 245 k.p.c."
+  },
+  {
+    "question_number": "59",
+    "answer": "A",
+    "answer_explanation": "art. 366 k.p.c."
+  },
+  {
+    "question_number": "60",
+    "answer": "C",
+    "answer_explanation": "art. 370 k.p.c."
+  },
+  {
+    "question_number": "61",
+    "answer": "A",
+    "answer_explanation": "art. 385 k.p.c."
+  },
+  {
+    "question_number": "62",
+    "answer": "A",
+    "answer_explanation": "art. 379 pkt 1 k.p.c."
+  },
+  {
+    "question_number": "63",
+    "answer": "B",
+    "answer_explanation": "art. 395 \u00a7 2 k.p.c."
+  },
+  {
+    "question_number": "64",
+    "answer": "A",
+    "answer_explanation": "art. 400 k.p.c."
+  },
+  {
+    "question_number": "65",
+    "answer": "C",
+    "answer_explanation": "art. 87(1) k.p.c., art. 424(6)\u00a73 k.p.c."
+  },
+  {
+    "question_number": "66",
+    "answer": "B",
+    "answer_explanation": "art. 454(1) \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "67",
+    "answer": "A",
+    "answer_explanation": "art. 478 k.p.c."
+  },
+  {
+    "question_number": "68",
+    "answer": "B",
+    "answer_explanation": "art. 484(1) \u00a7 2 k.p.c."
+  },
+  {
+    "question_number": "69",
+    "answer": "A",
+    "answer_explanation": "art. 544 \u00a7 1 k.p.c., art. 13 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "70",
+    "answer": "C",
+    "answer_explanation": "art. 636 k.p.c."
+  },
+  {
+    "question_number": "71",
+    "answer": "A",
+    "answer_explanation": "art. 640 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "72",
+    "answer": "C",
+    "answer_explanation": "art. 667 \u00a7 2 k.p.c."
+  },
+  {
+    "question_number": "73",
+    "answer": "B",
+    "answer_explanation": "art. 519(1) \u00a7 4 pkt 1 k.p.c."
+  },
+  {
+    "question_number": "74",
+    "answer": "B",
+    "answer_explanation": "art. 567 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "75",
+    "answer": "A",
+    "answer_explanation": "art. 694(5 )\u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "76",
+    "answer": "A",
+    "answer_explanation": "art. 693(1) k.p.c."
+  },
+  {
+    "question_number": "77",
+    "answer": "C",
+    "answer_explanation": "art. 738 zd. 2 k.p.c."
+  },
+  {
+    "question_number": "78",
+    "answer": "B",
+    "answer_explanation": "art. 744 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "79",
+    "answer": "B",
+    "answer_explanation": "art. 767 \u00a7 4 k.p.c."
+  },
+  {
+    "question_number": "80",
+    "answer": "B",
+    "answer_explanation": "art. 770(1) k.p.c."
+  },
+  {
+    "question_number": "81",
+    "answer": "C",
+    "answer_explanation": "art. 810 k.p.c."
+  },
+  {
+    "question_number": "82",
+    "answer": "A",
+    "answer_explanation": "art. 847 \u00a7 1 zd. 1 k.p.c."
+  },
+  {
+    "question_number": "83",
+    "answer": "B",
+    "answer_explanation": "art. 914 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "84",
+    "answer": "B",
+    "answer_explanation": "art. 930 \u00a7 3 k.p.c."
+  },
+  {
+    "question_number": "85",
+    "answer": "A",
+    "answer_explanation": "art. 795 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "86",
+    "answer": "B",
+    "answer_explanation": "art. 818 \u00a7 1 k.p.c."
+  },
+  {
+    "question_number": "87",
+    "answer": "B",
+    "answer_explanation": "art. 146 ust. 1 ustawy z dnia 28 lutego 2003 r. - Prawo upad\u0142o\u015bciowe i naprawcze (Dz. U. Nr 60, poz. 535 ze zm.)"
+  },
+  {
+    "question_number": "88",
+    "answer": "B",
+    "answer_explanation": "art. 153 ustawy z dnia 28 lutego 2003 r. - Prawo upad\u0142o\u015bciowe i naprawcze (Dz. U. Nr 60, poz. 535 ze zm.)"
+  },
+  {
+    "question_number": "89",
+    "answer": "C",
+    "answer_explanation": "art. 2 ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze S\u0105dowym (Dz. U. z 2007 r. Nr 168, poz. 1186 ze zm.)"
+  },
+  {
+    "question_number": "90",
+    "answer": "C",
+    "answer_explanation": "art. 3 ustawy z dnia 2 lipca 2004 r. o swobodzie dzia\u0142alno\u015bci gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095 ze zm.)"
+  },
+  {
+    "question_number": "91",
+    "answer": "B",
+    "answer_explanation": "art. 86 ustawy z dnia 2 lipca 2004 r. o swobodzie dzia\u0142alno\u015bci gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095 ze zm.)"
+  },
+  {
+    "question_number": "92",
+    "answer": "C",
+    "answer_explanation": "art. 4 \u00a7 1 pkt 2 k.s.h."
+  },
+  {
+    "question_number": "93",
+    "answer": "B",
+    "answer_explanation": "art. 9 k.s.h."
+  },
+  {
+    "question_number": "94",
+    "answer": "A",
+    "answer_explanation": "art. 13 \u00a7 1 k.s.h."
+  },
+  {
+    "question_number": "95",
+    "answer": "A",
+    "answer_explanation": "art. 22 \u00a7 1 k.s.h."
+  },
+  {
+    "question_number": "96",
+    "answer": "C",
+    "answer_explanation": "art. 29 \u00a7 2 k.s.h."
+  },
+  {
+    "question_number": "97",
+    "answer": "A",
+    "answer_explanation": "art. 86 \u00a7 1 k.s.h."
+  },
+  {
+    "question_number": "98",
+    "answer": "C",
+    "answer_explanation": "art. 106 k.s.h."
+  },
+  {
+    "question_number": "99",
+    "answer": "C",
+    "answer_explanation": "art. 213 \u00a7 2 k.s.h."
+  },
+  {
+    "question_number": "100",
+    "answer": "C",
+    "answer_explanation": "art. 375(1) k.s.h."
+  },
+  {
+    "question_number": "101",
+    "answer": "A",
+    "answer_explanation": "art. 381 k.s.h."
+  },
+  {
+    "question_number": "102",
+    "answer": "B",
+    "answer_explanation": "art. 291 \u00a7 3 k.p."
+  },
+  {
+    "question_number": "103",
+    "answer": "B",
+    "answer_explanation": "art. 23(1) \u00a7 2 k.p."
+  },
+  {
+    "question_number": "104",
+    "answer": "C",
+    "answer_explanation": "art. 10 \u00a7 2 k.p."
+  },
+  {
+    "question_number": "105",
+    "answer": "C",
+    "answer_explanation": "art. 38 \u00a7 1 k.p."
+  },
+  {
+    "question_number": "106",
+    "answer": "A",
+    "answer_explanation": "art. 86 \u00a7 3 k.p."
+  },
+  {
+    "question_number": "107",
+    "answer": "B",
+    "answer_explanation": "art. 94(3) \u00a7 2 k.p."
+  },
+  {
+    "question_number": "108",
+    "answer": "C",
+    "answer_explanation": "art. 63(1) \u00a7 1 i 2 k.p."
+  },
+  {
+    "question_number": "109",
+    "answer": "C",
+    "answer_explanation": "art. 101(1) \u00a7 1 k.p."
+  },
+  {
+    "question_number": "110",
+    "answer": "B",
+    "answer_explanation": "art. 128 \u00a7 1 k.p."
+  },
+  {
+    "question_number": "111",
+    "answer": "B",
+    "answer_explanation": "art. 291 \u00a7 1 i 4 k.p."
+  },
+  {
+    "question_number": "112",
+    "answer": "A",
+    "answer_explanation": "art. 30 \u00a7 1 i 2 k.r.op."
+  },
+  {
+    "question_number": "113",
+    "answer": "A",
+    "answer_explanation": "art. 53 \u00a7 1 k.r.op."
+  },
+  {
+    "question_number": "114",
+    "answer": "C",
+    "answer_explanation": "art. 61(7) \u00a7 1 zd. 2 k.r.op."
+  },
+  {
+    "question_number": "115",
+    "answer": "B",
+    "answer_explanation": "art. 139 k.r.op."
+  },
+  {
+    "question_number": "116",
+    "answer": "A",
+    "answer_explanation": "art. 42 k.r.op."
+  },
+  {
+    "question_number": "117",
+    "answer": "C",
+    "answer_explanation": "art. 110 \u00a7 1 k.r.op."
+  },
+  {
+    "question_number": "118",
+    "answer": "C",
+    "answer_explanation": "art. 125 \u00a7 1 i art. 127 k.r.op."
+  },
+  {
+    "question_number": "119",
+    "answer": "B",
+    "answer_explanation": "art. 129 \u00a7 2 k.r.op."
+  },
+  {
+    "question_number": "120",
+    "answer": "B",
+    "answer_explanation": "art. 15 ustawy z dnia 5 czerwca 1998 r. o samorz\u0105dzie wojew\u00f3dztwa  (Dz.  U.  z  2001  r.  Nr  142,  poz.  1590  ze zm.)."
+  },
+  {
+    "question_number": "121",
+    "answer": "A",
+    "answer_explanation": "art.  2  ust.  2  ustawy z  dnia  5 czerwca  1998 r.   o  samorz\u0105dzie  powiatowym  (Dz.  U.  z  2001  r.  Nr  142, poz. 1592 ze zm.)."
+  },
+  {
+    "question_number": "122",
+    "answer": "A",
+    "answer_explanation": "art.  4  ust.  1  pkt  1  ustawy  z  dnia  8  marca  1990  r.   o samorz\u0105dzie gminnym  (Dz. U. z 2001 r. Nr 142, poz. 1591 ze zm.)."
+  },
+  {
+    "question_number": "123",
+    "answer": "B",
+    "answer_explanation": "art.  3  ust  1  pkt  1  ustawy  z  dnia  23  stycznia  2009  r.   o  wojewodzie  i  administracji  rz\u0105dowej  w  wojew\u00f3dztwie (Dz. U. Nr 31 poz. 206)"
+  },
+  {
+    "question_number": "124",
+    "answer": "B",
+    "answer_explanation": "art.  12  ust.  1  ustawy  z  dnia  21  maja  1999  r.  o  broni   i amunicji (Dz. U. 2004 r. Nr 52 poz. 525 ze zm.)"
+  },
+  {
+    "question_number": "125",
+    "answer": "C",
+    "answer_explanation": "art. 32 k.p.a."
+  },
+  {
+    "question_number": "126",
+    "answer": "B",
+    "answer_explanation": "art. 134 k.p.a."
+  },
+  {
+    "question_number": "127",
+    "answer": "C",
+    "answer_explanation": "art. 107 \u00a7 4 k.p.a."
+  },
+  {
+    "question_number": "128",
+    "answer": "A",
+    "answer_explanation": "art. 114 k.p.a."
+  },
+  {
+    "question_number": "129",
+    "answer": "A",
+    "answer_explanation": "art. 22 \u00a7 2 k.p.a."
+  },
+  {
+    "question_number": "130",
+    "answer": "B",
+    "answer_explanation": "art. 127 \u00a7 1 k.p.a."
+  },
+  {
+    "question_number": "131",
+    "answer": "B",
+    "answer_explanation": "art. 156 \u00a7 1 pkt 2 k.p.a."
+  },
+  {
+    "question_number": "132",
+    "answer": "B",
+    "answer_explanation": "art. 127 \u00a7 3 k.p.a."
+  },
+  {
+    "question_number": "133",
+    "answer": "A",
+    "answer_explanation": "art. 65 \u00a7 1 k.p.a., art. 66 \u00a7 3 i 4 k.p.a."
+  },
+  {
+    "question_number": "134",
+    "answer": "B",
+    "answer_explanation": "art. 145 \u00a7 1 pkt 2 k.p.a."
+  },
+  {
+    "question_number": "135",
+    "answer": "A",
+    "answer_explanation": "art.  4  ust  1  pkt  1  ustawy  z  dnia  30  czerwca  2005  r.   o  finansach  publicznych  (Dz.  U.  Nr  249  poz.  2104  ze zm.)"
+  },
+  {
+    "question_number": "136",
+    "answer": "B",
+    "answer_explanation": "art. 281 Traktatu z dnia 25  marca 1957 r. Ustanawiaj\u0105cego Wsp\u00f3lnot\u0119 Europejsk\u0105 (tekst skonsolidowany  uwzgl\u0119dniaj\u0105cy  zmiany  wprowadzone Traktatem z Aten)"
+  },
+  {
+    "question_number": "137",
+    "answer": "A",
+    "answer_explanation": "art. 203 Traktatu z dnia 25  marca 1957 r. Ustanawiaj\u0105cego Wsp\u00f3lnot\u0119 Europejsk\u0105 (tekst skonsolidowany  uwzgl\u0119dniaj\u0105cy  zmiany  wprowadzone Traktatem z Aten)"
+  },
+  {
+    "question_number": "138",
+    "answer": "A",
+    "answer_explanation": "art.  3  ustawy  z  dnia  12 listopada  1965 r.  Prawo prywatne  mi\u0119dzynarodowe  (Dz.  U.  nr  46,  poz.  290  ze zm.)"
+  },
+  {
+    "question_number": "139",
+    "answer": "B",
+    "answer_explanation": "art.  1  \u00a7  1  ustawy  z  dnia  27  lipca  2001  r.  \u2013  Prawo   o ustroju s\u0105d\u00f3w powszechnych (Dz. U. Nr 98, poz. 1070 ze zm.)"
+  },
+  {
+    "question_number": "140",
+    "answer": "C",
+    "answer_explanation": "art.  51a  ustawy  z  dnia  27 lipca  2001  r.  \u2013  Prawo   o ustroju s\u0105d\u00f3w powszechnych (Dz. U. Nr 98, poz. 1070 ze zm.)"
+  },
+  {
+    "question_number": "141",
+    "answer": "B",
+    "answer_explanation": "art.  110  \u00a7  1  pkt  1  ustawy  z  dnia  27  lipca  2001  r.  \u2013 Prawo  o  ustroju  s\u0105d\u00f3w  powszechnych  (Dz.  U.  Nr  98, poz. 1070 ze zm.)"
+  },
+  {
+    "question_number": "142",
+    "answer": "B",
+    "answer_explanation": "art.  3  \u00a7  1  pkt  1  ustawy  z  dnia  23  listopada  2002  r.   o S\u0105dzie Najwy\u017cszym (Dz. U. Nr 204 poz. 2052 ze zm.)"
+  },
+  {
+    "question_number": "143",
+    "answer": "A",
+    "answer_explanation": "art.  3  ust.  1  ustawy  z  dnia  29  sierpnia  1997 r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+  },
+  {
+    "question_number": "144",
+    "answer": "B",
+    "answer_explanation": "art.  14  ust.  4  ustawy  z  dnia  29  sierpnia  1997  r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+  },
+  {
+    "question_number": "145",
+    "answer": "C",
+    "answer_explanation": "art.  29  ust.  2  ustawy  z  dnia  29  sierpnia  1997  r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+  },
+  {
+    "question_number": "146",
+    "answer": "B",
+    "answer_explanation": "art.  24  ust.  1  ustawy  z  dnia  29  sierpnia  1997  r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+  },
+  {
+    "question_number": "147",
+    "answer": "A",
+    "answer_explanation": "art.  29  ust.  9  ustawy  z  dnia  29  sierpnia  1997  r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+  },
+  {
+    "question_number": "148",
+    "answer": "B",
+    "answer_explanation": "art.72  ust.  1  ustawy z  dnia  29  sierpnia  1997 r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+  },
+  {
+    "question_number": "149",
+    "answer": "C",
+    "answer_explanation": "art.  86  ust.  3  ustawy  z  dnia  29  sierpnia  1997  r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+  },
+  {
+    "question_number": "150",
+    "answer": "A",
+    "answer_explanation": "art.  87  pkt  3  ustawy  z  dnia  29  sierpnia  1997  r.   o  komornikach  s\u0105dowych  i  egzekucji  (Dz.  U.  z  2006  r. Nr 167 poz. 1191 ze zm.)"
+  }
+]
